@@ -68,7 +68,7 @@ Sector-by-sector analysis indicates that Altman Z-score is a reliable proxy for 
 ## Links
 
 - **Dashboard:** [https://blooming-river-80042-cd6fb12eaf4d.herokuapp.com/](https://blooming-river-80042-cd6fb12eaf4d.herokuapp.com/)
-- **Dataset:** [Google Drive](https://drive.google.com/file/d/1Fi_oKpR0H8hzhqo55DM6Yho5ujmG2GXk/view?usp=sharing)
+- **Final Dataset as a CSV:** [Google Drive](https://drive.google.com/file/d/1Fi_oKpR0H8hzhqo55DM6Yho5ujmG2GXk/view?usp=sharing)
 
 ## References
 

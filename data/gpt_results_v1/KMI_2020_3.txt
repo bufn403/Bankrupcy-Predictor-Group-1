@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion seems cautiously optimistic. While there are mentions of challenges due to the COVID-19 pandemic and its impacts on the company's business, there is also an emphasis on taking measures to protect employees and maintain essential services. For example, "We continue to operate our assets safely and efficiently during this challenging period."
+
+Step 2: There are significant negative impacts reflected in the financial figures provided in the discussion. The company reported impairments totaling $1,950 million for long-lived assets and goodwill in various business segments due to reduced demand and commodity prices. Additionally, they mentioned that their DCF and Adjusted EBITDA for 2020 are expected to be below plan by slightly more than 10% and 8%, respectively.
+
+Step 3: The financial results for the quarter show a decrease in income before taxes compared to the previous year. The decrease was attributed to various factors such as lower earnings from business segments due to COVID-19 impacts and the effect of previous asset sales. The company also highlighted that reduced energy demand and commodity price impacts significantly affected their business segments.
+
+Based on the cautious optimism in the discussion, the negative impacts on financial figures, and the decreases in income due to various challenges, the company is classified as having a medium risk of bankruptcy. The impaired assets, lower-than-expected financial metrics, and ongoing uncertainties due to the pandemic contribute to this classification.

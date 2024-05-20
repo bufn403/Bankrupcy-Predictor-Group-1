@@ -1,0 +1,11 @@
+high
+
+Step 1: The overall sentiment of the management's discussion is pessimistic. The company outlines the adverse impact of the COVID-19 pandemic on its operations, with statements such as, "The reduction in travel has resulted in complete and partial suspensions of hotel operations in many of the locations, where our hotels are located," and "we expect [the pandemic] to continue to have a material adverse impact on our results." These statements reflect a challenging and uncertain operating environment.
+
+Step 2: Relevant numbers and figures provided include the significant declines in Revenue per Available Room (RevPAR) for the three and nine months ended September 30, 2020, with decreases in both occupancy and Average Daily Rate (ADR) across regions due to the pandemic. For example, "RevPAR decreased 55.1 percent at our comparable franchised properties and 72.0 percent at our comparable managed properties" for the three months ended September 30, 2020. These figures indicate a sharp decline in revenue generation.
+
+Step 3: The numbers and figures suggest a failed quarter due to the impact of the COVID-19 pandemic. Despite some recovery in occupancy levels, the significant decreases in RevPAR and revenue across regions highlight the ongoing challenges faced by the company. The mention of suspended hotel operations and reduced revenues further solidifies the notion of a struggling period. Furthermore, the company discusses actions taken to reduce costs, including workforce reductions and salary reductions, indicating financial strain.
+
+Based on the pessimistic sentiment, significant declines in key financial metrics, and the challenging operating environment with uncertainties around the pandemic's future impact, the company is classified as having a high risk of bankruptcy.
+
+Therefore, the final decision is "high risk of bankruptcy."

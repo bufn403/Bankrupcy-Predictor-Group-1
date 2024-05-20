@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is cautious and slightly pessimistic due to the impact of the COVID-19 pandemic on the company's financial results. For example, "The COVID-19 pandemic has continued to have a widespread and unprecedented impact on a global scale... The impact of COVID-19 continues to evolve rapidly. Its future effects are uncertain."
+
+Step 2: The company has reported adverse impacts on financial results, such as a decrease in sales volume, credit card loan growth, and an increase in the estimate of credit losses. This is evident in the statement, "During the first three quarters of the year, the pandemic has adversely impacted our financial results..."
+
+Step 3: The company mentioned implementing cost reductions, tightening lending standards, and increasing the allowance for credit losses due to the economic environment and uncertainties caused by the pandemic. This indicates a challenging quarter with potential future difficulties. As stated, "while balancing safety and soundness requirements..."
+
+Step 4: Considering the cautious sentiment, adverse financial impacts, and uncertainty moving forward, the company demonstrates medium risk of bankruptcy. The adverse effects of the pandemic on financial results, cost reductions, and increased credit loss provisions suggest challenges that may persist. The company's response to the economic environment reflects a level of risk that is not at a critical level but still needs attention.

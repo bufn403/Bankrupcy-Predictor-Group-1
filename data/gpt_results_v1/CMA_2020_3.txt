@@ -1,0 +1,11 @@
+High
+
+Step 1: The overall sentiment in the management's discussion appears cautiously optimistic. While the discussion acknowledges challenges such as the impact of the COVID-19 pandemic and lower interest rates, it also outlines future expectations for gradual improvement in economic conditions. The language used in the forward-looking statements suggests a sense of hope, with phrases like "management expectations for gradual improvement" and "maintain strong capital levels" indicating positivity despite current difficulties.
+
+Step 2: Relevant numbers and figures provided in the discussion include a decrease in net income for both the three and nine months ended September 30, 2020 compared to the same periods in 2019. This decrease in net income is attributed to various factors including the impact of lower interest rates and an increase in the provision for credit losses, notably due to the forecasted impact of the COVID-19 pandemic and pressures on specific portfolios like the Energy portfolio. The decrease in net interest income and net interest margin further indicate financial strain.
+
+Step 3: The figures presented in the filing, such as the decrease in net income and net interest income, signal a challenging quarter and year for the company. The increase in provisions for credit losses, driven by forecasted impacts of the pandemic, raises concerns about future loan performance. While the filing mentions expectations for some forgiveness of PPP loans, the uncertainty surrounding the current environment may hinder the company's ability to recover strongly in the near term.
+
+Step 4: Considering the cautiously optimistic sentiment, the decrease in net income, the impact of lower interest rates, and the increase in provisions for credit losses due to the pandemic, it is reasonable to conclude that the company faces a high risk of bankruptcy. The challenging financial performance and uncertainties regarding economic recovery and loan quality point towards a precarious situation that may lead to financial distress.
+
+In conclusion, based on the provided 10-Q filing, the company is classified as having a high risk of bankruptcy.

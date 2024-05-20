@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. While the company talks about being a global leader in innovative solutions and poised for growth in the EAI industry, they also acknowledge challenges such as the impact of COVID-19 on their operations and the global economy.
+
+Step 2: Relevant numbers and figures provided in the discussion indicate a mixture of positive and negative trends. For example, net sales have both increased slightly and decreased, with growth in North America offset by declines in other regions. Gross margin has decreased, operating expenses have trended favorably due to cost-cutting measures, and operating income has decreased due to lower sales despite benefits from reduced expenses.
+
+Step 3: The company has made acquisitions to enhance its solutions but incurred costs related to these acquisitions. They have also taken actions such as diversifying product sourcing and implementing cost reduction measures to mitigate challenges like Chinese tariffs and the impact of COVID-19 on customer demand. While they anticipate completing these initiatives, there are ongoing financial impacts mentioned in the filing.
+
+Based on the cautiously optimistic sentiment, the mix of positive and negative financial figures, and the proactive measures taken to address challenges, the company is deemed to have a medium risk of bankruptcy. The careful financial management and strategic initiatives suggest that while there are challenges, the company is actively working to navigate them and maintain resilience.

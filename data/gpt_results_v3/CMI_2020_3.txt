@@ -1,0 +1,13 @@
+Final Decision: Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautious and acknowledges the challenging market conditions due to the global pandemic. They mention, "The pandemic triggered a significant downturn in our markets globally...and these challenging market conditions could continue for an extended period of time." This indicates a pessimistic outlook.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0717 suggests that the company has a lower proportion of working capital to its total assets, indicating potential liquidity challenges.
+- Retained Earnings to Total Assets (X2): 0.5577 shows a relatively high level of retained earnings to total assets, which is a positive sign for financial stability.
+- EBIT to Total Assets (X3): 0.0625 indicates the company's earnings before interest and taxes in relation to total assets, which is relatively low.
+- Total Revenue to Total Assets (X5): 1.0644 suggests that the company generates revenue in proportion to its total assets, which is a positive sign but needs to be viewed in conjunction with other ratios.
+
+Step 3: The cautious sentiment expressed in the management discussion, along with the lower EBIT to Total Assets ratio, signifies challenges in generating earnings in relation to assets. The mix of positive and negative financial ratios indicates a mixed performance in the quarter. The decrease in net income and earnings per diluted share, as well as the decrease in gross margin as a percentage of sales, also point towards some financial pressures.
+
+Step 4: The combination of the cautious sentiment, lower EBIT to Total Assets ratio, and mixed financial performance suggests a medium risk of bankruptcy. While the company has some positive aspects such as high Retained Earnings to Total Assets ratio, the overall outlook based on the text and financial ratios indicates a level of uncertainty and potential financial strain.

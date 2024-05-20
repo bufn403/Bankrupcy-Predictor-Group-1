@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. While acknowledging challenges like the COVID-19 pandemic and its impact on global demand for crude oil, the company emphasizes its strategy to enhance cash flow and earnings from production, maintaining a strong balance sheet, and adjusting production levels to maximize shareholder value.
+
+Step 2: Relevant numbers and figures indicate a decrease in operating revenues and wellhead revenues, reflecting a challenging quarter. For example, in the third quarter of 2020, operating revenues decreased by 48% compared to the same period in 2019.
+
+Step 3: The company adjusted its 2020 capital and operating plan to reduce activity, decrease capital expenditures, and lower crude oil production compared to the previous year due to the challenging market conditions. However, EOG is focusing on drilling operations in high-rate-of-return plays to support long-term value.
+
+Step 4: Considering the cautiously optimistic sentiment, the decrease in revenues, and the adjustments made to cope with the current market conditions, the company is classified as having a medium risk of bankruptcy. While EOG is taking measures to navigate the challenges, the significant decrease in revenues and production levels indicate a period of financial strain and uncertainty that warrants caution.
+
+In conclusion, EOG Resources, Inc. is classified as having a medium risk of bankruptcy based on the analysis of the management discussion section in their 10-Q filing.

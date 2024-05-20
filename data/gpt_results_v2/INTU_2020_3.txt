@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be both optimistic and cautious. They highlight the impacts of the COVID-19 pandemic on operations but also discuss the company's strategy for growth and innovation.
+Quote: "While we have not experienced significant disruptions to our operations thus far from the COVID-19 pandemic, we are unable to predict the full impact that the COVID-19 pandemic will have on our operations and future financial performance..."
+
+Step 2: The company experienced growth in revenue for the first quarter of fiscal 2021, with increases in both Small Business & Self-Employed segment revenue and Consumer segment revenue. This could indicate positive performance.
+Quote: "Total net revenue for the first quarter of fiscal 2021 increased $158 million or 14% compared with the same quarter of fiscal 2020."
+
+Step 3: Despite the revenue growth, the segment operating income for the Consumer segment typically generates losses in the first quarter due to the seasonality of their offerings. This implies that the company may not be profitable in all quarters.
+Quote: "In our first fiscal quarter, our Consumer segment typically generates operating losses because revenue is nominal while we continue to incur operating expenses..."
+
+Final Decision: The company appears to be performing moderately well with revenue growth, but the seasonal nature of their offerings and the cautious sentiment regarding the COVID-19 pandemic suggest a medium risk of bankruptcy. The company may need to carefully manage expenses and monitor the ongoing impacts of external factors on their operations.

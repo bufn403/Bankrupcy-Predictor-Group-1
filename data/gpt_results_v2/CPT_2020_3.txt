@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be cautiously pessimistic. The discussion mentions the adverse effects of the ongoing COVID-19 pandemic on the company's business, results, and operations. For example, "The COVID-19 Related Impact was approximately $0.4 million and $13.6 million for the three and nine months ended September 30, 2020, respectively." This shows a negative impact on the company's financials.
+
+Step 2: Numbers and figures provided include a decrease in net income attributable to common shareholders of approximately $8.6 million and $29.9 million for the three and nine months ended September 30, 2020, compared to the same periods in 2019. Additionally, there were higher expenses related to COVID-19, bonuses paid to employees, and other pandemic-related costs.
+
+Step 3: The company's results for the three and nine months ended September 30, 2020, reflect challenges in the multifamily industry due to COVID-19. The discussion mentions factors like weak consumer confidence, high unemployment, and fears of a prolonged recession affecting the company's operations. It also indicates a potential decline in property revenues for the remainder of fiscal year 2020.
+
+Step 4: Considering the cautious pessimism in the management's discussion, the decrease in net income, and the challenges faced by the company due to COVID-19, the medium risk of bankruptcy is justified. While the company is taking actions to address liquidity requirements and maintain financial flexibility, the uncertainties surrounding the pandemic's impacts and the company's financial performance indicate a moderate level of bankruptcy risk.

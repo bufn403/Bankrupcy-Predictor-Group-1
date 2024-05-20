@@ -1,0 +1,13 @@
+High Risk
+
+Step 1: The sentiment in the management discussion leans towards a mix of optimism and caution. While they highlight positive aspects such as continued service delivery during the pandemic and customer growth, they also acknowledge challenges related to COVID-19 impacts on revenue and uncertainties in the future. This mixed sentiment indicates a cautious approach to the company's current situation.
+
+Step 2: 
+- Working Capital to Total Assets (X1): Negative value (-0.0617) indicates potential liquidity issues.
+- Retained Earnings to Total Assets (X2): Negative value (-0.0833) suggests strained financial performance in retaining earnings.
+- EBIT to Total Assets (X3): Positive value (0.0818) reflects a low profitability margin.
+- Total Revenue to Total Assets (X5): Moderate value (0.3709) shows decent revenue generation relative to assets.
+
+Step 3: The financial ratios reveal concerning aspects such as negative working capital and retained earnings to total assets ratios, indicating potential financial strain. Additionally, the positive EBIT to total assets ratio is relatively low, suggesting room for improvement in profitability. While the total revenue to total assets ratio is moderate, it may not be enough to offset the liquidity and earnings challenges observed in the other ratios.
+
+Step 4: The overall assessment based on the sentiment analysis and financial ratios indicates a high risk of bankruptcy. The negative working capital, retained earnings, and relatively low profitability ratios point towards financial instability. The cautious tone in the management discussion further supports the concern about the company's future financial health.

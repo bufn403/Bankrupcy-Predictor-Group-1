@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The sentiment in the management discussion appears cautiously optimistic. The company acknowledges challenges like higher costs of goods sold related to freight and logistics due to the pandemic but also highlights strong customer demand and a belief in sustainable growth in the semiconductor industry.
+
+Step 2: The company's revenue increased 9% in the December 2020 quarter compared to the previous quarter, driven by investments from memory customers. However, there was a decrease in gross margin percentage due to customer and product mix, indicating some challenges in profitability.
+
+Step 3: Despite the revenue growth, the decrease in gross margin percentage raises concerns about the company's ability to maintain profitability. While the company continues to invest significantly in R&D, the increase in expenses, particularly in employee-related costs, may impact the bottom line.
+
+Final Decision: The company is classified as having a medium risk of bankruptcy. While there are positive aspects like revenue growth and customer demand, the challenges in maintaining gross margin percentage and increasing expenses could potentially lead to financial difficulties in the future. Continued monitoring of profitability and cost management is advised to mitigate the risk of bankruptcy.

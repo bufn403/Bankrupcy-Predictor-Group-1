@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic regarding the impact of the COVID-19 pandemic on the company's operations and financial condition. They acknowledge the challenges posed by the pandemic but highlight strategies to mitigate risks. For example, "The COVID-19 pandemic has not had a material adverse impact on our business, financial condition, or results of operations to date..." This indicates a level of uncertainty and risk awareness.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The value is relatively low at 0.1078, indicating a lower ability to cover short-term obligations with current assets. This may suggest liquidity challenges.
+- Retained Earnings to Total Assets (X2): The ratio is 0.0243, which is a relatively low indicator of earnings retention in relation to total assets.
+- EBIT to Total Assets (X3): The value is negative at -0.0145, implying that earnings before interest and taxes are not covering total assets. This can be a concerning sign of profitability.
+- Total Revenue to Total Assets (X5): With a value of 0.3956, this ratio indicates a moderate level of revenue generated in relation to total assets.
+
+Step 3: Combining the sentiment of cautious optimism from the management's discussion with the financial ratios, the company appears to be facing challenges despite maintaining operations during the pandemic. The lower working capital, retained earnings, and negative EBIT to Total Assets ratio suggest possible financial strain and limited profitability. While the Total Revenue to Total Assets ratio shows decent revenue generation, the other ratios paint a more concerning picture of financial stability.
+
+Step 4: Considering the cautious but optimistic tone of the management's discussion, along with the financial ratios indicating challenges in liquidity, profitability, and retained earnings, the company falls into the category of medium risk of bankruptcy. The mixed signals in financial performance and the uncertainties mentioned in the text suggest a need for caution regarding the company's future financial health.

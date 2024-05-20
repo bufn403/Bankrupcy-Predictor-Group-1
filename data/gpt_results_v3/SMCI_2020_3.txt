@@ -1,0 +1,13 @@
+Decision: Low
+
+Step 1: The sentiment of the management's discussion is mostly optimistic. They mention being profitable every year since inception, developing new products rapidly, actively managing the supply chain, and expanding globally. They also address challenges posed by the COVID-19 pandemic proactively.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.4911 indicates a healthy level of working capital in relation to total assets, which signifies the company's ability to cover its short-term liabilities.
+- Retained Earnings to Total Assets (X2): 0.3899 shows that a significant portion of the company's assets are financed through retained earnings, indicating financial stability.
+- EBIT to Total Assets (X3): 0.2081 demonstrates a strong EBIT margin in relation to total assets, reflecting operational efficiency.
+- Total Revenue to Total Assets (X5): 1.9385 indicates that the company generates almost 2 times its total assets in revenue, showing strong asset utilization efficiency.
+
+Step 3: The combination of a positive sentiment in the management discussion, along with healthy financial ratios, suggests that the company is currently on stable financial footing. The decrease in net sales is partly attributed to external factors like the impact of COVID-19, which the company has actively managed. Despite this, the company's financial ratios show strength in terms of working capital, retained earnings, EBIT margin, and revenue generation efficiency.
+
+Step 4: Considering the optimistic tone of the management, along with the strong financial ratios, and proactive measures in response to challenges, the company is classified as having a low risk of bankruptcy in the future. The financial stability, profitability track record, and operational efficiency indicated by the ratios support this classification.

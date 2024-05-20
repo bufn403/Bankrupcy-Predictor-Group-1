@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is a mix of challenges and opportunities. While the company provides a detailed discussion of its business operations and the impacts of COVID-19, including delays in government procurement processes and client implementations, there is also mention of positive aspects such as revenue growth in certain segments. However, the mention of risks related to cybersecurity incidents and the overall uncertainty due to the pandemic may indicate some level of caution. Furthermore, the absence of positive headlines could also contribute to a neutral sentiment.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of -0.030 implies that the company may have more liabilities than assets in the short term, indicating a strained liquidity position.
+- Retained Earnings to Total Assets (X2): With a value of 0.3429, the ratio indicates that a significant portion of the company's total assets is tied up in retained earnings, which can be a positive sign of stability.
+- EBIT to Total Assets (X3): The ratio of 0.0474 suggests that the company is generating a modest return on its total assets.
+- Total Revenue to Total Assets (X5): A value of 0.4173 indicates that the company is efficiently utilizing its total assets to generate revenue.
+
+Step 3: Taking into account the sentiment of the management discussion that highlights challenges such as delays in implementations and revenue impacts due to COVID-19, along with the financial ratios, it appears that the company is facing some operational hurdles but is still managing to generate revenue efficiently. The negative working capital to total assets ratio raises some concerns about short-term liquidity.
+
+Step 4: Based on the analysis of the sentiment, financial ratios, and overall outlook, the company is classified as having a medium risk of bankruptcy. While there are signs of stability such as revenue generation efficiency, the negative working capital ratio and the challenges highlighted in the management discussion indicate potential risks. It is important for the company to address its liquidity position and navigate through the uncertainties posed by external factors.

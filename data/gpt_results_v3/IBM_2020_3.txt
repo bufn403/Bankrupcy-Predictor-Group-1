@@ -1,0 +1,20 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion leans towards optimism. The company is redefining its future as a hybrid cloud platform and AI company, with a focus on creating industry-leading companies and driving client and shareholder value. Additionally, the company highlights its strong balance sheet, liquidity position, and commitment to providing value to shareholders. This positive outlook is evident in statements such as "IBM is well positioned to support our clients through this crisis" and "IBM expects to drive sustainable mid-single digit revenue growth."
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.0089765677568193
+   This negative value for working capital to total assets indicates that the company's short-term assets may not be sufficient to cover its short-term liabilities, which could raise concerns about liquidity.
+  
+- Retained Earnings to Total Assets (X2): 1.11856611530527
+   A high value for retained earnings to total assets suggests that the company has a strong proportion of earnings reinvested in the business relative to its total assets, indicating financial stability and a buffer against potential losses.
+  
+- EBIT to Total Assets (X3): 0.0761381533706494
+   The return on assets (EBIT to Total Assets) at 0.076 indicates that the company is generating a positive return on its assets, which is a good sign for profitability.
+  
+- Total Revenue to Total Assets (X5): 0.4574056683993759
+   The ratio of total revenue to total assets being 0.457 highlights that the company is efficiently utilizing its assets to generate revenue, implying good asset productivity.
+
+Step 3: When combining the sentiment analysis with the financial ratios, we see a somewhat balanced picture. While the sentiment in the management discussion is optimistic, indicating a proactive approach to challenges, the financial ratios show a mix of strengths and areas of concern. The positive indicators such as high Retained Earnings to Total Assets and a decent Return on Assets are counterbalanced by the negative Working Capital to Total Assets value, suggesting potential liquidity issues. The revenue to assets ratio also reflects efficient asset utilization.
+
+Step 4: Considering the overall assessment, the company is classified as having a medium risk of bankruptcy. The positive outlook and strong financial ratios in certain aspects provide a buffer against financial distress, but the negative working capital to assets ratio raises concerns about short-term liquidity. The company's emphasis on innovation, clients, and shareholder value suggests resilience in navigating potential challenges, but attention to managing liquidity effectively may be crucial in mitigating bankruptcy risks.

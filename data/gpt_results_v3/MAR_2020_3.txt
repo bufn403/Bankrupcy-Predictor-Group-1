@@ -1,0 +1,20 @@
+Final Decision: Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is cautious and acknowledges the significant impact of COVID-19 on the company's operations and financial results. While there is a mention of improving trends in occupancy and RevPAR, there is also an acknowledgment that the pace of recovery has plateaued, and recent increases in COVID-19 cases could continue to impact demand. This indicates a level of uncertainty and challenges ahead.
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.1733660512580821 (Negative)
+This ratio indicates that the company may have more liabilities than assets to cover short-term obligations, which could be a sign of financial stress.
+
+- Retained Earnings to Total Assets (X2): 0.5779387707408273
+A positive value for this ratio indicates that the company has retained earnings as a proportion of total assets, which is generally favorable for long-term financial health.
+
+- EBIT to Total Assets (X3): 0.1535794967671574
+This ratio shows the company's ability to generate earnings from its assets. A positive value indicates some profitability, but a relatively low value could suggest efficiency issues.
+
+- Total Revenue to Total Assets (X5): 0.9236192256757808
+This ratio indicates a high level of revenue generation relative to total assets, which could be a positive sign of asset utilization and revenue efficiency.
+
+Step 3: The cautious tone in the management discussion, combined with a negative working capital ratio and a relatively low EBIT to Total Assets ratio, suggests that the company may be facing financial challenges. The impact of COVID-19 on the company's operations, as highlighted in the text, also adds to the overall risk assessment. Despite a high Total Revenue to Total Assets ratio, indicating efficient revenue generation, the negative working capital and cautious outlook contribute to a medium risk classification.
+
+Step 4: Medium

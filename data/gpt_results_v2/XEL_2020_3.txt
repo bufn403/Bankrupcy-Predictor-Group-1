@@ -1,0 +1,11 @@
+Decision: Medium Risk
+
+Step 1: The overall sentiment of the management's discussion seems cautious and realistic. They acknowledge the negative impact of the pandemic on their operations and sales.
+
+Step 2: Looking at the financial figures provided, there is an increase in earnings for Xcel Energy, NSP-Minnesota, PSCo, SPS, and NSP-Wisconsin. However, the increases are primarily attributed to higher electric margins offsetting declines in sales due to COVID-19.
+
+Step 3: The detailed breakdown of changes in earnings shows that while there are some positive aspects like regulatory outcomes offsetting lower sales, there are also negatives such as increased depreciation and lower natural gas margins.
+
+Therefore, based on the cautious sentiment, the mixed impact of COVID-19 on sales and earnings, and the need for regulatory approvals for rate changes, the company is classified as having a Medium Risk of bankruptcy in the future. 
+
+This decision is supported by the acknowledgment that the pandemic negatively impacted all companies and that earnings were driven by certain regulatory outcomes that may not be sustainable in the long term.

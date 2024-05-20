@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment in the management discussion is mixed, leaning towards a pessimistic outlook due to the impact of the global recession and COVID-19 on the company's operations. For example, the filing states, "The global recession resulted in a slow-down in demand for many of the products and services that we offer," indicating a challenging business environment.
+
+Step 2: Relevant numbers and figures provided show a decline in sales and profits for various segments of the company. For instance, it is mentioned that "As a result, this segment's sales and profits declined in the three months ended September 30, 2020, compared to the three months ended September 30, 2019," highlighting a negative trend in financial performance.
+
+Step 3: The conditions are likely to worsen as the filing discusses cost reduction programs, canceled merit increases, and reduced work schedules across the company to cope with the slowdown in demand. Additionally, the filing mentions, "Customer or supplier bankruptcies, delays in their ability to obtain financing...could adversely affect our cash flow or results of operations," indicating potential financial instability.
+
+Step 4: Considering the overall pessimistic sentiment, declining sales and profits, cost reduction measures, and the uncertainty posed by customer or supplier bankruptcies, the company is classified as having a medium risk of bankruptcy. The company is facing challenges due to the global recession and COVID-19 impact, which may lead to further financial strain and increased risk in the future.

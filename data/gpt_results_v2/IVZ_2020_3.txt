@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. While there are mentions of market volatility and uncertainties due to events like Brexit and the COVID-19 pandemic, there are also positive notes about market recovery and increased AUM.
+
+Step 2: Relevant numbers and figures in the discussion include the increase in AUM to more than $1.2 trillion, net long-term inflows of $7.8 billion, and the decline in net revenue yield due to shifts in AUM mix towards lower-fee products.
+
+Step 3: The company experienced market gains during the third quarter, which increased AUM and revenues. However, the shift in AUM mix towards lower-fee products is a concern as it impacted the net revenue yield.
+
+Step 4: Taking into account the cautiously optimistic sentiment, the increase in AUM and revenues, and the shift towards lower-fee products affecting net revenue yield, the company is classified as having a medium risk of bankruptcy. While there are positive aspects like market recovery and increased AUM, the decline in net revenue yield and uncertainties in the market indicate a level of risk that is not high but still significant enough to be classified as medium risk.

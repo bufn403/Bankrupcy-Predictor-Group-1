@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautious due to the impact of the COVID-19 pandemic on the company's operations. They are uncertain about the future impact and are prepared for potential challenges.  
+Quote: "As a result, it is not currently possible to ascertain or predict the overall long-term impact of the COVID-19 Pandemic on our business."  
+
+Step 2: The company mentions a decrease in new patient starts for their JAKAFI treatment, and potential adverse effects on revenues due to protective measures impacting their clinical trial programs. These factors indicate some operational challenges.  
+Quote: "New patient starts for JAKAFI treatment decreased as a result of shelter in place and other protective measures, and if decreases in new patient starts occur in future periods, our revenues in future periods could be adversely affected."
+
+Step 3: The discussion acknowledges ongoing challenges in monitoring patients and conducting clinical trials due to governmental measures and uncertainties related to the duration and severity of the COVID-19 pandemic. This indicates a current state of operational difficulty that might persist.  
+Quote: "Still, we caution that the duration and severity of the continuing COVID-19 Pandemic remains uncertain and we may not yet be able to assess its consequences accurately or fully at this time."
+
+Based on the cautious sentiment, the impact of the pandemic on operations, decreased new patient starts, and ongoing challenges in clinical trials, the company appears to have medium risk of bankruptcy.

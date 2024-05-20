@@ -1,0 +1,13 @@
+Decision: Medium risk
+
+Step 1: The overall sentiment of the management's discussion appears to be cautiously optimistic. While acknowledging the challenges posed by the COVID-19 pandemic, the company highlights its strong financial performance and resilience. For example, the company states, "Our financial performance for each of the last five quarters is summarized in Figure 1...Our expenses this quarter reflected higher variable costs...as well as elevated pandemic-related costs...Our strong balance sheet, liquidity, and capital positions us to weather adverse economic scenarios." This indicates a level of confidence in their ability to navigate the current challenges.
+
+Step 2: 
+- Working Capital to Total Assets (X1): A working capital ratio of 0.0 is concerning as it indicates that the company may have little to no buffer to cover its short-term liabilities.
+- Retained Earnings to Total Assets (X2): A proportion of retained earnings to total assets of 0.0832 suggests that the company has some earnings that have been reinvested, which is a positive sign for long-term stability.
+- EBIT to Total Assets (X3): An EBIT to total assets ratio of 0.0 indicates that the company is not generating earnings from its total assets, which could impact profitability.
+- Total Revenue to Total Assets (X5): The total revenue to total assets ratio of 0.0330 indicates that the company is generating a modest level of revenue from its assets.
+
+Step 3: Combining the sentiment of the management's discussion with the financial ratios, it appears that while the company is optimistic about its resilience and performance, the financial ratios show mixed results. The low working capital ratio and lack of earnings from assets could be potential areas of concern. However, the proportion of retained earnings and modest revenue generation indicate some level of stability.
+
+Step 4: Overall, based on the cautious optimism in the management's discussion, the mixed financial ratios, and the challenging economic environment due to the pandemic, the company is classified as having a medium risk of bankruptcy. The company shows signs of resilience, but certain financial indicators raise concerns about its short-term liquidity and profitability.

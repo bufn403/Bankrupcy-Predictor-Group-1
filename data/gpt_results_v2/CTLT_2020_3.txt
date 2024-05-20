@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The overall sentiment of the management discussion is cautiously optimistic. The company acknowledges the impact of the COVID-19 pandemic on economic activity but also highlights their efforts to protect employees and maintain operations. They mention revenue increases and potential future increases related to projects addressing the pandemic.
+
+Step 2: The company's financial figures show a mixed performance. Net revenue increased by 24%, excluding foreign exchange impact, driven by acquisitions and increased demand for certain products related to COVID-19 programs. However, there were decreases in demand for other products in the Softgel and Oral Technologies segment which impacted overall revenue growth.
+
+Step 3: While gross margin increased by 25%, excluding foreign exchange impact, selling, general, and administrative expenses also increased by 16%, excluding foreign exchange impact. The company incurred restructuring charges and additional expenses related to COVID-19 response measures. 
+
+Step 4: Based on the information provided, the company shows some positive growth in revenue and gross margin, but the increase in expenses, including restructuring charges and additional costs related to the pandemic, could impact their financial stability. The revenue growth driven by acquisitions and demand for COVID-19 related programs may not be sustainable in the long term. The uncertainty surrounding the duration and impact of the pandemic on the company's operations and financial results could increase their risk of bankruptcy.
+
+Overall, the combination of cautious optimism, mixed financial figures, and increased expenses leads to a medium risk classification for bankruptcy.

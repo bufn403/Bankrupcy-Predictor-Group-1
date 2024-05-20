@@ -1,0 +1,13 @@
+High Risk
+
+Step 1: The sentiment in the management's discussion is cautious and acknowledges the challenges posed by COVID-19: "As the COVID-19 pandemic persists... We remain focused on our strategy while prioritizing the health and safety of our members and employees." This cautious tone indicates awareness of the ongoing uncertainties and risks.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The ratio is 0.033, indicating a low working capital relative to total assets. A low value may suggest liquidity issues and potential difficulties in meeting short-term obligations.
+- Retained Earnings to Total Assets (X2): The ratio is 0.283, reflecting retained earnings as a percentage of total assets. A higher value indicates stability, but it should be considered in conjunction with other factors.
+- EBIT to Total Assets (X3): The ratio is 0.125, showing the earnings before interest and taxes as a percentage of total assets. It suggests a moderate ability to generate earnings from assets.
+- Total Revenue to Total Assets (X5): The ratio is 3.512, indicating the company generates revenue relative to its total assets. A high ratio can show efficiency in asset utilization.
+
+Step 3: Combining the sentiment of caution in the management's discussion with the financial ratios, we observe a mixed picture. While the company shows efficiency in generating revenue from assets, the low working capital and moderate EBIT to Total Assets ratio indicate potential liquidity challenges and a need to improve earnings generation from assets, especially in uncertain times like the current pandemic.
+
+Step 4: The company is classified as having a high risk of bankruptcy due to the cautious sentiment, low working capital, and moderate earnings performance. The challenging environment, as acknowledged in the management's discussion, coupled with financial metrics pointing towards liquidity and profitability concerns, contribute to this classification.

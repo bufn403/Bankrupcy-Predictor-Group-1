@@ -1,0 +1,17 @@
+Medium
+
+Step 1: Analyzing Sentiment
+The overall sentiment in the management's discussion is mixed. While they acknowledge challenges like the impact of COVID-19 and reduced demand, they also express optimism about the long-term economics of the industry and the company's ability to compete across the energy value chain.
+
+Step 2: Observing Relevant Numbers
+- The company incurred significant impairment charges and recorded a goodwill impairment charge of $14,773 million during the first quarter of 2020 due to macroeconomic and geopolitical conditions.
+- Revenue declined in the third quarter of 2020, with losses in the Oilfield Services (OFS) segment.
+- They recognized orders of $15.5 billion for the nine months ended September 30, 2020, which was a decrease of $4.5 billion from the same period in 2019.
+
+Step 3: Evaluating Performance
+- The company faced revenue decreases and operating income declines in segments like OFS and Digital Solutions (DS) due to lower volume and unfavorable business mix.
+- Orders decreased significantly compared to the previous year, indicating a slowdown in demand for the company's products and services.
+- The impairment charges and decline in revenue suggest financial strain and potential operational challenges.
+
+Step 4: Final Decision
+Based on the mixed sentiment, significant impairment charges, declining revenue, and order reductions, the company is at a medium risk of bankruptcy. While they are taking actions to right-size the business and prioritize liquidity, the challenging industry conditions and financial metrics point towards a precarious financial position.

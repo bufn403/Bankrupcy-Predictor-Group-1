@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The sentiment in the management's discussion leans towards a cautious perspective given the impact of the COVID-19 pandemic on the company's operations. While they mention that retail demand remained elevated, they also highlight significant declines in foodservice demand, and increased operating costs due to COVID-19 related factors. The discussion indicates a mix of positive and negative impacts on the company's performance.
+
+Step 2:
+- Net Earnings per Diluted Share: The net earnings per diluted share remained stagnant at $0.37 for the third quarter of fiscal 2020 compared to the same quarter in fiscal 2019, indicating a lack of growth in profitability.
+- Cash Flow from Operations: Year-to-date cash flow from operations increased by 53%, reflecting improved demand driving lower inventory levels.
+- Operating Profit: Different segments showed varying trends in profitability, with some segments experiencing growth while others faced declines. For example, Jennie-O Turkey Store segment profit declined sharply due to higher costs related to the impact of the pandemic on the supply chain.
+
+Step 3: The company experienced both positive and negative impacts during the quarter. While retail demand remained strong and profits increased in certain segments like Grocery Products and International & Other, there were declines in other segments like Refrigerated Foods and Jennie-O Turkey Store due to lower foodservice sales and increased costs. The overall financial performance appears mixed, indicating a certain level of instability.
+
+Step 4: Medium risk of bankruptcy. The company's financial performance shows a mixture of positive and negative trends, with certain segments facing challenges due to the pandemic. While the company's commitment to employee safety and ability to issue bonds for liquidity are positive factors, the significant impacts of COVID-19 on various segments and the caution expressed in the discussion suggest a medium level of risk of bankruptcy.

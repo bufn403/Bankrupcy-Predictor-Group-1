@@ -1,0 +1,14 @@
+Medium
+
+Step 1: The sentiment of the management discussion text is a mixture of optimistic and cautious tones. While there are mentions of challenges due to the impact of COVID-19, the company is taking measures to address these challenges and is optimistic about its ability to navigate the situation. For example, "In response to the impact of COVID-19, Cintas put in place health and safety measures to keep Cintas employees, contractors and customers safe." 
+
+Step 2: 
+- Working Capital to Total Assets (X1): The working capital to total assets ratio is 0.1999, indicating that the company may have liquidity challenges as the ratio is relatively low.
+- Retained Earnings to Total Assets (X2): The retained earnings to total assets ratio is 1.123, which is relatively high and shows that the company has a strong base of retained earnings compared to its total assets.
+- EBIT to Total Assets (X3): The EBIT to total assets ratio is 0.2111, suggesting that the company's earnings before interest and taxes are moderate compared to its total assets.
+- Total Revenue to Total Assets (X5): The total revenue to total assets ratio is 1.0315, indicating that the company generates revenue slightly above its total assets.
+
+Step 3: Considering the financial ratios alongside the text analysis, the company appears to have some strengths such as a healthy level of retained earnings but also faces challenges such as lower working capital. The impact of COVID-19 on the business has been significant, affecting revenue and operations. The company's ability to adapt to market conditions and manage costs will be crucial for its financial health.
+
+Step 4: 
+Based on the analysis of the sentiment, financial ratios, and overall outlook presented in the text, the company is classified as having a medium risk of bankruptcy. While there are strengths in terms of retained earnings, the impact of COVID-19 on revenue and operations, along with relatively lower working capital, pose challenges that could increase the risk level. The company needs to closely monitor its liquidity position and continue its efforts to adapt to the evolving business environment.

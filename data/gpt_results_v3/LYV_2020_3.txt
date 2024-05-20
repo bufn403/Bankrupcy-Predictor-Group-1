@@ -1,0 +1,14 @@
+High Risk
+
+Step 1: The overall sentiment of the management's discussion is pessimistic due to the impact of the global COVID-19 pandemic on the company's revenue and operations. While the company remains optimistic about the long-term potential, the immediate effects are severe, as mentioned in the text: "our overall revenue for the quarter decreased by 95%" and "our year-to-date operating loss of $1.3 billion." There are no positive headlines found to counterbalance this negative sentiment.
+
+Step 2: Analyzing the financial ratios:
+- Working Capital to Total Assets (X1): A negative value indicates potential liquidity issues, as the company's working capital may not be sufficient to cover its short-term obligations.
+- Retained Earnings to Total Assets (X2): A negative value suggests that the company's retained earnings are insufficient to support its total assets, indicating financial strain.
+- EBIT to Total Assets (X3): A positive value is typically desirable, but the relatively low value suggests that the company's earnings are not generating significant returns relative to its total assets.
+- Total Revenue to Total Assets (X5): A value above 1 indicates that total revenue exceeds total assets, which can be a sign of potential financial leverage.
+
+Step 3: Combining text analysis and financial ratios, it is evident that the company is facing significant financial challenges due to the pandemic. The sharp decrease in revenue, high operating losses, negative working capital, and retained earnings ratios, along with relatively low EBIT to total assets ratio, all point towards financial distress. The company's cost-saving measures further highlight the struggles to maintain financial stability.
+
+Step 4: Final Decision - High Risk
+The company exhibits signs of financial distress with a pessimistic outlook in the management discussion, negative financial ratios, and significant revenue loss. The combination of these factors indicates a high risk of bankruptcy for the company in the future.

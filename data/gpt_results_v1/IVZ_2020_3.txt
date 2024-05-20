@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. While the company acknowledges challenges such as the impact of COVID-19, uncertainties surrounding Brexit, and market volatility, they also highlight the market rebound, increased AUM, and efforts to support clients and manage expenses effectively.
+
+Step 2: Relevant numbers and figures mentioned include:
+1. AUM increased to more than $1.2 trillion as of September 30, 2020, with net long-term inflows of $7.8 billion in the third quarter.
+2. Average AUM for the third quarter increased nearly 8%, leading to higher operating revenues.
+3. Despite the revenue increase from higher AUM, the net revenue yield declined due to a shift towards lower-yielding products and a decrease in basis points.
+
+Step 3: The company's financial results have been impacted by market dynamics, foreign exchange rate changes affecting AUM mix and net revenue yield, and the shift towards passive, lower-fee products. While they experienced market gains and increased AUM, the change in revenue yield indicates the impact of the mix shift towards lower-yielding products.
+
+Step 4: Considering the cautiously optimistic sentiment, the increase in AUM and revenues, and the effective expense management, the company is not in immediate danger of bankruptcy. However, the declining net revenue yield suggests a need for the company to carefully manage the impact of shifts towards lower-fee products on their revenue streams. The strategic evaluation of the business, cost-saving measures, and focus on capital and expense management indicate proactive steps to maintain financial stability. Therefore, the company is classified as having a medium risk of bankruptcy.

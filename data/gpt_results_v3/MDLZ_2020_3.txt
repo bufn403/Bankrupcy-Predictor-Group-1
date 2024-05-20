@@ -1,0 +1,13 @@
+Final Decision: Low Risk
+
+Step 1: The overall sentiment of the management's discussion is optimistic. Despite the challenges posed by the COVID-19 pandemic, the company highlights its ability to adapt and respond effectively. For example, they state, "We believe the steps we have taken to enhance our capital structure and liquidity over the last several years and months have strengthened our ability to operate through current conditions."
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.1023 suggests a slight negative working capital, which could indicate some short-term liquidity issues. 
+- Retained Earnings to Total Assets (X2): 0.4795 shows a healthy proportion of retained earnings to total assets, indicating stability.
+- EBIT to Total Assets (X3): 0.0901 displays a positive EBIT to total assets ratio, showing profitability.
+- Total Revenue to Total Assets (X5): 0.5045 demonstrates that the company is efficiently utilizing its assets to generate revenue.
+
+Step 3: The company seems to have a strong financial position despite the challenges posed by the pandemic. The positive EBIT to Total Assets ratio and the efficient utilization of assets to generate revenue indicate that the company is profitable and effective in managing its resources. Furthermore, the emphasis on enhancing capital structure and liquidity strengthens the company's ability to navigate through uncertain times.
+
+Step 4: Considering the optimistic sentiment in the management's discussion, the healthy financial ratios, and the proactive measures taken to address challenges, the company is classified as having a low risk of bankruptcy in the future. The company's ability to maintain operations, generate revenue, and adapt to the changing business environment suggests a resilient financial position.

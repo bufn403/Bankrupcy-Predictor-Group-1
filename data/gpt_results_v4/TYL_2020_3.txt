@@ -1,0 +1,11 @@
+High
+
+Step 1: The forward-looking statements in the filing mention various risks and uncertainties, including the impact of the COVID-19 pandemic on the company's financial condition, potential effects on economic environment, and operational challenges due to the pandemic. The management acknowledges risks related to cyber-attacks, market conditions, and changes in government regulations.
+
+Step 2: 
+- Revenue Decline: The document highlights a significant decline in revenue from software licenses, software services, appraisal services, and other revenues due to COVID-19-related delays and interruptions in business operations.
+- Impact of Security Incident: The company experienced a ransomware attack, disrupting IT systems and causing interruptions in business. The Incident resulted in reduced revenue and incremental costs, impacting the company's financial results in the short term.
+
+Step 3: The financial results reflect challenges faced by the company, including delays in government procurement processes, decreased revenues from software services, and disruptions caused by the security incident. The reliance on recurring revenues, like subscriptions and maintenance, indicates a level of stability amid revenue declines.
+
+Step 4: High risk of bankruptcy. The significant revenue declines, operational disruptions from COVID-19, and the impact of the security incident on revenue generation all point towards heightened financial risks for the company. The uncertainties highlighted in the filing, coupled with the challenges faced in revenue generation, suggest a precarious financial position, increasing the risk of potential bankruptcy in the near future.

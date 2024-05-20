@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The sentiment in the management's discussion section appears cautious due to the impact of the COVID-19 pandemic on the company's operations. While the company is taking steps to mitigate risks, they are also facing financial impacts such as increased expenses, decreased revenues, and challenges with access to capital markets.
+
+Step 2: The filing mentions, "For the three and nine months ended September 30, 2020, diluted earnings per share were $1.46 and $3.11, respectively, an increase of $0.13 and $0.22 per diluted share, respectively, as compared to the prior year." This indicates an increase in earnings, which is positive. However, it also mentions financial impacts due to COVID-19, such as increased expenses and decreased revenues.
+
+Step 3: Despite the increase in earnings driven by various factors like infrastructure investment and organic growth, there are concerns raised regarding the impacts of the COVID-19 pandemic on the company's financials. The filing also mentions the need for alternative sources of funding and the potential increase in the cost of capital due to pandemic-related expenses.
+
+Based on the cautious sentiment, the financial impacts of the pandemic, and the need for additional funding sources, the company is assessed to have a medium risk of bankruptcy. The overall financial performance has been influenced by both positive and negative factors, leading to a moderate risk assessment. The company's heavy reliance on capital markets and potential challenges highlighted in the filing contribute to this medium-risk evaluation.

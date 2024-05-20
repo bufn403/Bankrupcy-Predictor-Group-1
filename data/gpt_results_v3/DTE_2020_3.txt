@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is relatively optimistic. The company discusses its strategies for long-term earnings growth, strong balance sheet, and commitment to reducing carbon emissions. There is no mention of any negative impacts that could severely affect the company's financial health.
+
+Step 2: 
+- Working Capital to Total Assets (X1) is -0.052, indicating a negative working capital which may signal potential liquidity issues.
+- Retained Earnings to Total Assets (X2) is 0.098, suggesting that the company retains a relatively small portion of its total assets as earnings.
+- EBIT to Total Assets (X3) is 0.052, showing a moderate EBIT level in relation to total assets.
+- Total Revenue to Total Assets (X5) is 0.284, indicating a moderate level of revenue generated compared to total assets.
+
+Step 3: Despite the optimistic tone in the management discussion, the negative working capital to total assets ratio (X1) raises concerns about the company's short-term liquidity. The retained earnings to total assets ratio (X2) is relatively low, meaning the company is not retaining a significant portion of its earnings for future growth. However, the EBIT to total assets (X3) and total revenue to total assets (X5) ratios are at moderate levels, indicating some level of profitability and revenue generation.
+
+Step 4: Considering the overall sentiment, financial ratios, and the current outlook, the company is classified as having a medium risk of bankruptcy. While the company shows signs of profitability and revenue generation, the negative working capital and low retained earnings pose liquidity and growth challenges that need to be addressed to mitigate the risk of potential bankruptcy.

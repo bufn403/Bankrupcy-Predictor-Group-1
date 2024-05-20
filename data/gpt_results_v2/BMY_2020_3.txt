@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautious and realistic. They mention the challenges posed by the COVID-19 pandemic and its potential negative impact on their business. For example, they state, "Although the pandemic has not had a significant impact on our results of operations, it remains difficult to assess or predict the full extent of the negative impact." This cautious tone suggests awareness of potential risks.
+
+Step 2: Relevant numbers provided in the discussion include a 73% increase in revenues for the nine months ended September 30, 2020, driven primarily by the Celgene acquisition. They also highlight a significant decrease in GAAP EPS due to the Celgene acquisition and other factors. This suggests a mixed performance financially, with significant growth but also challenges in profitability.
+
+Step 3: While revenues increased substantially due to acquisitions, the decrease in GAAP EPS and the challenges highlighted by the COVID-19 pandemic indicate a more nuanced picture. The impact of the pandemic on patient visits and demand for new treatments is causing a negative impact on revenues, with a 1% decrease noted for the year-to-date. This suggests that current conditions are challenging, with uncertainty about the extent of the impact in the future.
+
+Final decision: Based on the cautious sentiment of the management, the mixed financial performance, and the ongoing challenges posed by the pandemic, the company is classified as having a medium risk of bankruptcy. Despite revenue growth, the decrease in EPS, challenges in patient visits, and the uncertainty of the COVID-19 impact on future operations indicate a level of risk that falls between low and high.

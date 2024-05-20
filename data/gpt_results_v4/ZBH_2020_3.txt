@@ -1,0 +1,12 @@
+High
+
+Step 1: The sentiment in the management's discussion is cautious and filled with uncertainties due to the adverse impact of the COVID-19 pandemic on the company's operations. They have mentioned a significant decrease in net sales during the early months of the pandemic due to lockdowns and deferment of elective surgical procedures. Despite some recovery in the third quarter of 2020, the management remains uncertain about the future, indicating challenges like a possible resurgence of the virus, economic downturn, and policy actions affecting their performance.
+
+Step 2: 
+- The company experienced a significant decrease in net sales (38.3%) in the second quarter of 2020 compared to the same period in the prior year, mainly due to lockdowns and deferral of elective surgical procedures.
+- Even with a 2.0% growth in net sales in the third quarter of 2020 compared to the previous year, the company encountered a net loss of $472.6 million in the nine-month period ended September 30, 2020, primarily attributed to goodwill and intangible asset impairment charges.
+- The decrease in net sales was accompanied by higher costs of products sold due to suspended or limited production at certain manufacturing facilities, leading to an overall loss in the nine-month period.
+
+Step 3: The company's financial performance has been significantly impacted by the COVID-19 pandemic, resulting in a net loss and impairment charges. The prolonged uncertainty surrounding the pandemic, along with the challenges in recovering net sales, suggests a continuation of financial distress.
+
+Step 4: High risk of bankruptcy. The company's substantial net loss, impairment charges, and uncertain recovery trends indicate a high level of financial instability. The difficulties in regaining pre-pandemic sales levels, coupled with ongoing cost implications of production disruptions, pose a considerable risk of bankruptcy for the company in the near future.

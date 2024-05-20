@@ -1,0 +1,9 @@
+high
+
+Step 1: The sentiment in the management's discussion section appears to be pessimistic due to the negative impact of COVID-19 on the company's operations. The statement mentions, "the COVID-19 outbreak may significantly worsen in the United States during the upcoming winter months" and "the considerable uncertainty regarding the extent to which COVID-19 will continue to spread" reflects the cautious and concerning outlook.
+
+Step 2: There are several financial figures that indicate challenges faced by the company. For example, there was a non-cash goodwill impairment charge of $185 million in the Indiana Electric Integrated reporting unit, a reduction in quarterly distributions per common unit due to the decline in demand for natural gas, NGLs, and crude oil, and a loss of $1,499 million on its investment in Enable. These numbers highlight financial strain.
+
+Step 3: The company mentions that they expect the COVID-19 pandemic to adversely impact them in future quarters due to uncertainty, operational delays, closures, and disruptions caused by governmental measures. The statement also notes potential further reductions in quarterly distributions if economic conditions persist or deteriorate. These conditions suggest a challenging environment with potential for further financial strain.
+
+Final Decision: The company exhibits several indicators of financial distress, including impairments, reduced distributions, and uncertainty surrounding the pandemic's impact. The combination of negative sentiment, financial challenges, and uncertain outlook leads to the assessment of a high risk of bankruptcy for the company.

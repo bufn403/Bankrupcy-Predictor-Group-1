@@ -1,0 +1,13 @@
+Final Decision: High Risk
+
+Step 1: The tone of the management's discussion is concerning due to the impact of the COVID-19 pandemic on the company's operations. The text mentions, "The COVID-19 pandemic has had and may continue to have material and adverse effects on our financial condition, results of operations and cash flows in the future."
+
+Step 2: 
+- Working Capital to Total Assets (X1): The low value of 0.086 indicates that the company may struggle to cover its short-term liabilities with its current assets.
+- Retained Earnings to Total Assets (X2): The negative value of -0.173 suggests that the company's total assets are funded more by debt than by earnings.
+- EBIT to Total Assets (X3): The low value of 0.021 indicates that the company is not generating a substantial amount of earnings in relation to its total assets.
+- Total Revenue to Total Assets (X5): The moderate value of 0.150 indicates that the company's total revenue is relatively low compared to its total assets.
+
+Step 3: The financial ratios reflect a fragile financial position with low working capital, negative retained earnings indicating high debt reliance, low earnings generation relative to assets, and moderate revenue relative to assets. The detailed discussion in the text reveals challenges in occupancy rates, increased operational costs, and potential rent payment issues from tenants, all of which contribute to a financially challenging quarter.
+
+Step 4: Considering the pessimistic tone in the management discussion, along with the unfavorable financial ratios and challenging operational environment outlined in the text, the company is classified as having a high risk of bankruptcy in the future. The various factors indicate a precarious financial situation with potential difficulties in meeting financial obligations and maintaining stability.

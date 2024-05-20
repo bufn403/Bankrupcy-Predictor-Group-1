@@ -1,0 +1,11 @@
+High
+
+Step 1: The overall sentiment of the management's discussion is cautious and somewhat pessimistic. While there is mention of the company continuing to focus on innovation and strategic priorities, there are several indications of challenging conditions, such as a decrease in total revenue and product revenue, weakness in various markets, uncertain macroeconomic environment, and ongoing uncertainties (e.g., "While the overall environment remains uncertain...," "We continued to operate in a challenging macroeconomic and highly competitive environment").
+
+Step 2: Relevant numbers and figures indicate a decline in key financial metrics, such as a 9% decrease in total revenue, a 13% decrease in product revenue, and a 25% decrease in diluted earnings per share. Additionally, there was a 0.7 percentage point decrease in total gross margin, a 1.2 percentage point increase in operating expenses, and restructuring charges of $602 million in the first quarter of fiscal 2021.
+
+Step 3: The conditions are likely to worsen based on the statements regarding ongoing uncertainties and broad-based weakening in the global macroeconomic environment. The revenue declined across all geographic segments, with significant decreases in product revenue in the Americas, EMEA, and APJC segments. The company identifies weaknesses in the commercial and enterprise markets and anticipates ongoing uncertainty in these markets.
+
+Given these factors, including the challenging environment, declining key financial metrics, and anticipation of ongoing uncertainty and weakening global macroeconomic conditions, the company is assessed to have a high risk of bankruptcy.
+
+Therefore, the company is classified as having a high risk of bankruptcy.

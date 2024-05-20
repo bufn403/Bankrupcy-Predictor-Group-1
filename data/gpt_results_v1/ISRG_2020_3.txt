@@ -1,0 +1,12 @@
+High
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. The company acknowledges the challenges posed by the COVID-19 pandemic but expresses confidence in their ability to overcome them through innovation and adaptation. For example:
+"We are supporting our customers according to their priorities – clinical, operational, and economic – and ensuring continuity of supply by working with our suppliers and our distributors. We have built a valuable team over the years, and we believe they will be important in the recovery that follows the pandemic." 
+
+Step 2: Observing relevant numbers and figures provided, the company experienced a substantial decline in da Vinci procedures in various regions due to the impact of the COVID-19 pandemic. Although procedures started recovering in some regions, the resurgence of COVID-19 cases led to further declines, resulting in significant variability in procedure volumes:
+"In the U.S., procedures recovered slowly, leveling off near pre-COVID-19 levels towards the end of the quarter. Outside of the U.S., da Vinci procedures varied depending on the spread and/or resurgence of COVID-19."
+
+Step 3: The recent decline in procedure volumes in key markets due to the ongoing impact of the COVID-19 pandemic suggests a challenging quarter. The uncertainty around the recovery of procedure volumes, potential spikes in COVID-19 cases impacting procedures negatively, and the expectation of lower year-over-year system placements all point towards a struggling period:
+"While we cannot reliably estimate the extent or period of time over which the COVID-19 pandemic and the resultant economic recession will impact hospital spending, we anticipate lower year-over-year system placements for the remainder of 2020."
+
+Step 4: Based on the cautious optimism tempered by the challenges presented by the COVID-19 pandemic, the substantial decline in procedure volumes, and the expected lower system placements for the remainder of the year, the company is at high risk of bankruptcy. The recovery is uncertain, and the impacts of the pandemic on the company's operations and financials are significant.

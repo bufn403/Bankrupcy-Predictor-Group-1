@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is a mix of caution and proactive measures due to the impact of the COVID-19 pandemic. While they acknowledge the challenges and uncertainties posed by the situation, they are taking steps to mitigate potential risks. For example, they mention, "While we continue to monitor the situation and may adjust our current policies as more information and public health guidance become available... such precautionary measures over the long-term could negatively affect our customer success efforts, sales and marketing efforts..." 
+
+Step 2: 
+- Working Capital to Total Assets (X1) is negative, indicating potential liquidity issues or inefficiencies in managing current assets relative to current liabilities.
+- Retained Earnings to Total Assets (X2) is also negative, suggesting that the company is not generating sufficient earnings to reinvest in its assets.
+- EBIT to Total Assets (X3) is positive but relatively low, indicating a moderate level of profitability generated from total assets.
+- Total Revenue to Total Assets (X5) is positive, showing a reasonable amount of revenue generated from the company's assets.
+
+Step 3: Considering the negative working capital and retained earnings ratios, along with the cautious tone in the management's discussion regarding the impact of COVID-19 on their operations and finances, it suggests potential financial challenges in the near future. Despite some positive financial ratios like EBIT to Total Assets and Total Revenue to Total Assets, the overall sentiment and the negative working capital and retained earnings ratios point towards a moderately risky financial situation.
+
+Step 4: Based on the cautious sentiment in the management's discussion, along with the mix of financial ratios indicating potential liquidity and profitability challenges, the company is classified as having a medium risk of bankruptcy. The negative working capital and retained earnings ratios, coupled with the uncertainties mentioned regarding the ongoing pandemic, contribute to this assessment.

@@ -1,0 +1,16 @@
+Medium
+
+Step 1: 
+The overall sentiment of the management's discussion seems to be a mix of optimism and caution. While the company acknowledges the challenges posed by the COVID-19 pandemic on their operations, they also highlight areas of resilience and opportunities for growth. For example, they mentioned that "COVID-19 is putting downward pressure on parts of our business and creating larger opportunities in other parts" and that "our Continental Europe business showed signs of recovery and benefited from our diverse service offering." This mixed sentiment indicates a realistic view of the current situation.
+
+Step 2:
+- Working Capital to Total Assets (X1): 0.0631 - This ratio indicates that the company has limited working capital to cover its total assets, which may signal potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.4075 - This ratio shows that a significant portion of the company's total assets are funded by retained earnings, implying financial stability to some extent.
+- EBIT to Total Assets (X3): 0.0483 - This ratio suggests that the company's earnings before interest and taxes are relatively low compared to total assets, which may indicate lower profitability.
+- Total Revenue to Total Assets (X5): 1.4169 - This ratio indicates that the company generates significant revenue in relation to its total assets, which could be a positive sign of asset utilization efficiency.
+
+Step 3:
+Considering the mixed sentiment in the management discussion, along with the financial ratios, it appears that the company is facing challenges in terms of liquidity (X1), profitability (X3), and potential financial risk. The reliance on retained earnings (X2) for funding assets provides some stability, but the low EBIT to total assets ratio indicates that the company may not be effectively utilizing its assets to generate profitability. The significant total revenue to total assets ratio could suggest efficient asset utilization, but other factors such as low working capital raise concerns.
+
+Step 4:
+Based on the analysis of sentiment, financial ratios, and overall outlook, the company is classified as having a medium risk of bankruptcy. While there are areas of stability such as retained earnings, the challenges in liquidity and profitability indicators warrant caution about the company's financial health in the future.

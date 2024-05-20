@@ -1,0 +1,14 @@
+Medium
+
+Step 1: Analyze the overall sentiment of the management's discussion, and whether it is optimistic or pessimistic.
+The management's discussion appears to be cautiously optimistic. While acknowledging the impact of the COVID-19 pandemic, they also highlight positive outcomes such as increased online retail experiences and improved traffic and buyer acquisition on their platforms.
+
+Step 2: Observe relevant numbers and figures provided in the discussion, such as future projections or percentage changes.
+- Net revenues increased by 25% during the three months ended September 30, 2020, compared to the same period in 2019.
+- Operating margin increased to 26.1% for the three months ended September 30, 2020, compared to 19.6% for the same period in 2019.
+- Diluted earnings per share from continuing operations increased to $0.88 during the three months ended September 30, 2020, compared to $0.25 in the same period in 2019.
+
+Step 3: Determine whether the numbers and figures represent a successful or failed quarter, and if the conditions are likely to improve or worsen.
+The significant increase in net revenues, operating margin, and earnings per share indicates a successful quarter. The management's discussion also hints at potential continued volatility due to evolving consumer behaviors related to the pandemic.
+
+Based on the above analysis, the company is showing growth and adapting well to changing market conditions. While there are risks mentioned, the positive financial performance and adaptability suggest a medium risk of bankruptcy. The company's ability to generate strong revenues and earnings amidst a challenging environment mitigates the risk to some extent.

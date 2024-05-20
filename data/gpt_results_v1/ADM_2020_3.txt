@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment in the management's discussion appears to be a mix of optimism and caution. There are positive highlights such as acquisitions in Brazil, expansions into new facilities, joint ventures for plant-based food products, and improving performances in various business segments. However, there are also mentions of challenges due to reduced demand in certain sectors like ethanol production and food service impact from COVID-19.
+
+Step 2: "Net earnings attributable to controlling interests decreased $182 million from $407 million to $225 million." This indicates a significant decrease in net earnings, which could be a red flag for the financial health of the company. Despite the increase in segment operating profit, the decrease in net earnings is concerning.
+
+Step 3: "Gross profit decreased $36 million or 3%, to $1.0 billion...Corporate results were a net charge of $704 million in the current quarter compared to $255 million in the prior year quarter." The decrease in gross profit and the substantial net charge in corporate results suggest financial challenges and inefficiencies within the company during the quarter. These factors could signal a struggle for profitability.
+
+Step 4: Considering the decrease in net earnings, the decline in gross profit, and the significant net charge in corporate results, along with the challenging market conditions highlighted in the discussion, it is prudent to assess the company's risk of bankruptcy as medium. The mix of positive strategic initiatives and financial setbacks indicates a level of risk that is higher than low but not at an alarmingly high level.

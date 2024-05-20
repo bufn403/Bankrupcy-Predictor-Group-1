@@ -1,0 +1,13 @@
+Final Decision: Medium Risk
+
+Step 1: The management's discussion seems to have a balanced tone, focusing on the company's strategic initiatives and responses to the COVID-19 pandemic. While there are mentions of challenges faced, such as incremental costs associated with the pandemic, there is also optimism regarding the overall performance and actions taken by the company.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of working capital to total assets indicates potential liquidity issues or an imbalance in the company's current assets and liabilities, which can be a concern for financial stability.
+- Retained Earnings to Total Assets (X2): The positive value of retained earnings to total assets suggests that the company has accumulated earnings that can be reinvested into the business, indicating a healthier financial position.
+- EBIT to Total Assets (X3): The EBIT to total assets ratio reflects the company's operating profitability relative to its total assets. A higher value indicates better profitability from the assets employed.
+- Total Revenue to Total Assets (X5): The high value of total revenue to total assets signifies that the company generates significant revenue relative to its asset base, which can be a positive indicator of operational efficiency.
+
+Step 3: Considering the negative working capital, positive retained earnings, and the company's actions in response to the pandemic, it appears that the company is facing some liquidity challenges but has a solid base of retained earnings to support its operations. The EBIT to total assets ratio shows decent profitability, and the high total revenue to total assets ratio indicates strong revenue generation. The company seems to be navigating through a challenging period with a mix of positive and concerning financial indicators.
+
+Step 4: The company is classified as having a Medium Risk of bankruptcy. While there are some liquidity concerns indicated by the working capital ratio, the positive retained earnings and reasonable profitability ratios suggest a balanced financial position. The company's strong revenue generation also provides a buffer. However, the overall assessment indicates a need for improved liquidity management to mitigate the risks associated with the negative working capital ratio.

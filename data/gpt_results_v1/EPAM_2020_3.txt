@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The sentiment in the management's discussion section appears cautious due to the impact of the COVID-19 pandemic. The company mentions uncertainty around the pandemic's effects on their business, operations, and financial condition, stating, "We expect uncertainty around the impacts the pandemic will have on our business, financial condition, and results of operations."
+
+Step 2: The company acknowledges the adverse impact of the pandemic on certain sectors like Travel & Consumer, slower revenue growth in Financial Services, and mentions reduced demand and financial distress in their customer base. They state, "The prolonged deterioration of economic conditions for some of our customers could materially reduce our sales and profitability." Additionally, they anticipate lower revenue growth in the fourth quarter of 2020 compared to the previous year.
+
+Step 3: Despite revenue growth and income increases in the three and nine months ended September 30, 2020, the company notes challenges such as declining revenue growth in certain sectors due to COVID-19 and temporary discounts provided to customers facing economic difficulties. They highlight increased costs due to the pandemic, as seen in higher compensation costs and a reduction in profitability on certain accounts.
+
+Based on the cautious sentiment, acknowledgment of adverse impacts from the pandemic, challenges in revenue growth, and increased costs affecting profitability, the company is deemed to have a medium risk of bankruptcy. The uncertainties and challenges presented in the filing suggest a level of vulnerability that falls between low and high risk.

@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is optimistic. The company talks about their successful approvals of new medicines, expansion into additional disease areas, positive data from clinical trials, and various collaborations to foster scientific innovation. There is a clear focus on research and development efforts and strategic partnerships, which indicates a positive outlook.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.4661991535490228 - This ratio indicates that the company has a moderate level of working capital in relation to its total assets, which shows some stability in the short-term financial position.
+- Retained Earnings to Total Assets (X2): 0.4462081283930629 - This ratio suggests that a significant portion of the company's total assets is tied up in retained earnings, which is a positive sign of long-term financial health.
+- EBIT to Total Assets (X3): 0.1946265321026651 - This ratio shows that the company's earnings before interest and taxes in relation to total assets are moderate, indicating a decent level of profitability.
+- Total Revenue to Total Assets (X5): 0.4341888764727103 - This ratio indicates that the company generates a high amount of revenue in relation to its total assets, which is generally a positive sign.
+
+Step 3: The combination of optimistic sentiment in the management discussion and the moderate financial ratios suggests that the company is operating in a relatively stable position. However, the mention of discontinuing the development of a product in October 2020 based on safety concerns could pose a risk to their pipeline and future revenue streams. The increase in net income primarily due to the approval of TRIKAFTA and continued uptake of medicines is positive, but the increased operating costs and expenses may impact profitability in the long run.
+
+Step 4: Based on the overall analysis, the company is classified as having a Medium Risk of bankruptcy. While the optimistic sentiment and stable financial ratios provide some strength, the potential impact of discontinuing a product and the increased expenses indicate a need for caution in monitoring their financial health closely.

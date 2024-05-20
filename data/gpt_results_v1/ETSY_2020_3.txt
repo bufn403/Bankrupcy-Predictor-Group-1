@@ -1,0 +1,18 @@
+Medium
+
+**Step 1:**
+The overall sentiment of the management's discussion section appears to be optimistic. They highlight strong performance during the challenging times, emphasize positive growth metrics, and discuss proactive strategies to drive success. 
+
+**Step 2:**
+- "Revenue increased $253.5 million, or 128.1%, to $451.5 million in the three months ended September 30, 2020 compared to the three months ended September 30, 2019"
+This statement indicates a significant increase in revenue, demonstrating financial growth.
+
+- "Total revenue was $451.5 million and $1.1 billion in the three and nine months ended September 30, 2020, respectively, driven by strong growth in both Marketplace and Services revenue."
+The mention of strong growth in both marketplace and services revenue further supports positive financial performance.
+
+**Step 3:**
+- "Etsy’s performance in the third quarter was extremely strong, with GMS growth of 119.4% and revenue growth of 128.1%."
+The strong growth in Gross Merchandise Sales (GMS) and revenue in the third quarter indicates a successful quarter. However, it's essential to note that the growth rate may not be sustainable in the long term.
+
+**Step 4:**
+Taking into consideration the optimistic sentiment, significant revenue growth, and strong performance metrics in the recent quarter, the company is classified as having a **Medium** risk of bankruptcy. While the current performance is robust, the sustainability of such growth and the impact of external factors like the COVID-19 pandemic should be closely monitored to determine the long-term viability and risk level.

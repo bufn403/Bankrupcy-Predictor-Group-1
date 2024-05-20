@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The tone of the management's discussion is a mix of optimism and caution. The company discusses cost reduction plans, enhanced value creation strategies, and efforts towards decarbonization, showing optimism. However, it also acknowledges the impact of COVID-19 on operations and the uncertainty surrounding its containment and economic effects, indicating caution.
+
+Step 2: The company projects a reduction in operating and maintenance expenses by $330 million by 2024, a reduction in fuel and purchased power expenses by $145 million between 2019 and 2024, and expected base capital investments of approximately $8.9 billion through 2024. They also mention a decrease in demand from commercial and industrial customers offset by an increase in demand from residential customers, impacting earnings differently.
+
+Step 3: Despite the cost reduction efforts and strategic plans, the COVID-19 pandemic has led to an overall reduction in demand and a shift in customer usage patterns. The company mentions temporary policies to ease the financial burden on customers, potentially impacting operating cash flows and leading to lower levels of operating cash flows compared to historical levels.
+
+Step 4: Considering the mixed sentiment, cost reduction efforts, and the impact of COVID-19 on demand and operations, the company is at a medium risk of bankruptcy. While the strategic plans provide a positive outlook, the uncertainty surrounding the pandemic's effects on operations and financials poses a significant risk to the company's stability. The shift in customer demand and potential cash flow constraints further add to the risk level. 
+
+In conclusion, the company's medium risk of bankruptcy is influenced by its cost reduction strategies not fully offsetting the pandemic's impact on demand and operations, leading to uncertainty in financial performance and future stability.

@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The sentiment in the management's discussion is mixed due to the uncertainties caused by the COVID-19 pandemic. While the company has witnessed an increase in revenues driven by the demand for domain names during the pandemic, there remain concerns about the broader implications on the company's operations and financial results. The management expresses uncertainty about the future impact of the pandemic on their business.
+
+Step 2:
+- Revenues increased by 3% during the three and nine months ended September 30, 2020, compared to the same period in 2019.
+- The company recorded operating income growth of 1% in the three months and 2% in the nine months ended September 30, 2020, compared to the same periods in 2019.
+- The company processed 10.9 million new domain name registrations for .com and .net during the three months ended September 30, 2020, compared to 9.9 million for the same period in 2019.
+
+Step 3: The financial performance metrics show a slight increase in revenues and operating income, indicating some level of stability and growth. The processing of new domain name registrations also demonstrates continued demand for the company's services. However, the decrease in the final .com and .net renewal rate and uncertainties due to the pandemic could pose challenges in sustaining this growth trajectory.
+
+Step 4: Medium risk of bankruptcy. While the company has shown resilience by maintaining revenue growth and processing new domain name registrations during the pandemic, the uncertainties surrounding the future impact of COVID-19 on the business and the industry could lead to increased risk. The mixed sentiment in the management's discussion, coupled with challenges such as declining renewal rates and potential economic disruptions, suggests a medium risk of bankruptcy in the future.

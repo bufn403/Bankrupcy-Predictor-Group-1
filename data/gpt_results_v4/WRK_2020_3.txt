@@ -1,0 +1,12 @@
+Medium 
+
+Step 1: The sentiment in the management's discussion is cautiously optimistic with a mix of challenges and opportunities. The company faces potential financial impacts from a ransomware incident and the COVID-19 pandemic, but it outlines extensive efforts to address these issues and provides details on generating strong cash flows and reducing debt in fiscal 2021. Additionally, the company expresses optimism about future earnings growth and the benefits of strategic capital projects and price increases.
+
+Step 2: 
+- Net Sales: While net sales decreased slightly in the first quarter of fiscal 2021, they mention the impact of the absence of Land and Development net sales due to the completion of a monetization program in fiscal 2020.
+- Cash Flow: The company experienced significant increases in net cash provided by operating activities in the first quarter of fiscal 2021 compared to the prior year, primarily due to cost-saving measures related to COVID-19 and the deferred payroll taxes. 
+- Debt Management: The company made significant strides in reducing debt, paying down $490.8 million in the quarter ended December 31, 2020. However, they still carry substantial debt, as indicated by total debt of $8,939.8 million at the end of December 31, 2020.
+
+Step 3: Despite challenges such as the impact of the ransomware incident, increased costs related to COVID-19, and significant debt levels, the company's efforts in debt reduction, cost savings, and strategic capital projects are positive indicators for future financial stability. The company's ability to sustain operations and adapt to market conditions amidst the COVID-19 pandemic showcases resilience.
+
+Step 4: Medium risk of bankruptcy. While the company exhibits a mix of challenges and opportunities, the uncertain financial impact of the ransomware incident and ongoing costs related to COVID-19 present risks that could affect the company's financial condition. The existing debt levels also indicate a need for continued financial vigilance to avoid potential bankruptcy.

@@ -1,0 +1,13 @@
+High
+
+1. **Step 1:**
+The overall sentiment in the management's discussion is pessimistic, highlighting significant challenges faced by the company. The impact of the COVID-19 pandemic on the company's operations and financials is emphasized, with statements like, "The adverse impact of the economic effects on MPC has been and will likely continue to be significant." This sets a negative tone and suggests a challenging environment.
+
+2. **Step 2:**
+Relevant figures provided indicate a failed quarter with significant losses and impairments. The filing mentions a net loss of $(886) million in the third quarter of 2020 compared to a profit of $1.10 billion in the same period of 2019. Additionally, there are significant impairment charges, restructuring expenses, and declines in refined product sales volumes and margins. The filing also mentions restructuring expenses of $348 million related to idling refineries and workforce reduction as well as a significant LCM inventory valuation reserve of $1.19 billion. These numbers indicate a struggling financial performance.
+
+3. **Step 3:**
+The future outlook is uncertain, with measures taken to address the impacts of COVID-19 but no guarantees of full effectiveness. While the company has announced strategic actions to optimize assets and lower costs in 2021, the challenging market conditions and ongoing pandemic create a sense of continued difficulty. The company is actively reducing capital spending and operating expenses to navigate the challenging environment. The risks and uncertainties highlighted in the filing, especially related to the effects of COVID-19 on operations, pricing, and demand, suggest that conditions may worsen before improving.
+
+4. **Final Decision:**
+Considering the pessimistic sentiment, poor financial figures, and uncertain future outlook due to the ongoing challenges, the company shows a high risk of bankruptcy. The significant losses, impairment charges, restructuring expenses, and the adverse impact of the pandemic all point towards a challenging financial position that may heighten the risk of bankruptcy.

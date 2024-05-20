@@ -1,0 +1,13 @@
+Decision: Medium
+
+Step 1: The sentiment of the management's discussion appears to lean towards a cautious outlook. They discuss the impact of the COVID-19 pandemic on their business, mentioning declines in net sales, income from operations, net income, and EBITDA. They also highlight ongoing uncertainties related to the pandemic's effects on their operations and the overall economy.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.1176 indicates a lower proportion of working capital in relation to total assets, which could suggest a potential liquidity risk.
+- Retained Earnings to Total Assets (X2): 0.3314 shows a moderate level of retained earnings in relation to total assets, indicating some stability.
+- EBIT to Total Assets (X3): 0.1353 suggests a relatively lower level of earnings before interest and taxes concerning total assets.
+- Total Revenue to Total Assets (X5): 0.8207 demonstrates a high proportion of total revenue to total assets, reflecting strong revenue generation.
+
+Step 3: The combination of the cautious sentiment in the management discussion, the lower working capital to total assets ratio (X1), and the moderate EBIT to total assets ratio (X3) indicates that the company may be facing some financial challenges. The decline in key financial metrics mentioned in the text, such as net sales and income, further supports this notion.
+
+Step 4: Considering the cautious tone in the discussion, along with the financial ratios pointing towards potential liquidity and profitability concerns, and the challenging quarter results, I classify the company as having a Medium risk of bankruptcy in the future. The company may need to closely monitor its financial performance and adapt to the ongoing uncertainties to mitigate the risks they are facing.

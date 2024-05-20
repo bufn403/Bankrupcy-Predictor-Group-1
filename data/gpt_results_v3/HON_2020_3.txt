@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be mixed. While there are mentions of challenges faced due to the global recession and COVID-19 impact, there are also initiatives taken by the company to adapt and support employees and communities. For example, "We are committed to supporting the safety of our employees, customers and fellow citizens around the world." The tone is cautious but proactive.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0807 indicates a relatively low level, potentially highlighting liquidity concerns.
+- Retained Earnings to Total Assets (X2): 0.7798 shows strong retained earnings relative to total assets, which is a positive indicator of financial stability.
+- EBIT to Total Assets (X3): 0.1288 suggests a moderate level of earnings generated from total assets.
+- Total Revenue to Total Assets (X5): 0.5959 reflects a high total revenue generated per total assets, indicating efficient asset utilization.
+
+Step 3: Combining the sentiment from the management's discussion with the financial ratios, it seems that the company is facing challenges due to external factors like the global recession and COVID-19. The low working capital to total assets ratio suggests potential liquidity issues, while the strong retained earnings are a positive sign. The moderate EBIT to total assets ratio indicates earnings generation, but the context of the discussion points towards the impact of the pandemic on sales and profits. The efficiency in generating revenue from assets is a positive aspect, but the overall caution and impact of the global situation might pose a medium risk.
+
+Step 4: Medium. The company shows a mix of positive and challenging indicators. While there are strong points like retained earnings and revenue generation efficiency, the liquidity concerns and impact of external factors lead to a medium risk assessment. The company's proactive measures and adaptability are key factors that could influence its future financial health.

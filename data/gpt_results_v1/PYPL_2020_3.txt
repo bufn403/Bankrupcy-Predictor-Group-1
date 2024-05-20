@@ -1,0 +1,15 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be a mix of cautious optimism and acknowledgment of challenges. While they highlight their growth and the benefits from shifting consumer behavior due to COVID-19, they also mention risks from regulatory environments and uncertainties related to Brexit and foreign exchange movements.
+
+Step 2: Relevant numbers and figures provided in the discussion include:  
+- Net revenues increased by $1.1 billion, or 25%, in the three months ended September 30, 2020, driven by growth in total payment volume of 38%.  
+- Operating income increased by $280 million, or 40%, in the same period due to revenue growth, partially offset by an increase in operating expenses.  
+- Net income increased by $559 million, or 121%, in the three months ended September 30, 2020, compared to the same period in the prior year.
+
+Step 3: Determining the success or failure of the quarter:
+- The company experienced growth in net revenues, operating income, and net income, pointing towards a successful quarter.
+- However, the net income increase being largely driven by gains on strategic investments raises questions about the sustainability of this growth.
+
+Step 4: Final decision on bankruptcy risk:
+Considering the positive growth in key financial indicators in the face of challenges from COVID-19 and regulatory risks, the company appears to be managing reasonably well. However, significant concerns regarding the sustainability of net income growth, reliance on strategic investment gains, and uncertainties related to regulations and Brexit suggest a medium risk of bankruptcy. Further monitoring of their ability to maintain steady growth without relying heavily on external factors is warranted.

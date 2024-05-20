@@ -1,0 +1,13 @@
+High
+
+Step 1: The overall sentiment of the management's discussion is cautious and informative. There are statements emphasizing the importance of financial maintenance covenants and limitations of non-GAAP measures like Adjusted EBITDA.
+Quote: "Our Credit Agreement contains financial maintenance covenants. We are currently in compliance with these financial maintenance covenants and, based upon our current expectations, we believe we will continue to comply with our financial maintenance covenants."
+
+Step 2: The company issued significant amounts of senior unsecured notes and converted a large number of shares of mandatory convertible preferred stock into common stock, indicating a need for capital infusion and restructuring.
+Quote: "As of October 23, 2020, there were no amounts outstanding and $5.0 billion in undrawn availability under our 2016 Revolver."
+Quote: "In July and August 2020, all of our approximately 2 million shares of 6.875% Mandatory Convertible Preferred Stock outstanding were converted into approximately 14 million shares of our common stock..."
+
+Step 3: The company's reliance on debt issuance, stock conversions, and limitations mentioned in debt covenants suggest financial strain and a need for maneuvering to maintain compliance.
+Quote: "certain of our debt agreements also contain restrictive covenants that place restrictions on us and may limit our ability to, among other things, incur additional debt and liens, purchase our securities, make capital expenditures..."
+
+Based on the cautious sentiment, significant debt issuances, stock conversions, and limitations in debt covenants, the company shows signs of financial strain and higher risk of bankruptcy in the future.

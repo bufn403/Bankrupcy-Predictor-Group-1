@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is relatively neutral. While the company highlights certain areas of growth and improvement, they also acknowledge challenges and uncertainties, especially related to the COVID-19 pandemic. For example, "We believe that we remain well positioned for long-term growth, however we cannot reasonably estimate the duration or severity of this pandemic or its ultimate impact on the global economy, our business results or liquidity." This indicates a cautious approach to the future.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0245 - This ratio indicates that the company has a relatively low level of working capital in proportion to its total assets, which may suggest some difficulty in covering short-term liabilities.
+- Retained Earnings to Total Assets (X2): 0.2971 - A moderate level of retained earnings to total assets signifies stability and a healthy financial position in the long term.
+- EBIT to Total Assets (X3): 0.1321 - This ratio shows the company's ability to generate earnings from its total assets, indicating a decent operational efficiency.
+- Total Revenue to Total Assets (X5): 1.2837 - A high ratio of total revenue to total assets suggests good asset utilization and strong revenue generation capacity.
+
+Step 3: Considering the financial ratios, the company seems to have decent operational efficiency (X3) and revenue generation capacity (X5), but the low working capital to total assets ratio (X1) raises concerns about short-term liquidity. The moderate level of retained earnings to total assets (X2) indicates stability in the long run. However, the caution expressed in the management discussion regarding the impact of COVID-19 on the business indicates potential challenges ahead.
+
+Step 4: Taking into account the mixed sentiments in the management's discussion, the financial ratios showing a mix of strengths and concerns, and the overall cautious outlook, the company is classified as having a medium risk of bankruptcy.

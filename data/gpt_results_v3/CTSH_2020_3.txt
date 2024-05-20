@@ -1,0 +1,15 @@
+Decision: Medium
+
+Step 1: The sentiment of the management's discussion is cautious due to the impact of the COVID-19 pandemic. They mention, "As clients work through significant financial challenges related to the COVID-19 pandemic, we have faced and may continue to face reduced client demand for services, client pricing pressure, payment term extensions and insolvency risk, additional delivery challenges, increased costs, a diversion of and strain on management and other corporate resources, and reduced employee morale and productivity." This indicates a challenging environment.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.2257750365200454 implies the company has limited working capital in relation to its total assets, which could be a sign of potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.719634258507818 shows that a significant portion of assets are tied up in retained earnings, which can be a positive indicator of stability.
+- EBIT to Total Assets (X3): 0.1530054644808743 represents the company's earnings generated from its total assets, with a relatively moderate ratio.
+- Total Revenue to Total Assets (X5): 1.0470702807985717 indicates that the company is generating more revenue relative to its total assets.
+
+Step 3: 
+Considering the cautious tone in the management discussion text, along with the low Working Capital to Total Assets ratio, there might be concerns about liquidity. The positive Retained Earnings to Total Assets ratio adds some stability, while the moderate EBIT to Total Assets ratio suggests average profitability. The Total Revenue to Total Assets ratio being above 1 indicates good revenue generation efficiency.
+
+Step 4:
+Overall, the company exhibits a mix of strengths and weaknesses, with potential liquidity concerns and challenges due to the ongoing pandemic. The financial ratios and the sentiment in the text support a medium risk assessment.

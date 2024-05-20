@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. They mention challenges due to the COVID-19 pandemic but also discuss plans to manage through it and improve in the future. One quote that supports this sentiment is: "While the near-term impact of the pandemic on demand and sales volume is likely to be material, we believe we have sufficient liquidity to manage through the uncertainty."
+
+Step 2: The relevant numbers provided in the discussion show a decline in net sales, income from operations, net income, and EBITDA in the second quarter of fiscal 2021 compared to the prior year. This indicates a challenging quarter for the company. One quote that supports this is: "Net sales declined 12% to $896.1 million... EBITDA including unconsolidated joint ventures declined 18% to $213.2 million."
+
+Step 3: The discussion also mentions higher manufacturing costs, including incremental costs due to the pandemic. They expect to continue incurring additional costs and facing challenging operating conditions. One quote that supports this is: "Income from operations declined due to lower sales and higher production costs, which were largely due to incremental costs resulting from the pandemic’s effect on our manufacturing and supply chain operations."
+
+Step 4: Considering the cautiously optimistic sentiment, the decline in key financial metrics, and the expectation of continued challenges, the company is categorized as having a medium risk of bankruptcy. Despite their efforts to manage through the pandemic, the financial impacts and uncertainties pose a significant risk to their future financial stability.

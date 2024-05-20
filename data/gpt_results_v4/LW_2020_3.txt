@@ -1,0 +1,11 @@
+High
+
+Step 1: The sentiment in the management's discussion is cautiously pessimistic due to the significant impact of the COVID-19 pandemic on the company's operations and financial performance. Despite some improvement in demand trends, it mentions that the demand remains below pre-pandemic levels. The discussion highlights declines in net sales, income from operations, net income, and diluted earnings per share compared to the prior year.
+
+Step 2:
+- Net Sales: There was a significant decline in net sales by 12% in the second quarter of fiscal 2021 compared to the same period in fiscal 2020, indicating a substantial drop in revenue.
+- EBITDA: EBITDA including unconsolidated joint ventures also declined by 18% in the same quarter, suggesting a decrease in earnings before interest, taxes, depreciation, and amortization.
+
+Step 3: The company faced challenges due to the negative impact of the pandemic on frozen potato demand, resulting in lower sales volumes, higher production costs, and unfavorable pricing/mix. The decline in income from operations was attributed to lower sales, higher production costs, and other incremental costs related to pandemic effects. Despite some improvements in demand trends, the overall financial performance indicates a struggling quarter.
+
+Step 4: High risk of bankruptcy. The significant decline in net sales, income from operations, and net income, along with the ongoing impact of the COVID-19 pandemic on the industry and consumer demand, suggest a high risk of financial distress for the company in the future. The challenges faced in maintaining sales volumes and managing production costs, as well as the cautious language used in the management's discussion, indicate a precarious financial position that could potentially lead to a heightened risk of bankruptcy.

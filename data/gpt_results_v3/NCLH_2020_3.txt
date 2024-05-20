@@ -1,0 +1,14 @@
+Decision: High Risk
+
+Step 1: The overall sentiment of the management's discussion is pessimistic and highlights various risks and uncertainties faced by the company, particularly due to the impact of the COVID-19 pandemic. The text mentions, "the spread of epidemics, pandemics and viral outbreaks and specifically, the COVID-19 pandemic... which are expected to continue to adversely impact our results, operations, outlook, plans, goals, growth, reputation, cash flows, liquidity." This indicates a challenging environment for the company.
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.2424 - This negative value indicates potential financial distress as the company's current assets may not be sufficient to cover its current liabilities.
+- Retained Earnings to Total Assets (X2): -0.3539 - A negative ratio suggests that the company has been experiencing losses, impacting its overall financial health.
+- EBIT to Total Assets (X3): 0.0457 - A relatively low EBIT to Total Assets ratio indicates lower profitability and efficiency in generating earnings from its assets.
+- Total Revenue to Total Assets (X5): 0.4386 - While this ratio is positive, it alone may not be enough to offset the negative trends observed in the other ratios.
+
+Step 3: The combination of the pessimistic tone in the management discussion, along with the negative financial ratios, paints a challenging picture for the company. The text also mentions that the company had to suspend all cruise voyages, a significant part of its operations, due to the pandemic. This would have a considerable impact on its revenue and financial standing.
+
+Step 4: High Risk 
+Considering the overall analysis, including the pessimistic sentiment in the management discussion, the negative financial ratios indicating financial distress and losses, and the operational challenges posed by the pandemic, the company is classified as high risk for bankruptcy. The combination of these factors signifies a precarious financial position and potential difficulties in the company's ability to withstand future challenges.

@@ -1,0 +1,13 @@
+Final Decision: High
+
+Step 1: The overall sentiment of the management's discussion is pessimistic due to the adverse effects of the COVID-19 pandemic on the company's operations, as highlighted by statements such as "Our operations are generating extremely limited revenue" and "The disruptions arising from the COVID-19 outbreak have had, during the three and nine months ended September 30, 2020, and will continue to have an adverse effect on the Company's results of operations."
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.1458 - This ratio indicates that the company has a relatively low working capital compared to its total assets, which may suggest liquidity challenges.
+- Retained Earnings to Total Assets (X2): -0.1477 - A negative value for retained earnings to total assets ratio indicates that the company's total liabilities exceed its total assets, which is a concerning sign for solvency.
+- EBIT to Total Assets (X3): 0.0741 - The EBIT to Total Assets ratio shows a relatively low profitability generated from the company's total assets.
+- Total Revenue to Total Assets (X5): 0.4667 - This ratio indicates that the company generates revenue from its total assets but may not be sufficient to cover all expenses and debts.
+
+Step 3: When combining the financial ratios with the textual analysis, it is evident that the company is facing significant challenges due to the COVID-19 pandemic, leading to limited revenue generation and adverse effects on operations. The low working capital, negative retained earnings to total assets, and relatively low profitability further indicate financial instability.
+
+Step 4: Overall, based on the pessimistic sentiment in the management's discussion, the unfavorable financial ratios, and the challenging operating environment portrayed in the text, the company is classified as having a high risk of bankruptcy in the future.

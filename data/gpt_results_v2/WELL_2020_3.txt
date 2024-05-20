@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is pessimistic due to the impact of the COVID-19 pandemic on the company's operations and financial condition. 
+   Quote: "The COVID-19 pandemic has had and may continue to have material and adverse effects on our financial condition, results of operations and cash flows in the future."
+
+Step 2: Relevant numbers indicate a decline in revenue and increased operational costs, specifically in the Seniors Housing Operating and Triple-net segments. 
+    Quote: "Month-to-date, through October 23, 2020, total SHO portfolio occupancy declined by approximately 30 basis points."
+    Quote: "Consequently, we anticipate total SHO portfolio spot occupancy to decline 75 to 125 basis points in the fourth quarter relative to September 30, 2020."
+
+Step 3: The conditions are likely to worsen as operators are facing difficulties in meeting rent payments and revenue collection due to the ongoing impact of the pandemic.
+    Quote: "These factors may continue to impact the ability of our Triple-net operators to make contractual rent payments to us in the future."
+
+Final Decision: The company is classified as having a medium risk of bankruptcy due to the significant challenges faced in revenue generation and rent collections caused by the COVID-19 pandemic, impacting the financial stability of the company in the near future.

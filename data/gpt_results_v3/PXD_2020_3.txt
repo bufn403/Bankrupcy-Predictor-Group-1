@@ -1,0 +1,13 @@
+Final Decision: Medium Risk
+
+Step 1: The overall sentiment conveyed in the management discussion text leans towards cautious optimism. The company acknowledges the challenges posed by the COVID-19 pandemic on the oil and gas industry but has implemented various measures to mitigate the impact on its operations and financial position. For example, they state, "The Company has taken steps to keep its employees safe...and developing response plans intended to minimize unnecessary risk." While the situation is challenging, the company appears proactive in addressing the issues.
+
+Step 2: Looking at the financial ratios:
+- Working Capital to Total Assets (X1): -0.0100783874580067 - This negative value indicates potential liquidity issues as the company's working capital is not sufficient to cover its total assets. 
+- Retained Earnings to Total Assets (X2): 0.1988364788463114 - This shows that a modest portion of the company's total assets is backed by retained earnings, which could imply some level of financial stability.
+- EBIT to Total Assets (X3): 0.1745008603501488 - This ratio indicates the company's ability to generate earnings from its total assets. A positive value is a good sign, suggesting profitability.
+- Total Revenue to Total Assets (X5): 0.5291563106000601 - This high value signifies that the company's total assets are efficiently utilized to generate revenue.
+
+Step 3: Combining the text analysis with the financial ratios, it is evident that while the company is actively responding to the challenges posed by the pandemic, certain financial metrics, such as the negative working capital to total assets ratio, suggest potential liquidity issues. The positive EBIT to Total Assets ratio indicates profitability, but the negative working capital and the uncertain economic conditions create a level of risk.
+
+Step 4: Considering the cautious optimism in the management discussion, the mixture of financial ratios (including the negative working capital), and the uncertain market conditions, the company is classified as having a Medium Risk of bankruptcy. Despite proactive measures and profitability, the liquidity concerns and external factors contribute to the overall assessment of medium risk.

@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion seems cautiously optimistic. While the company acknowledges challenges such as the impact of COVID-19 on demand for printing papers, they also highlight solid earnings and cash flow generation in a dynamic environment. They discuss cost management efforts and their commitment to financial strength. One quote supporting this is "We continued to deliver strong commercial and operational performance, with outstanding cost management across all our businesses." 
+
+Step 2: Analyzing the financial ratios:
+- Working Capital to Total Assets (X1): 0.1138 - This ratio indicates that the company has a relatively low working capital compared to its total assets, which could signal potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.4080 - The higher proportion of retained earnings to total assets shows that the company has been profitable in the past and has the potential to withstand losses.
+- EBIT to Total Assets (X3): 0.0345 - This ratio suggests a relatively low return generated from its total assets, which may indicate operational inefficiencies.
+- Total Revenue to Total Assets (X5): 0.8132 - A high ratio indicates that the company is efficient in generating revenue from its total assets.
+
+Step 3: Combining text analysis with financial ratios, the company appears to be managing its operations well in the face of challenges, but certain ratios like Working Capital to Total Assets and EBIT to Total Assets signify potential areas of concern. The mention of varied demand recovery trends, particularly the negative impact on demand for printing papers, adds a layer of risk to the financial stability of the company.
+
+Step 4: Considering the mixed sentiment in the management's discussion, along with the financial ratios pointing to areas of concern, the company is classified as having a Medium Risk of bankruptcy. While they have shown resilience in challenging times and maintained profitability, the lower working capital and EBIT ratios raise red flags regarding liquidity and operational efficiency.

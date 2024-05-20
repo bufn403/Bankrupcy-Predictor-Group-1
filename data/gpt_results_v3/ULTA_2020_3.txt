@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is cautious due to the impact of COVID-19 on their business. The company highlighted risks such as "decline in operating results," "asset impairment charges," and "profitability decreases." This uncertainty is reflected in the statement, "our results of operations for the 13 and 39 weeks ended October 31, 2020, were significantly impacted by the effects of COVID-19."
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.206 indicates a lower working capital relative to total assets, which could imply potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.225 shows that a significant portion of assets are not backed by retained earnings, indicating lower financial stability.
+- EBIT to Total Assets (X3): 0.295 indicates lower earnings before interest and taxes relative to total assets, which may affect overall profitability.
+- Total Revenue to Total Assets (X5): 1.963 shows a healthy ratio of total revenue to total assets.
+
+Step 3: Considering the cautious tone in the management discussion combined with the relatively low values of X1, X2, and X3, it appears that the company faced challenges during the quarter. The impact of COVID-19 on sales and profitability, as mentioned in the text, contributes to the medium risk assessment. The company's ability to sustain growth plans and navigate the current economic conditions raises concerns about their financial health.
+
+Step 4: Medium. The company's financial ratios suggest some instability, especially in terms of working capital, retained earnings, and earnings before interest and taxes. The impact of COVID-19 and the cautious tone in the management discussion further support the medium risk classification. While the company has managed to maintain a healthy revenue to asset ratio, the overall outlook and financial performance indicate a medium risk of bankruptcy.

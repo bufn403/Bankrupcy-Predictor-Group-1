@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion appears to be pessimistic, focusing on the adverse effects of the COVID-19 pandemic on the company's operations, liquidity, and financial condition.
+
+Step 2: The financial results for the nine months ended September 30, 2020, show a significant adverse impact on the company's sales and profitability due to on-premise closures and restrictions, leading to a 5.2% decrease in worldwide brand volume and a 5.0% decrease in financial volume compared to the prior year.
+
+Step 3: The company's income before income taxes improved in the third quarter of 2020 compared to the prior year, driven by lower special charges, higher net pricing in the U.S. and Canada, and cost mitigation actions. However, the North America and Europe segments still faced challenges due to the impact of the pandemic on on-premise sales and packaging constraints.
+
+Final Decision: Based on the pessimistic sentiment in the management discussion, the adverse impact of the pandemic on sales and profitability, and the ongoing uncertainties surrounding the extent of the pandemic's impact, the company is classified as having a Medium risk of bankruptcy in the future. The company's focus on cost-cutting measures and liquidity management indicates proactive steps to mitigate risks, but the prolonged effects of the pandemic could still pose significant challenges.

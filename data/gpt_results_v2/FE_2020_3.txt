@@ -1,0 +1,9 @@
+Decision: Medium risk
+
+Step 1: The overall sentiment of the management discussion appears to be mixed, with a focus on challenges faced by the company related to legal investigations and the impact of COVID-19. This indicates a level of cautiousness from the management.
+
+Step 2: The company has experienced a decrease in net income, along with increases in operating and maintenance expenses. Despite an increase in total revenues, there are concerns raised regarding higher costs and storm restoration expenses that could impact profitability.
+
+Step 3: The company's financial results for the third quarter of 2020 show an increase in net income in the Regulated Distribution segment, but also higher operating expenses and storm restoration costs. The decrease in wholesale generation revenues and the presence of deferred costs for future recovery suggest financial challenges ahead.
+
+Final Decision: The company exhibits a medium risk of bankruptcy. While there are positive aspects such as revenue growth, the higher expenses, legal investigations, and uncertainties surrounding the impact of COVID-19 raise concerns about the company's financial stability in the future.

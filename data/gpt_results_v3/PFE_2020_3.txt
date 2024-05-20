@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion and headlines seems cautious and realistic. The discussion includes mentions of challenges faced by the company, such as patent expirations and COVID-19 impact, indicating awareness of potential risks. For example, "The pandemic’s impact on our business, operations and financial condition and results was less severe at its peak than originally anticipated, but is recovering at a somewhat slower pace than originally expected."
+
+Step 2: 
+- Working Capital to Total Assets (X1): Negative value (-0.0197) indicates potential liquidity issues as the working capital is not sufficient to cover current liabilities.
+- Retained Earnings to Total Assets (X2): Moderate value (0.5225) signifies that a significant portion of the company's assets are funded by retained earnings, which is positive for long-term stability.
+- EBIT to Total Assets (X3): Low value (0.0144) suggests lower profitability relative to total assets.
+- Total Revenue to Total Assets (X5): The revenue generated relative to total assets is moderate (0.2583), indicating some efficiency in asset utilization.
+
+Step 3: The financial ratios portray a mixed picture. While the company has good retention of earnings, the negative working capital and relatively low EBIT to total assets ratio raise concerns. The revenue to total assets ratio indicates reasonable efficiency, but potential liquidity challenges and lower profitability could pose risks.
+
+Step 4: Considering the cautious tone in the management discussion, the combination of financial ratios showing both strengths and weaknesses, and the challenges mentioned in the text, it is prudent to classify the company as having a Medium Risk of bankruptcy. The company appears to be facing some significant challenges that could impact its financial stability in the future.

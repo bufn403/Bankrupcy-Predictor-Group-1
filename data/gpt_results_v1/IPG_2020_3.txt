@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is pessimistic, indicating a high level of concern about the impact of the COVID-19 pandemic on the company's operations and financial position. For instance, the filing states, "The effects of the COVID-19 pandemic have negatively impacted and will likely continue to negatively impact our results of operations, cash flows and financial position" and "Some businesses have adjusted, reduced or suspended operating activities, which has negatively impacted the markets we serve."
+
+Step 2: Relevant numbers and figures provided in the discussion show a decrease in organic net revenue and Adjusted EBITA margin for both the third quarter and the first nine months of 2020 compared to the prior-year periods. The filing mentions, "Our organic net revenue decrease of 3.7% for the third quarter of 2020" and "During the third quarter of 2020, our Adjusted EBITA margin decreased to 13.8% from 14.7% in the prior-year period."
+
+Step 3: The company implemented restructuring actions to lower operating expenses and took cost reduction initiatives. The filing states, "In the second and third quarters of 2020, the Company took restructuring actions to lower our operating expenses structurally and permanently relative to revenue" and "The resulting restructuring charges of $47.3 and $159.9 for the three and nine months ended September 30, 2020, to reduce our ongoing expenses such as occupancy expense and salaries and related expenses, reflects the breadth of our review."
+
+Based on the pessimistic sentiment, decrease in financial performance metrics, and the restructuring actions taken, the company is classified as having a medium risk of bankruptcy. The combination of negative impacts from the pandemic, declining revenue, and significant restructuring activities suggests a level of financial distress that warrants caution.

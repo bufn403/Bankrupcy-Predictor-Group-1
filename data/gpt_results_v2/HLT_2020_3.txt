@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment in the management discussion section is pessimistic. The company acknowledges the significant impact of the COVID-19 pandemic on its business, resulting in material adverse effects on its results for the three and nine months ended September 30, 2020, and expects continued adverse impacts in future periods. For example, the filing states, "it had a material adverse impact on our results for the three and nine months ended September 30, 2020 and... we expect it to continue to have a material adverse impact on our results in future periods."
+
+Step 2: Relevant numbers and figures provided in the discussion include decreases in revenue from comparable hotels, franchised properties, and owned/leased hotels due to declines in occupancy, ADR, and RevPAR. The filing mentions how decreases in these metrics led to reduced revenue and profit. For example, it states, "For the three months ended September 30, 2020, RevPAR decreased 55.1 percent at our comparable franchised properties and 72.0 percent at our comparable managed properties."
+
+Step 3: The conditions are likely to worsen for the company based on the information provided. Despite some hotels reopening, they have experienced significantly lower occupancy levels, and the COVID-19 pandemic continues to impact the hospitality industry. The filing mentions how RevPAR declines were pronounced in all regions due to the pandemic, with improvements seen only month over month. It also describes how the reduction in travel caused suspensions in hotel operations, leading to decreased revenue.
+
+Considering the pessimistic sentiment, decreases in key metrics, and the expectation of continued adverse impacts, the company is classified as having a medium risk of bankruptcy. The challenges faced by the company due to the pandemic, substantial revenue declines, and uncertain future outlook contribute to this assessment.

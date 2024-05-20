@@ -1,0 +1,13 @@
+Decision: Medium
+
+Step 1: The overall sentiment of the management's discussion seems to reflect a mix of challenges and adaptations due to the ongoing COVID-19 pandemic. While there are mentions of disruptions and adverse effects, there are also descriptions of proactive measures taken by the company to address these challenges. This indicates a cautious and realistic tone.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The working capital to total assets ratio is extremely low (0.0012), indicating potential liquidity issues and the company may struggle to cover its short-term obligations with its current assets.
+- Retained Earnings to Total Assets (X2): The retained earnings to total assets ratio is also relatively low (0.0772), suggesting that a significant portion of the company's assets are not generated from earnings but from external sources.
+- EBIT to Total Assets (X3): The EBIT to total assets ratio is moderate (0.0423), showing the company's ability to generate earnings from its assets but not at a high rate.
+- Total Revenue to Total Assets (X5): The total revenue to total assets ratio is relatively high (0.4658), indicating that the company is efficiently utilizing its assets to generate revenue.
+
+Step 3: Combining the insights from the text and financial ratios, it appears that the company is facing challenges due to the COVID-19 pandemic, especially in its commercial and aviation segments. The low working capital to total assets ratio and moderate EBIT to total assets ratio suggest potential liquidity issues and operational challenges. However, the relatively high total revenue to total assets ratio shows some level of efficiency in revenue generation.
+
+Step 4: Overall, considering the cautious tone of the management's discussion, the low working capital ratio, and the moderate EBIT ratio, the company is classified as having a Medium risk of bankruptcy. The company's financial stability seems to be somewhat precarious due to the current economic conditions and specific segment challenges. Additional monitoring and strategic planning may be necessary to mitigate the risk of potential bankruptcy in the future.

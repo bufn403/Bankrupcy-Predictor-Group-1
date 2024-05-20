@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be cautiously optimistic. They have implemented risk management plans due to COVID-19 but have not experienced significant negative impacts. Quote: "COVID-19 has not had a significant negative impact on our business operations, employee availability, financial condition, liquidity or cash flows."
+
+Step 2: The company took actions to strengthen liquidity by borrowing and issuing notes in response to market uncertainties posed by COVID-19. They repaid outstanding credit facility amounts and repaid commercial paper borrowings. Quote: "We took actions to strengthen our liquidity and cash position... in March 2020, we borrowed $799 million under the revolving credit commitment."
+
+Step 3: While certain segments like Market Technology were affected, the company sees growth in other areas such as Market Data and Index business. The demand for services like Market Services and Corporate Services remains positive. Quote: "Our Market Data business has demonstrated resilience and stable performance...Our Index business continues to demonstrate strong resilience and growth."
+
+Based on the cautiously optimistic sentiment of management, the actions taken to strengthen liquidity, and the positive outlook in various segments, I conclude that the company has a medium risk of bankruptcy in the future.

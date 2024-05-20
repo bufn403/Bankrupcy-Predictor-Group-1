@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The sentiment in the management's discussion is cautiously optimistic. They highlight their efforts to adapt to the challenges posed by COVID-19 and emphasize their mission to protect life through innovative products. However, they also address financial losses and the impact of the pandemic on their operations.
+
+Step 2: The company experienced a significant increase in revenues for both the three and nine months ended September 30, 2020, compared to the prior year. For example, revenues for the three months ended September 30, 2020, were $166.4 million, representing a 27.2% increase from the same period in the prior year. Despite the revenue growth, there were signs of financial struggle as they reported a net loss of $0.9 million for the three months and $27.6 million for the nine months ended September 30, 2020.
+
+Step 3: The company faced challenges with gross margin decline, increased operating expenses, and losses from operations. The decline in gross margin was attributed to product mix issues and the fulfillment of lower-margin body camera hardware. They also reported increased operating expenses to support growth and highlighted an increase in stock-based compensation expense and litigation costs. The net losses and the increase in expenses indicate a challenging quarter.
+
+Step 4: Considering the optimistic tone amid challenging financial results, including net losses, increased expenses, and declining gross margins, the company falls into the medium-risk category for bankruptcy. While they have taken steps to mitigate the impact of COVID-19 and have a strong liquidity position, the financial performance and operational challenges suggest a level of risk that cannot be ignored. The uncertainty surrounding the pandemic and its ongoing effects on the economy further contribute to the medium risk classification.

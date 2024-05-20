@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The sentiment from the management's discussion appears to be a mix of optimism and caution. While they discuss strong cash flows, debt reduction plans, and strategic growth projects, they also mention challenges such as the ransomware incident and the ongoing impacts of COVID-19. This indicates a balanced view of the current situation.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0755 indicates that the company has a relatively low working capital in proportion to its total assets, which can be a sign of potential liquidity challenges.
+- Retained Earnings to Total Assets (X2): 0.0101 suggests a relatively low proportion of retained earnings compared to total assets, which may point towards limited accumulation of profits.
+- EBIT to Total Assets (X3): -0.0426 shows a negative EBIT to total assets ratio, indicating potential operational challenges in generating earnings from its assets.
+- Total Revenue to Total Assets (X5): 0.7401 demonstrates that the company generates a significant amount of revenue in relation to its total assets, which is a positive indicator.
+
+Step 3: Combining the text analysis with the financial ratios, we can see that while there are positive aspects such as strong revenue generation, there are also concerning factors like low working capital and negative EBIT. The impact of the ransomware incident on operations and the ongoing effects of COVID-19 further add to the uncertainty.
+
+Step 4: Considering the balanced sentiment in the management's discussion, the mix of financial ratios pointing to both positive and negative indicators, and the external challenges faced by the company, the overall assessment leans towards a medium risk of bankruptcy. The company appears to be navigating through a challenging period with some areas of strength but also notable areas of vulnerability.

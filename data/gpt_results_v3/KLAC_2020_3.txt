@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The management discussion provides a detailed overview of the company's operations, market trends, and response to the COVID-19 pandemic. The overall sentiment appears cautious and adaptive: "We believe these actions are appropriate and prudent to safeguard our employees, contractors, suppliers, customers, and communities, while allowing us to safely continue operations." This indicates a realistic approach to managing challenges.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The working capital to total assets ratio of 0.328 suggests that the company may have enough short-term assets to cover its short-term liabilities, indicating some level of financial stability.
+- Retained Earnings to Total Assets (X2): The retained earnings to total assets ratio of 0.060 indicates that the company has moderate retained earnings relative to its total assets, which may imply some level of financial strength.
+- EBIT to Total Assets (X3): The EBIT to total assets ratio of 0.290 reflects the company's ability to generate earnings from its assets, indicating operational efficiency.
+- Total Revenue to Total Assets (X5): The total revenue to total assets ratio of 0.746 shows that the company generates a significant amount of revenue relative to its assets, which is a positive indicator of financial performance.
+
+Step 3: By combining the sentiment analysis with the financial ratios, it can be inferred that the company is adapting to challenges and has relatively stable financial indicators. The company's revenue generation is strong, but caution is warranted due to the impact of the COVID-19 pandemic on economic activity.
+
+Step 4: Based on the cautious sentiment in the management discussion, along with the moderate financial ratios reflecting stability, the company is classified as having a medium risk of bankruptcy. While there are positive aspects like revenue generation and operational efficiency, the uncertainties linked to the pandemic and the need for ongoing adaptation indicate a level of risk that falls between low and high.

@@ -1,0 +1,9 @@
+high
+
+Step 1: The overall sentiment of the management's discussion is cautious and slightly pessimistic. The company acknowledges the adverse impacts of the COVID-19 pandemic on its financial results, particularly citing significantly higher provisions for credit losses during the first three quarters of 2020 compared to previous years.
+
+Step 2: Relevant numbers and figures provided in the discussion further indicate a challenging financial situation. For example, the net income for M&T Bank Corporation decreased from $480 million in the third quarter of 2019 to $372 million in the same quarter of 2020. Additionally, the provision for credit losses increased substantially from $45 million in the third quarter of 2019 to $150 million in the recent quarter.
+
+Step 3: The conditions are likely to worsen based on the company's statement that they expect to continue being negatively impacted by the COVID-19 pandemic after September 30, 2020, which could have a material impact on their future financial results. They also mention higher estimates of expected credit losses in future reporting periods compared to January 1, 2020.
+
+Based on the cautious and pessimistic sentiment, the decrease in net income, the significant increase in provisions for credit losses, and the expectation of continued negative impacts from the pandemic, the company is classified as having a high risk of bankruptcy in the future. The uncertainty surrounding economic recovery, ongoing impacts of the pandemic on various sectors, and potential deteriorating economic assumptions all contribute to this assessment.

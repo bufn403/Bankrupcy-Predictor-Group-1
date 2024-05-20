@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion seems cautious and highlights both positive and negative factors affecting the company's performance. The tone is informative rather than overly optimistic or pessimistic.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0113 indicates a relatively low working capital compared to total assets, which might suggest potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.0343 shows a moderate level of retained earnings in relation to total assets, indicating stability but not significant surplus.
+- EBIT to Total Assets (X3): 0.0332 implies a decent return on assets, which is positive for profitability.
+- Total Revenue to Total Assets (X5): 0.0430 reflects a moderate level of revenue generation in relation to total assets.
+
+Step 3: Combining the financial ratios and the management discussion, we see a mixed picture. While the company has decent profitability (X3) and revenue generation (X5), the relatively low working capital (X1) and moderate retained earnings (X2) raise some concerns about liquidity and long-term financial strength. The discussion also mentions factors like decreased interest rate contract volumes and market volatility, which could impact future performance.
+
+Step 4: Considering the overall analysis, the company appears to have a medium risk of bankruptcy. While there are positive aspects like profitability and revenue generation, the liquidity concerns and external factors affecting market conditions make it necessary for the company to closely monitor its financial stability and make strategic decisions to mitigate risks.

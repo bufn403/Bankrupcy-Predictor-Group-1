@@ -1,0 +1,13 @@
+Final Decision: Medium
+
+Step 1: The overall sentiment of the management's discussion is cautious and highlights the challenges faced by the company due to the COVID-19 pandemic. The text mentions, "we expect our future operating results, particularly those of our Collins Aerospace and Pratt & Whitney businesses to continue to be significantly negatively impacted" and "the actual financial impact is highly uncertain and subject to a wide range of factors and future developments."
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0102 - This ratio indicates that the company has a very low working capital in relation to its total assets, which may signal liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.3222 - This ratio shows that a significant portion of the company's total assets are tied up in retained earnings, which could be a positive sign for long-term stability.
+- EBIT to Total Assets (X3): 0.0339 - This ratio suggests that the company's earnings before interest and taxes in relation to total assets are relatively low.
+- Total Revenue to Total Assets (X5): 0.4258 - This ratio indicates that the company generates a significant amount of revenue relative to its total assets, which could be a positive indicator.
+
+Step 3: The combination of the cautious sentiment in the management's discussion and the low working capital to total assets ratio suggests that the company is facing financial challenges. The COVID-19 pandemic has significantly impacted the company's operations, particularly in the Collins Aerospace and Pratt & Whitney businesses. The financial ratios indicate mixed signals, with a relatively high revenue to assets ratio but low EBIT to assets ratio, reflecting potential profitability challenges.
+
+Step 4: Based on the cautious outlook presented in the management discussion text, along with the low working capital to total assets ratio, the overall assessment points towards a medium risk of bankruptcy. The company is facing significant challenges, especially in the current economic environment influenced by the COVID-19 pandemic. The financial ratios, while mixed, do not provide a strong indication of immediate bankruptcy risk but suggest financial stress and potential liquidity issues.

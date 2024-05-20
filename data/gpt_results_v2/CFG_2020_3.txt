@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion appears to be cautious due to the mention of challenges and uncertainties, such as the impact of COVID-19 on their business operations and financial performance. This is reflected in statements like, "We caution you, therefore, against relying on any of these forward-looking statements." This cautious tone suggests a level of concern about potential risks.
+
+Step 2: Looking at the numbers provided in the discussion, there are notable decreases in key financial metrics, such as net income and earnings per share for the third quarter of 2020 compared to the same period in 2019. For instance, "Third quarter 2020 net income of $314 million decreased 30% from $449 million in the third quarter of 2019." These declines indicate a potential downturn in financial performance.
+
+Step 3: The discussion mentions that the company's results were impacted by the COVID-19 pandemic, leading to a decline in net interest margin, increased provision for credit losses, and notable items tied to transformational initiatives. The challenges faced by the company in 2020 are likely to have a lingering effect on their performance in the future.
+
+Based on the cautious sentiment, decreases in key financial metrics, and challenges ahead for the company, the assessment suggests that the company faces a medium risk of bankruptcy in the future.

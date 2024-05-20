@@ -1,0 +1,13 @@
+Medium
+
+Step 1: 
+The sentiment in the management's discussion appears to be cautious and grounded. While there is mention of growth and global revenue increase, the discussion is focused on uncertainties and risks associated with the COVID-19 pandemic. For example, it states, "Moody’s is committed to working to empower people with the knowledge, resources, and confidence they need to create a better future...it is reasonably possible that the Company could experience material impacts including...reductions in revenue and cash flows" and "While it is reasonably possible that the COVID-19 crisis will have a material impact on the results of operations and cash flows..." These statements suggest a realistic and cautious outlook.
+
+Step 2:
+There are discussions about impacts on the Company's liquidity, such as adding $700 million in additional long-term borrowings and temporarily suspending share repurchase programs to maximize liquidity during the uncertainties caused by the pandemic. Additionally, there is mention of reductions in discretionary spending and utilizing provisions in the CARES Act for tax deferrals. These actions indicate financial stress and the need to bolster financial resources.
+
+Step 3:
+The mentions of disruptions in certain sectors of the business due to market volatility associated with the pandemic and uncertainties regarding the duration and severity of the crisis imply challenges in the current operating environment. This suggests that the conditions might continue to be challenging, affecting revenue, cash flows, and overall financial performance negatively in the near term.
+
+Step 4: 
+Taking into account the cautious sentiment, the financial stress indicators, and the challenging operating environment due to the pandemic, the company is classified as having a medium risk of bankruptcy. While the company has taken measures to enhance liquidity and manage costs, the uncertainties and potential material impacts on financial position and operating results indicate a significant level of risk that cannot be overlooked.

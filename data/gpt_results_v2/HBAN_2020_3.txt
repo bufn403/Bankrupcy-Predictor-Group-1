@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The management discussion in the 10-Q filing indicates a somewhat cautious sentiment due to the impact of the COVID-19 pandemic on the global economy. They mention how the pandemic has negatively affected their performance and that the economic fundamentals in their footprint will continue to be challenged.
+
+Step 2: The financial numbers provided in the discussion show a decrease in net income compared to the year-ago quarter, an increase in provision for credit losses, and increases in noninterest expenses. Additionally, the net interest margin has decreased, and there has been a slight decrease in certain revenues like service charges on deposit accounts.
+
+Step 3: Based on the provided figures, there is a failed quarter as shown by the decrease in net income, increase in credit losses provision, and higher noninterest expenses. The conditions do not seem likely to improve in the near future due to the ongoing impact of the pandemic on their operations and the economy.
+
+Therefore, based on the sentiment, numbers, and future outlook provided in the filing, the company is classified as having a medium risk of bankruptcy.

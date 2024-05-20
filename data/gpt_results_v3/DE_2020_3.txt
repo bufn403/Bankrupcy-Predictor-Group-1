@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The sentiment of the management's discussion is a mix of cautious optimism and acknowledgment of challenges. While the company discusses implementing a smart industrial operating model to improve efficiencies, they also highlight uncertainties related to the COVID pandemic and its impact on their operations and markets.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.339 is relatively low, indicating potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.489 shows a moderate level of earnings retention.
+- EBIT to Total Assets (X3): 0.148 reflects the company's ability to generate earnings from its assets.
+- Total Revenue to Total Assets (X5): 0.578 indicates a high level of revenue generated relative to total assets.
+
+Step 3: Combining the sentiment of the text with the financial ratios, the company appears to be facing challenges due to the COVID pandemic impacting demand for their products. The decrease in sales in the agriculture and turf segment and construction & forestry segment, as mentioned in the text, is a concern for the company's financial performance. The positive cash flows from operating activities are offset by cash outflows from investing activities, potentially affecting liquidity.
+
+Step 4: The company exhibits a medium risk of bankruptcy due to the cautious outlook presented in the management's discussion, the mixed financial ratios indicating liquidity concerns, and the challenges faced in key segments. Further monitoring of the company's ability to adapt to market conditions and manage their liquidity will be crucial in determining their future financial stability.

@@ -1,0 +1,15 @@
+Decision: Medium
+
+Step 1: The overall sentiment of the management discussion is a mix of optimism and caution. While the company addresses challenges such as the impact of COVID-19 on the global economic activity, they also highlight their strategy to provide large-scale energy infrastructure and the ability to access debt markets if necessary.
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.025 indicates a negative working capital, which could be a cause for concern as it implies that current liabilities exceed current assets.
+- Retained Earnings to Total Assets (X2): -0.233 signifies a relatively low proportion of retained earnings to total assets, indicating that the company may be struggling to generate profits and retain them.
+- EBIT to Total Assets (X3): 0.107 reflects a positive EBIT to total assets ratio, suggesting that the company is generating operating profit from its assets.
+- Total Revenue to Total Assets (X5): 0.207 demonstrates a moderate total revenue to total assets ratio, indicating that the company is able to generate revenue relative to its asset base.
+
+Step 3: The financial ratios reveal a mixed financial stability picture. The negative working capital and low retained earnings raise concerns, while the positive EBIT to total assets ratio is a positive sign. The total revenue to total assets ratio indicates a moderate revenue generation capability.
+
+Step 4: Considering the optimistic and cautious tone of the management discussion, alongside the mix of financial ratios indicating strengths and weaknesses, the company appears to have a medium risk of bankruptcy. The negative working capital and low retained earnings pose challenges, but the positive EBIT signals profitability. The company's ability to access debt markets and the ongoing major expansion projects provide some resilience. The combination of these factors points towards a medium risk of bankruptcy.
+
+(Note: The specific financial ratios and quotes used in this analysis were directly obtained from the provided data.)

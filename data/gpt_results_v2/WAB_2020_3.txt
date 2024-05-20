@@ -1,0 +1,17 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is mixed. While there is acknowledgment of challenges faced due to the COVID-19 pandemic, there is also a focus on long-term financial goals and strategies to mitigate adverse consequences.
+
+Quote supporting sentiment: "In 2020 and beyond, general global economic and market conditions will have an impact on our sales and operations. The COVID-19 pandemic has increased the uncertainty around global economic and market conditions."
+
+Step 2: The company experienced a decrease in net sales and faced challenges in the third quarter of 2020, primarily attributable to lower freight rail volumes, reduced sales in components, and delays in transit segment production due to the pandemic.
+
+Quote supporting challenges: "Net sales for the three months ended September 30, 2020 decreased by $137 million, or 6.8%, to $1.9 billion. The decrease is primarily attributable to...lower sales in Components due to a reduction of freight car builds in the third quarter of 2020."
+
+Step 3: Despite the challenges, the company implemented cost-saving measures, including restructuring programs, to address the impact of the pandemic. While there were reductions in sales and an increase in operational costs, the company focused on synergy savings and cost reduction initiatives.
+
+Quote supporting cost-saving measures: "Restructuring and transaction costs included in SG&A were $12 million in the third quarter of 2020...SG&A expenses decreased $12 million related to acquisition synergy savings and cost reduction initiatives."
+
+Step 4: Taking into account the mixed sentiment, challenges faced in the quarter, and the proactive cost-saving measures implemented, the company is classified as having a medium risk of bankruptcy. While the company is actively addressing challenges, the ongoing impact of the pandemic and uncertainties in global economic conditions pose risks to its future financial stability.
+
+Therefore, the company is categorized as having a medium risk of bankruptcy.

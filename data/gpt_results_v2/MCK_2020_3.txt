@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be a mix of optimistic and pessimistic due to the impact of COVID-19 on the company's operations. For example, they mentioned, "Following the onset of the pandemic, pharmaceutical distribution volumes decreased during the first quarter as a result of the weakened and uncertain global economic environment and COVID-19 restrictions," which indicates challenges faced by the company.
+
+Step 2: They provided figures such as revenues increasing by 6% for the three months ended December 31, 2020, and 4% for the nine months ended December 31, 2020. Although there was an increase, it is important to note that these numbers also include adverse impacts from COVID-19, which affected pharmaceutical distribution volumes.
+
+Step 3: The discussion highlights the improvement in demand for COVID-19 tests and the income generated from distributing COVID-19 vaccines. They also mentioned that certain expenses increased, such as costs for enhanced safety measures and providing PPE for employees, which could impact future profitability.
+
+Step 4: Considering the mixed sentiments in the management's discussion, the increase in revenues despite the challenges posed by COVID-19, and the additional expenses incurred, it is assessed that the company has a medium risk of bankruptcy. While they have managed to adapt and generate income from COVID-19 related activities, the uncertainties surrounding the pandemic's impact on future operations and financial results indicate a level of risk that falls between low and high.

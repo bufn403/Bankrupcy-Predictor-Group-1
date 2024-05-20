@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is pessimistic as they highlight the significant negative impact of the COVID-19 pandemic on their business. For example, "Our financial results and prospects are almost entirely dependent on the sale of travel and restaurant-related services" and "Our results for the quarters have been significantly and negatively impacted."
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.152 indicates a lower proportion of working capital to total assets, which may suggest liquidity challenges.
+- Retained Earnings to Total Assets (X2): 1.307 indicates a healthy level of retained earnings to total assets, which is positive for long-term stability.
+- EBIT to Total Assets (X3): 0.262 indicates moderate earnings before interest and taxes compared to total assets.
+- Total Revenue to Total Assets (X5): 0.877 shows that the company generates a significant amount of revenue in relation to total assets, which is generally positive.
+
+Step 3: The financial ratios show mixed signals. While the high Retained Earnings to Total Assets ratio is positive for long-term stability, the low Working Capital to Total Assets ratio indicates potential liquidity challenges. Additionally, the negative impact of the COVID-19 pandemic on the company's financial performance suggests a challenging quarter overall.
+
+Step 4: Based on the overall sentiment of the management's discussion, the mixed signals from the financial ratios, and the challenging impact of the COVID-19 pandemic on the company's operations, the assessment leans towards a medium risk of bankruptcy. The company faces significant challenges due to the pandemic, which could impact its financial stability in the future.

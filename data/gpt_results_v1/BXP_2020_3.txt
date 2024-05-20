@@ -1,0 +1,13 @@
+Medium
+
+1. **Step 1:**
+    - The sentiment in the management discussion section appears cautious and realistic. While the company mentions its competitive advantages and focuses on tenant satisfaction and property development, they also address the challenges posed by the ongoing COVID-19 pandemic on the economy and their operations. The statement, "Because of the uncertainty regarding the length and severity of the pandemic, many existing and prospective tenants are deferring decisions on their office space needs as they focus on their employees’ safety, their companies’ liquidity and managing their businesses through the recession and economic recovery," reflects a cautious and uncertain outlook.
+
+2. **Step 2:**
+    - The company provides information on its rent collections and the impact of the pandemic on its various revenue streams. They mention, "In the third quarter of 2020, our rent collections as a percentage of the total amounts billed to all tenants were 97%," indicating a relatively strong collection rate despite challenges. However, they also highlight that retail rent collections were at 62%, which is significantly lower compared to office rent collections at 99%.
+
+3. **Step 3:**
+    - The company discusses the decline in parking and other revenue as well as the challenges faced by their hotel property. They state, "Our hotel property, the Boston Marriott Cambridge, remained closed throughout the third quarter and therefore operated at an approximately $3.1 million loss." Additionally, they mention the expected adverse effects on revenues due to declines in various sectors and write-offs of accounts receivable and accrued rent balances.
+
+4. **Step 4:**
+    - Considering the cautious sentiment, the varying rent collection rates, the challenges in revenue streams such as retail and hospitality, and the uncertainties posed by the pandemic on business decisions and economic recovery, the company is at a **medium risk** of bankruptcy. While they have strategies in place and a diverse portfolio, the current economic conditions and the impact on their revenue streams present significant challenges that could affect their financial stability in the near term.

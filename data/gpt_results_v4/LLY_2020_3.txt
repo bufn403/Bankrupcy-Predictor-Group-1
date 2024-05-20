@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The management's discussion reflects a mixture of caution and optimism. The company discusses the negative impact of the COVID-19 pandemic on their business operations, revenue, and expenses. They detail the challenges faced due to decreased new prescriptions, changes in payer segments, and pricing pressures. However, they also highlight the steps taken to address the pandemic, including clinical trial resumptions and development of potential COVID-19 treatments.
+
+Step 2: 
+- Revenue Impact: The company mentions a negative impact on revenues due to decreases in new prescriptions and changes in payer segment mix.
+- Operating Expenses: The discussion notes that operating expenses increased due to higher research and development and marketing expenses.
+- Changes in Net Income: The decrease in net income and earnings per share is attributed to higher operating expenses during the reporting period.
+
+Step 3: The company acknowledges the adverse effects of the COVID-19 pandemic on its operations, including declines in new prescriptions and disruptions to clinical trials. While it has managed to maintain normal operations during the pandemic and has not observed material impairments or significant changes in asset values, the ongoing uncertainties associated with the pandemic and its potential prolonged impact could pose challenges to future operations and financial results.
+
+Step 4: Medium risk of bankruptcy. Despite the company's efforts to mitigate the impact of the COVID-19 pandemic, the significant negative effects on revenue, net income, and operational expenses suggest a medium level of risk. The uncertainties surrounding the duration and depth of the pandemic's effects, as well as potential challenges in developing and launching new medicines efficiently, could pose financial risks to the company in the long term.

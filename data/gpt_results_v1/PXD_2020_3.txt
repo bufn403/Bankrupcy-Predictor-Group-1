@@ -1,0 +1,14 @@
+Medium
+1. **Step 1:**
+The overall tone of the management's discussion in the 10-Q filing appears cautiously optimistic. While acknowledging the challenges posed by the COVID-19 pandemic and its impact on the oil and gas industry, the company has taken proactive measures to address the situation. For example, they have implemented various cost-saving initiatives, adapted business practices to conform to government restrictions, and have taken steps to strengthen their financial position and increase liquidity.
+
+2. **Step 2:**
+One concerning aspect is the significant decrease in net income for the three months ended September 30, 2020, compared to the same period in 2019. The net loss attributable to common stockholders was $20 million for Q3 2020, primarily driven by various adverse factors such as decrease in oil and gas revenues, lower net sales of purchased oil and gas, increase in other expenses related to corporate restructuring, and decrease in net gain on disposition of assets.
+
+3. **Step 3:**
+The company's cash flow from operating activities also decreased significantly during Q3 2020 to $391 million, compared to $895 million in the same period in 2019. This decrease was mainly due to reduced oil revenues, lower net sales of purchased oil and gas, and cash used in derivative activities.
+
+4. **Step 4:**
+Considering the overall sentiment of the filing, the decrease in net income, and the significant decrease in cash flow from operating activities, the company appears to have a medium risk of bankruptcy. Although they have implemented measures to address the challenges posed by the pandemic and have taken steps to enhance their liquidity, the continued uncertainty surrounding the duration and impact of the pandemic on global oil demand could potentially worsen the company's financial situation.
+
+Therefore, the assessment of medium risk is based on a mixed picture presented in the filing, with some positive initiatives to mitigate risks but significant financial challenges and uncertainties that could impact the company's future financial health.

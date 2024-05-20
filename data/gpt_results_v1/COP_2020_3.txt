@@ -1,0 +1,12 @@
+high
+
+Step 1: The overall sentiment of the management's discussion is pessimistic.
+    - Quote: "The COVID-19 pandemic and the significant decline in commodity prices as well as decreased demand for products refined from crude oil significantly impacted our financial results in the first nine months of 2020, and are expected to negatively impact our future results."
+    
+Step 2: The discussion mentions a significant decline in financial results due to external factors.
+    - Quote: "Our revenues for the first nine months of 2020 were $97.9 billion, a decrease of 42% from the same period in 2019."
+    
+Step 3: The company experienced a substantial decrease in revenues, and the outlook remains negative.
+    - Quote: "Given these factors, our future operating results, cash flows, and financial condition will be significantly impacted. We may be required to record impairment charges, restructuring charges, or certain asset write-downs in the future."
+
+Based on the pessimistic sentiment, significant decline in revenues, and the expected negative impact on future results, the company is determined to have a high risk of bankruptcy.

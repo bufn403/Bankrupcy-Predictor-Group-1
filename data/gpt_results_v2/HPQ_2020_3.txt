@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautious and realistic. They mention facing challenges in various segments, such as declining markets and competitive pressures, which indicates a level of uncertainty. One statement that reflects this sentiment is: "However, the rate at which we are able to invest in our business and the returns that we are able to achieve from these investments will be affected by many factors...". This statement shows a recognition of potential obstacles.
+
+Step 2: Looking at the numbers provided, we see that total net revenue decreased by 2.1% for the three months ended July 31, 2020, and by 4.5% for the nine months ended July 31, 2020, both compared to the prior-year period. This decline in revenue indicates a struggle to maintain or grow their sales. The statement that supports this is: "The decrease in total net revenue was primarily driven by decline in Desktops, Supplies, Commercial Printing Hardware...".
+
+Step 3: The challenges mentioned, such as competitive pricing environments, global economic challenges, and disruptions in the supply chain, suggest that the conditions are likely to worsen. This creates uncertainty about the company's ability to improve its financial performance in the near future. A quote that reflects this is: "We continue to face global macroeconomic challenges, tariff-driven headwinds, uncertainty in the markets, volatility in exchange rates...".
+
+Step 4: Based on the cautious sentiment, declining revenue numbers, and the challenges mentioned, it is likely that the company faces a medium risk of bankruptcy. The uncertainties in the global markets, coupled with the decline in revenue and the challenges in various segments, indicate a level of risk that is not extremely low but also not extremely high.

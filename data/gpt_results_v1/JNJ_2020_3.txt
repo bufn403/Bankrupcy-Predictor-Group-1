@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment in the management's discussion appears to be mixed. While there are instances of positive growth in certain segments such as Consumer Health and Pharmaceuticals, there are concerns highlighted due to COVID-19 impacts and competitive pressures affecting different product franchises. This mixed sentiment indicates a cautious outlook.
+
+Step 2: The financial numbers provided in the filing show a variety of changes in sales across different segments. For example, the Consumer Health segment had both increases and decreases in sales, showcasing a varied performance. Likewise, the Medical Devices segment experienced a significant decrease in sales, with notable operational declines and negative currency impacts. These fluctuating figures suggest instability in the company's revenue streams.
+
+Step 3: The narrative mentions that some segments faced challenges due to COVID-19 impacts, which led to reduced procedures affecting the Medical Devices segment and lower sales in certain product franchises. While there were mentions of gradual improvements in sales as regions began to reopen, the uncertainty regarding the ultimate impact of COVID-19 on the company's sales throughout the fiscal year raises concerns about future performance.
+
+Based on the above analysis, considering the mixed sentiment, fluctuating sales figures across segments, and challenges posed by COVID-19 impacting various product lines, the company is classified as having a medium risk of bankruptcy. The revenue instability and the lingering effects of COVID-19 contribute to this assessment.

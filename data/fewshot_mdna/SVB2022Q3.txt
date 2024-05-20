@@ -1,0 +1,64 @@
+Management’s Overview of Third Quarter 2022 Performance
+In the third quarter, prolonged public market volatility continued to impact public and private fundraising activity, pressuring balance sheet growth and
+market-related revenues. Despite challenging market conditions, we delivered overall healthy performance. Net interest income grew, with moderating
+positive impact from high interest rates due to deposit outflows and higher funding costs. We also saw solid loan growth and continued strong credit
+performance. Core fee income growth was robust, as interest rate increases drove improved client investment fee margins.
+Reference Rate Reform
+The publication of the British Pound Sterling, Euro, Swiss Franc and Japanese Yen LIBOR settings and one-week and two-month U.S. dollar LIBOR settings
+terminated at the end of December 2021, leaving the remaining U.S. dollar LIBOR settings (i.e., overnight, one month, three month, six month and 12 month)
+in place, which are expected to terminate at the end of June 2023. Therefore, existing contracts referencing all other U.S. dollar LIBOR settings must be
+remediated no later than June 30, 2023. We hold instruments that may be impacted by the discontinuance of LIBOR, including loans, investments and
+derivative products that use LIBOR as a benchmark rate.
+Our LIBOR Transition Program consists of dedicated leadership and staff, and continues to engage with relevant business lines and support groups. As
+part of this program, we continue to identify, assess and monitor risks associated with the discontinuation of LIBOR, including monitoring the population of
+loans and contracts that are impacted and how LIBOR reference rates are reflected in our measurement of sensitivity to changes in interest rates until
+publication of LIBOR rates are fully phased out. We completed a review across all business lines and confirmed that language to facilitate a transition to an alternative reference rate is
+included in our existing deals that carry LIBOR exposure. Migration of legacy LIBOR contracts has commenced based on regulatory timelines, with proactive
+remediation conducted for existing LIBOR facilities that contained currencies tied to LIBOR rates that ceased publication as of December 31, 2021. A
+communications and training plan supports the delivery of new alternative reference rate products and assists with the transition away from LIBOR.
+We have adopted SOFR as our preferred replacement index for U.S. dollar LIBOR and received Term SOFR licensing from the Chicago Mercantile
+Exchange in the fourth quarter of 2021. We currently offer products based on alternative reference rates across multiple currencies including the U.S. Dollar,
+British Pound Sterling, and Euro.
+
+Critical Accounting Policies and Estimates
+Our accounting policies are fundamental to understanding our financial condition and results of operations. We have identified one policy as being
+critical because it requires us to make particularly difficult, subjective and/or complex judgments about matters that are inherently uncertain, and because it
+is likely that materially different amounts would be reported under different conditions or using different assumptions. We evaluate our estimates and
+assumptions on an ongoing basis and we base these estimates on historical experiences and various other factors and assumptions that are believed to be
+reasonable under the circumstances. Actual results may differ materially from these estimates under different assumptions or conditions.
+There have been no significant changes during the nine months ended September 30, 2022 to the items that we disclosed as our critical accounting
+policies and estimates in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” under Part II, Item 7 of our 2021 Form 10-
+K.
+Recent Accounting Pronouncements
+In March 2022, the FASB issued Accounting Standard Update No. 2022-01, Derivatives and Hedging (Topic 815), which allows multiple hedged layers to
+be designated in a single closed portfolio of financial assets. As a result, an entity can achieve hedge accounting for hedges of a greater proportion of the
+interest rate risk inherent in the assets included in the closed portfolio, further aligning hedge accounting with our risk management strategies. The update
+allows for a one-time transfer of certain debt securities from HTM to AFS upon adoption. This update is effective for fiscal years beginning after December 15,
+2022, and interim periods within those fiscal years. We are evaluating early adoption of this standard in the fourth quarter of 2022 as a result of the hedging
+opportunities permitted by the standard in a rising interest rate environment. We are assessing the effect of this update on our consolidated financial
+statements and related disclosures.
+In March 2022, the FASB issued Accounting Standard Update No. 2022-02, Financial Instruments — Credit Losses (Topic 326), which eliminates the
+accounting guidance for TDRs by creditors while enhancing disclosure requirements for certain loan refinancings and restructurings by creditors made to
+borrowers experiencing financial difficulty. The update also requires disclosure of current-period gross write-offs by year of origination for financing
+receivables. The update is effective for fiscal years beginning after December 15, 2022, and interim periods within those fiscal years. We do not expect the
+adoption of the update to have a material impact on our consolidated financial statements and related disclosures.
+In June 2022, the FASB issued Accounting Standard Update No. 2022-03, Fair Value Measurement (Topic 820), which clarifies that a contractual
+restriction on the sale of an equity security is not considered part of the unit of account of the equity security and, therefore, is not considered in measuring
+fair value. The update is effective for fiscal years beginning after December 15, 2023, and interim periods within those fiscal years. SVB currently applies a
+discount on securities covered by contractual restrictions, and these discounts will be removed upon adoption. We do not expect the adoption of the update
+to have a material impact on our consolidated financial statements and related disclosures.
+
+Results of Operations
+Net Interest Income and Margin (Fully Taxable Equivalent Basis)
+Net interest income is defined as the difference between: (i) interest earned on loans, fixed income investments in our AFS and HTM securities
+portfolios and short-term investment securities and (ii) interest paid on funding sources. Net interest margin is defined as annualized net interest income, on
+a fully taxable equivalent basis, as a percentage of average interest-earning assets. Net interest income and net interest margin are presented on a fully
+taxable equivalent basis to consistently reflect income from taxable loans and securities and tax-exempt securities based on the applicable federal statutory
+tax rate.
+Analysis of Net Interest Income Changes Due to Volume and Rate (Fully Taxable Equivalent Basis)
+Net interest income is affected by changes in the amount and mix of interest-earning assets and interest-bearing liabilities, referred to as “volume
+change.” Net interest income is also affected by changes in yields earned on interest-earning assets and rates paid on interest-bearing liabilities, referred to as
+“rate change.” The following table sets forth changes in interest income for each major category of interest-earning assets and interest expense for each
+major category of interest-bearing liabilities. The table also reflects the amount of simultaneous changes attributable to both volume and rate changes for the
+periods indicated. For this table, changes that are not solely due to either volume or rate are allocated in proportion to the percentage changes in average
+volume and average rate. 

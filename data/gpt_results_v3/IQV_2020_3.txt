@@ -1,0 +1,13 @@
+Decision: Medium
+
+Step 1: The overall sentiment of the management's discussion seems cautious but optimistic. The company acknowledges the impact of COVID-19 on its business but also highlights its strong liquidity position and performance during the pandemic.
+
+Step 2: 
+- Working Capital to Total Assets (X1): negative value indicates potential liquidity issues or inefficiencies in asset management.
+- Retained Earnings to Total Assets (X2): positive value shows that a significant portion of total assets is financed by retained earnings, which is a positive indicator of financial stability.
+- EBIT to Total Assets (X3): low value suggests lower profitability relative to total assets, which could indicate inefficiency in asset utilization.
+- Total Revenue to Total Assets (X5): moderate value, indicating that the company generates revenue from its total assets, but room for improvement exists.
+
+Step 3: The company's cautious approach to the pandemic, focus on cost containment actions, and strong liquidity position provide a solid foundation. However, the decline in revenues and profitability due to COVID-19 impact could pose challenges. The positive aspect is the increase in the contracted backlog in the Research & Development Solutions segment, indicating future revenue potential.
+
+Step 4: Considering the cautious optimism in the management's discussion, the mix of financial ratios indicating strengths and weaknesses, and the company's response to the pandemic, the overall assessment leads to a medium risk of bankruptcy. The company is facing challenges but has essential strengths to navigate the current situation.

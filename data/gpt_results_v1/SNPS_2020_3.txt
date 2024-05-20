@@ -1,0 +1,12 @@
+Medium
+
+1. **Step 1:**
+The overall sentiment in the management discussion section is cautiously optimistic. The company mentions their consistent revenue growth since 2005, their successful execution, leading technologies, and strong customer relationships. They also express confidence in their growth strategies and ability to continue executing their strategies successfully.
+
+2. **Step 2:**
+In the third quarter of fiscal 2020, the company saw an increase in revenues by 13% compared to the same period in fiscal 2019. This increase was primarily due to continued organic growth. They also mentioned that their growth strategy is based on building on their leadership in their products, expanding their offerings, and driving growth in the software security and quality market. Although they did mention variability in total revenue due to their adoption of ASC 606 in fiscal 2019, the variability has not impacted their cash generated from operations so far.
+
+3. **Step 3:**
+While the company experienced minor disruptions in their business operations due to the COVID-19 pandemic, they stated that the impact was limited so far. They noted a slowdown in customer commitments in the Software Integrity segment but did not receive significant requests to delay payments or modify arrangements due to COVID-19. Additionally, they have addressed minor disruptions in their hardware supply chain with minimal impact on their operations. However, they highlighted the uncertainty regarding the future impact of the pandemic on their business operations, especially related to the duration and scope of the pandemic and its impact on the global economy.
+
+Based on the cautiously optimistic sentiment, the increase in revenues and operating income, and the proactive measures taken to address disruptions caused by the pandemic, the company is classified as having a medium risk of bankruptcy. While they have shown resilience and growth, the potential future impact of the COVID-19 pandemic and the uncertainties associated with it contribute to the overall risk assessment.

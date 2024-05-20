@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The sentiment expressed in the management's discussion is cautiously optimistic, focusing on the impact of the COVID-19 pandemic on the company's operations. While the discussion highlights proactive measures taken to manage costs and capital expenditures during the pandemic, it also acknowledges the uncertain economic conditions and potential negative impacts on future financial performance.
+
+Step 2:
+- Project Summit: The company initiated a cost-saving program named Project Summit and expects it to yield benefits in terms of improved EBITDA. However, the substantial implementation costs associated with Project Summit could impact short-term financial performance.
+- COVID-19 Costs: The company has incurred direct costs due to the pandemic, including the purchase of protective equipment and increased cleaning costs, which have been excluded from non-GAAP measures. These costs indicate operational challenges and financial strain.
+
+Step 3: The discussion indicates that the company has taken significant cost-saving measures in response to the COVID-19 pandemic, such as workforce reductions and freezing acquisitions. While the company is making efforts to mitigate the impact of the pandemic and streamline operations through Project Summit, the incurred costs and uncertainty surrounding the duration and severity of the pandemic could affect future financial performance.
+
+Step 4: Medium risk of bankruptcy. The company's proactive measures to manage costs and the implementation of Project Summit demonstrate efforts to navigate through challenging economic conditions. However, the ongoing impact of the pandemic, incurred costs, and the potential for future service level declines create financial uncertainty, warranting a medium risk classification for bankruptcy potential.

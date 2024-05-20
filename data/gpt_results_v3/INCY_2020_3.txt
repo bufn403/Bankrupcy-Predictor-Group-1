@@ -1,0 +1,13 @@
+Final Decision: Low
+
+Step 1: The management's discussion focuses heavily on the impact of the COVID-19 pandemic on the company's operations. While there are uncertainties surrounding the pandemic's long-term effects, the company appears to be adapting and proactively addressing the challenges. This outlook can be seen as cautious but not overly pessimistic.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The value of 0.502 indicates that the company has a positive working capital, which generally signifies the company's ability to cover its short-term liabilities with its short-term assets.
+- Retained Earnings to Total Assets (X2): With a low value of 0.023, it suggests that the company has not retained a significant portion of its earnings compared to its total assets.
+- EBIT to Total Assets (X3): The value of 0.123 shows that the company generates a reasonable amount of earnings before interest and taxes in relation to its total assets.
+- Total Revenue to Total Assets (X5): The high value of 0.545 indicates that the company is generating a significant amount of revenue relative to its total assets.
+
+Step 3: The financial ratios suggest that the company has a positive working capital, decent profitability (EBIT), and high revenue generation efficiency. The lower value of retained earnings compared to total assets may indicate a lower level of reinvestment in the company.
+
+Step 4: Based on the cautiously optimistic sentiment in the management's discussion, along with the positive working capital, profitability, and revenue generation efficiency indicated by the financial ratios, the company appears to have a low risk of bankruptcy. Despite the uncertainties posed by the COVID-19 pandemic, the company's adaptability and financial metrics paint a picture of financial stability.

@@ -1,0 +1,13 @@
+High risk
+
+Step 1: The overall sentiment from the management's discussion is concerning due to the impact of the COVID-19 pandemic on the company's operations and the economy. The discussion highlights the significant disruptions and uncertainty caused by the pandemic, which could lead to a prolonged global economic slowdown or recession. Additionally, the text mentions that the impact of the expirations of current relief measures on the U.S. economy could be severe.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of -0.033 indicates that the company has more liabilities than assets to cover its short-term obligations.
+- Retained Earnings to Total Assets (X2): The value of 0.0 suggests that the company has not retained earnings to support its total assets.
+- EBIT to Total Assets (X3): The low value of 0.0096 indicates that the company's earnings before interest and taxes are relatively low compared to its total assets.
+- Total Revenue to Total Assets (X5): The modest value of 0.0784 implies that the company's total revenue generated from its assets is not very high.
+
+Step 3: Considering the negative sentiment in the management's discussion due to the impact of the pandemic and the weak financial ratios indicating low working capital, lack of retained earnings, and modest earnings in relation to total assets, it suggests a challenging quarter for the company. The uncertainties surrounding the economic conditions and the ongoing pandemic make the financial outlook unpredictable.
+
+Step 4: Based on the analysis of the sentiment in the management's discussion and the financial ratios, the company is classified as having a high risk of bankruptcy. The negative sentiment, coupled with the weak financial ratios, indicates potential financial distress and challenges ahead for the company.

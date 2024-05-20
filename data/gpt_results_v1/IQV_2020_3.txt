@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautious and realistic, acknowledging the challenges posed by the COVID-19 pandemic on their business activities. The company discusses disruptions and challenges faced across all three reportable segments, such as restrictions on on-site activities, declines in certain businesses, and interruptions in revenue recognition due to the pandemic. This realistic assessment suggests a medium level of risk.
+
+Step 2: In the third quarter of 2020, the company experienced a mixed financial performance. While total revenues increased slightly by $17 million, there were declines in revenues for Research & Development Solutions by $75 million and Contract Sales & Medical Solutions by $30 million. Technology & Analytics Solutions saw an increase of $101 million. These variations indicate a complex financial situation with certain segments underperforming.
+
+Step 3: The cost of revenues decreased for both Research & Development and Contract Sales & Medical Solutions, which could signal efforts to control costs in response to revenue declines. However, selling, general, and administrative expenses increased in all segments, which might impact profitability alongside the revenue challenges faced in specific segments. Moreover, the statement that delays in trial activities will still need to be performed after the crisis suggests a potential future financial burden.
+
+Step 4: Despite maintaining good liquidity and being in compliance with debt agreements, the company's revenue declines in key segments, coupled with increased expenses and uncertainties due to the pandemic, indicate a precarious financial position. The mention of cost containment actions and the impact of delayed trial activities on future performance further emphasize the medium risk of bankruptcy for the company.

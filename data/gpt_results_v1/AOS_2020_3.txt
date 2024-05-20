@@ -1,0 +1,8 @@
+Medium
+Reasoning:
+Step 1: The overall sentiment in the management's discussion appears cautiously optimistic. While the company acknowledges challenges due to COVID-19, they also mention taking steps to protect their employees, suppliers, and customers.
+Step 2: The company's Rest of World segment has experienced declining sales, particularly in China, and is undertaking cost-saving measures such as headcount reductions, store closures, and advertising cuts.
+Step 3: The North America segment shows some positive trends with higher sales in residential water heaters and water treatment products. However, the Rest of World segment has experienced losses, impacting the overall consolidated sales negatively.
+Step 4: Considering the mixed performance of the segments and the projected decline in consolidated sales for the year, along with the cost-saving measures being implemented, the company is rated as having a medium risk of bankruptcy.
+
+The cautious optimism, cost-saving measures, declining sales in the Rest of World segment, and projected decline in consolidated sales influence the assessment of medium risk.

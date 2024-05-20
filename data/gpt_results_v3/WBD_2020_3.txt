@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The sentiment of the management's discussion is a mix of optimism and caution. While they discuss strategies to offset revenue losses due to the pandemic and cost-saving initiatives, they also mention uncertainties regarding the impact of COVID-19 on their financial position. This cautious tone can indicate some level of risk.
+
+Step 2: Considering the financial ratios:
+   - Working Capital to Total Assets (X1): The negative value indicates potential liquidity issues, which could pose a risk.
+   - Retained Earnings to Total Assets (X2): Another negative value suggests a lower level of earnings retained in the business, which may impact financial stability.
+   - EBIT to Total Assets (X3): Also negative, indicating that the company is not generating significant earnings relative to its total assets.
+   - Total Revenue to Total Assets (X5): A moderately low value, indicating that the company may not be efficiently utilizing its assets to generate revenue.
+
+Step 3: The combination of the sentiment analysis and the financial ratios suggests that the company is facing challenges. The negative values in the financial ratios point towards potential liquidity and profitability issues, and the cautious tone in the management discussion regarding the impact of COVID-19 signals uncertainty and risk in the company's financial health.
+
+Step 4: Considering the overall analysis, the company is deemed to have a Medium Risk of bankruptcy. The cautious sentiment, along with the negative financial ratios reflecting liquidity and profitability concerns, indicate that the company may face challenges in the future that could impact its financial stability. The current financial indicators and uncertainties related to the pandemic contribute to this assessment.

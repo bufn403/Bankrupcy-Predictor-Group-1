@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears to be optimistic, emphasizing the company's leadership in financial technology and the diversity of solutions it provides to its clients across different sectors. For example, they mention, "We provide financial services firms with advanced, dependable, scalable and cost-effective integrated solutions" and "We continue to engage with our clients to assist with their service demands" indicating a positive outlook.
+
+Step 2: The discussion includes key financial figures such as revenues, recurring fee revenues, event-driven fee revenues, and distribution revenues. There is a focus on growth in these areas due to new business onboarding, internal growth, and acquisitions. Additionally, there is mention of the impact of foreign acquisitions and international revenue growth on revenues.
+
+Step 3: While there are mentions of revenue increases and growth from new business, internal growth, and acquisitions, there are also indicators of increased operating expenses related to distribution, proxy fulfillment, and operating costs from acquisitions. The text also notes a decrease in interest expenses but an increase in selling, general, and administrative expenses. The impact of the Covid-19 pandemic is addressed, highlighting measures taken to protect employees and ensure continuity of operations, but also acknowledging potential future disruptions and uncertainties.
+
+Based on these points, there are positive aspects in terms of revenue growth, but also increases in operating expenses, which may impact the overall financial health of the company.
+
+Step 4: Considering the optimistic sentiment, revenue growth, and the proactive measures taken during the pandemic, it suggests a level of resilience. However, the increase in operating expenses and uncertainties related to future disruptions indicate a level of risk. Hence, the medium risk classification is appropriate as it reflects a balanced view of the company's financial outlook considering both the positive and potentially challenging aspects present in the management discussion.

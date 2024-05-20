@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is mixed. While they mention challenges due to COVID-19, they also talk about taking measures to protect employees and the potential for demand to return in the future. This shows a cautious yet optimistic outlook.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0818 indicates a relatively low working capital position compared to total assets, which may suggest some liquidity concerns.
+- Retained Earnings to Total Assets (X2): -0.0787 shows negative retained earnings in relation to total assets, indicating potential financial strain.
+- EBIT to Total Assets (X3): -0.0690 demonstrates a negative EBIT margin in relation to total assets, suggesting operational inefficiencies.
+- Total Revenue to Total Assets (X5): 0.3705 indicates that total revenue is less than total assets, which could signify inefficiency in asset utilization.
+
+Step 3: Combining the sentiment from the management's discussion with the financial ratios, the company seems to be facing challenges, especially with negative retained earnings and EBIT margins. The lower working capital and revenue to total assets ratio also point to potential financial difficulties. Despite the cautious optimism in the text, the financial ratios raise concerns about the company's overall financial health.
+
+Step 4: The company is classified as having a medium risk of bankruptcy. While there are some positive aspects highlighted in the management discussion, the financial ratios indicate underlying financial challenges that need to be addressed to improve the company's stability and reduce the risk of bankruptcy.

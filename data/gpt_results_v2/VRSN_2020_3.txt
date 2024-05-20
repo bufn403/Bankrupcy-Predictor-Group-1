@@ -1,0 +1,12 @@
+High
+
+Step 1: The overall sentiment of the management's discussion seems optimistic as they mention an increase in revenues and domain name registrations, driven by online growth and marketing activities. They also mention an increase in demand for domain names due to the COVID-19 pandemic.
+Quote: "Our revenues increased during the first three quarters of 2020 compared to the same periods last year primarily driven by an increase in the domain name base for the .com TLD." 
+
+Step 2: The company recorded an increase in revenues and operating income during the three and nine months ended September 30, 2020, compared to the same periods in 2019. They also had a 4% increase in the number of domain name registrations.
+Quote: "We recorded revenues of $317.9 million and $944.8 million during the three and nine months ended September 30, 2020, an increase of 3%... As of September 30, 2020, we had 163.7 million .com and .net registrations in the domain name base."
+
+Step 3: The company expects continued growth in revenues in the remainder of 2020 due to the growth in the aggregate number of .com domain names. However, they also mention competitive pressures from ccTLDs, new gTLDs, and changes in internet practices that may limit growth.
+Quote: "We expect the rate of growth in revenues will remain consistent during the remainder of 2020 compared to the nine months... Growth in the domain name base has been primarily driven by continued internet growth and marketing activities carried out by us and our registrars."
+
+Based on the optimistic sentiment, increase in revenues, and positive outlook for growth, the company is classified as having a high risk of bankruptcy.

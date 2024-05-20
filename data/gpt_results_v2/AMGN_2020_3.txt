@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautiously optimistic. They mention the impact of the COVID-19 pandemic on their operations but also discuss initiatives to combat the challenges and continue to focus on innovative medicines. A quote supporting this sentiment is, "We have been carefully monitoring the COVID-19 pandemic and its impact on our global operations."
+
+Step 2: There are mentions of both increases and decreases in product sales, with some being driven by higher unit demand and others facing declines due to competition and the effects of the pandemic. For example, the text mentions, "Total product sales increased for the three and nine months ended September 30, 2020, primarily driven by unit demand increases from newer brands including Otezla®, acquired in November 2019." This mixed performance indicates some volatility in sales.
+
+Step 3: The discussion highlights the interruptions in patient visits due to the pandemic impacting sales of some products but also mentions recovery in demand in certain regions. The text states, "The pandemic interrupted many physician–patient interactions, which led to delays in diagnosis and treatment, with varying degrees of impact across our portfolio."
+
+Step 4: Considering the cautiously optimistic sentiment, the mixed performance in product sales due to competition and the pandemic, and the efforts to combat challenges, the company is placed at a medium risk of bankruptcy. They seem proactive in addressing issues but still face uncertainties in sales and market competition.

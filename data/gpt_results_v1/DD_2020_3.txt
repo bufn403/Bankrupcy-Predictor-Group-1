@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautiously optimistic. They acknowledge the challenges posed by the COVID-19 pandemic but also highlight strong demand in certain key end-markets during the third quarter of 2020. For example, "During the third quarter of 2020, the Company benefited from strong demand in certain key end-markets, principally electronics, water filtration, health & wellness and personal protection" which shows a positive outlook despite the challenges posed by the pandemic.
+
+Step 2: The company's net sales for the three months and nine months ended September 30, 2020, decreased by 6% and 7% respectively compared to the same periods in 2019. This decline in sales volume indicates a struggle with maintaining revenue streams. Additionally, there was a significant decrease in volume across all segments with notable decreases in Non-Core, Transportation & Industrial, and Safety & Construction segments.
+
+Step 3: The company incurred restructuring and asset-related charges, including goodwill impairment charges, totaling $183 million in the third quarter of 2020 and $807 million for the first nine months of 2020. These charges reflect the company's acknowledgment of underperforming assets that needed to be impaired, indicating financial strain. Furthermore, the rising amortization of intangibles and integration/separation costs highlight additional financial burdens.
+
+Based on the cautiously optimistic sentiment, decline in sales volume, incurring significant charges, and financial burdens highlighted in the filing, the company is classified as having a medium risk of bankruptcy. The positive outlook is somewhat overshadowed by the financial challenges and impaired assets, indicating a level of risk that is higher than low but not as severe as high risk.

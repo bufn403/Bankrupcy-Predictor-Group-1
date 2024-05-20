@@ -1,0 +1,9 @@
+High
+
+Step 1: The overall sentiment in the management discussion appears pessimistic, indicating potential risks ahead. One quote supporting this is, "Factors that could cause or contribute to such differences include credit risks (unfavorable developments concerning credit quality; declines or other changes in the businesses or industries of the Corporation's customers, in particular the energy industry; and changes in customer behavior)." This highlights concerns about credit quality, business declines, and changes in customer behavior.
+
+Step 2: Relevant numbers and figures in the discussion show a decrease in net income and net interest income, as well as an increase in provision for credit losses. For example, "Net income for the three months ended September 30, 2020 was $211 million, a decrease of $81 million compared to $292 million for the three months ended September 30, 2019." This indicates financial challenges faced by the company.
+
+Step 3: The figures provided show a decline in net income and net interest income, attributed to lower interest rates and an increase in the provision for credit losses due to the COVID-19 pandemic. This signals a failed quarter, with uncertain conditions ahead. Additionally, the discussion mentions uncertainties related to the impact of the pandemic on the economy.
+
+Step 4: Based on the overall sentiment, financial figures indicating a failed quarter, and uncertainty about future conditions, the company is classified as high risk of bankruptcy. The combination of pessimistic sentiment, financial declines, and ongoing challenges point towards potential financial distress and an elevated risk of bankruptcy.

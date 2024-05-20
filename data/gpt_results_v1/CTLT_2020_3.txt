@@ -1,0 +1,15 @@
+Medium
+
+Step 1: The overall sentiment in the management's discussion seems optimistic as it highlights the company's leading position in the industry and its positive outlook for future growth opportunities. For example, the statement "we will continue to benefit from attractive and differentiated margins and realize the growth potential from these areas" reflects a positive outlook and confidence in the company's future prospects.
+
+Step 2: Looking at the financial figures provided, there are positive and negative aspects:
+- Net revenue increased significantly by $171.5 million, or 24%, excluding the impact of foreign exchange, compared to the same period last year. This growth is attributed to robust demand across all Biologics offerings, including those related to COVID-19 programs.
+- Gross margin increased by $59.0 million, or 25%, driven by strong margin profiles in the Biologics segment. However, there were reduced demands in the Softgel and Oral Technologies segment due to the pandemic.
+
+Step 3: Analyzing the financial results further:
+- Despite the overall revenue growth and increased gross margin, there was a decrease in net revenue and EBITDA for the Softgel and Oral Technologies segment. This decrease was due to reduced demand for prescription and consumer health products, especially related to the effects of the COVID-19 pandemic.
+- The company also incurred significant restructuring and other charges of $5.5 million, indicating efforts to streamline the business and potentially reduce costs in response to current challenges.
+
+Based on the provided information, the company is experiencing growth in certain segments but facing challenges in others. The uncertainty around the lingering effects of the COVID-19 pandemic on future financial conditions and operations adds a level of risk.
+
+Therefore, considering the optimistic outlook, the growth in certain segments, the challenges in others, and the uncertainty related to the pandemic, the company is assessed to have a medium risk of bankruptcy.

@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The sentiment in the management's discussion seems cautious and realistic. The discussion acknowledges the impact of the COVID-19 pandemic on economic activity, business operations, and real estate markets, creating significant uncertainties. While there are mentions of strategic acquisitions and resilience in certain business segments, there is also recognition of the adverse effects of COVID-19 on real estate markets and business activities.
+
+Step 2: 
+- Revenue Trend: The company experienced a decrease in revenue by $280.0 million, or 4.7%, for the three months ended September 30, 2020, compared to the same period in 2019, primarily due to the impact of COVID-19 on Advisory Services segment and decreased commercial mortgage origination activity.
+- Cost Management: The company implemented transformation initiatives to reduce costs, streamline operations, and support future growth, incurring expenses related to employee separation benefits, lease termination costs, and professional fees.
+- Currency Impact: Fluctuations in foreign currencies relative to the U.S. dollar had varying impacts on revenue and costs, affecting the company's financial performance.
+
+Step 3: The decrease in revenue and the implementation of cost reduction initiatives due to the impact of COVID-19 on business segments suggest a challenging operational environment. The uncertainties related to the ongoing pandemic, disruptions in real estate markets, and the need to adapt to changing economic conditions pose medium risks to the company's financial stability.
+
+Step 4: Medium risk of bankruptcy. The decline in revenue, along with strategic cost-cutting measures and uncertainties caused by the COVID-19 pandemic, create a medium risk of financial instability for the company. The challenges in real estate markets and the need to monitor various economic factors indicate a level of risk that cannot be classified as low, despite some proactive measures taken by the company.

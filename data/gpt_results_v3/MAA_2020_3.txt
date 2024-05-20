@@ -1,0 +1,15 @@
+Decision: Medium
+
+Step 1: The sentiment of the management's discussion seems cautiously optimistic. While the company highlights the impact of the COVID-19 pandemic on its operations and the uncertainties ahead, it also emphasizes strategies to support residents and navigate through the challenging environment.
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.0876 - The negative value indicates that the company has more liabilities than assets in the short term, which could signal potential financial strain.
+- Retained Earnings to Total Assets (X2): -0.1130 - The negative value suggests that the company's retained earnings are not sufficient to cover its total assets, which may indicate a lack of profitability.
+- EBIT to Total Assets (X3): 0.0627 - This ratio shows the company's profitability in relation to its total assets. A positive value is a good sign, indicating the company is generating earnings from its assets.
+- Total Revenue to Total Assets (X5): 0.1871 - This ratio reflects how effectively the company is utilizing its assets to generate revenue. A higher value is generally positive, indicating efficient asset utilization.
+
+Step 3: The financial ratios present a mixed picture. While the company shows profitability with EBIT to Total Assets and efficient revenue generation with Total Revenue to Total Assets, the negative values of Working Capital to Total Assets and Retained Earnings to Total Assets raise concerns about liquidity and financial stability over the long term.
+
+Step 4: Considering the cautiously optimistic sentiment in the management's discussion, combined with the mixed financial ratios indicating liquidity challenges and modest profitability, the company is classified as having a medium risk of bankruptcy. The company's focus on supporting residents during the COVID-19 pandemic is a positive sign, but the negative financial ratios suggest potential financial strain that needs to be addressed. 
+
+By integrating the sentiment analysis, financial ratios, and overall outlook, the medium risk assessment takes into account both positive and concerning aspects of the company's current financial health.

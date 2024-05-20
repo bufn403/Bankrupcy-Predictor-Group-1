@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. The company discusses its financial performance, capital spending, regulatory proceedings, and liquidity in a positive light. For example, they mention, "we recorded net income of $217.7 million...The execution of our capital spending program...are the primary drivers that affect our financial performance."
+
+Step 2: Analyzing the financial ratios:
+- Working Capital to Total Assets (X1): -0.0207 indicates a negative working capital, which is a concern as it shows potential difficulty in covering short-term liabilities with short-term assets.
+- Retained Earnings to Total Assets (X2): 0.1628 is a positive sign as it shows a decent portion of earnings retained within the company's assets, indicating stability.
+- EBIT to Total Assets (X3): 0.0505 is somewhat low, indicating a moderate ability to generate earnings from its assets.
+- Total Revenue to Total Assets (X5): 0.1899 shows a good proportion of revenue generated from total assets, reflecting efficiency.
+
+Step 3: Combining the text analysis with financial ratios, the company seems to have a mixed performance. While there are positive aspects such as increased net income and successful rate outcomes, challenges like negative working capital and a somewhat low EBIT to Total Assets ratio raise concerns about short-term liquidity and profitability. Overall, the company appears to be managing its operations effectively, but the negative working capital raises a flag.
+
+Step 4: Considering the cautiously optimistic tone of the management's discussion, along with the mixed financial ratios indicating some challenges, the company is classified as having a medium risk of bankruptcy. While there are positive aspects to their performance, the negative working capital and comparatively low EBIT to Total Assets ratio provide a bit of financial instability.

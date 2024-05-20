@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is a mix of cautious optimism and acknowledgment of challenges. While the company acknowledges the impacts of the COVID-19 pandemic and the challenging energy market conditions, they also express positivity about long-term growth opportunities. 
+
+Step 2: Relevant figures from the filing include a decrease in consolidated revenues by 9.9% and a decrease in remaining performance obligations by 16.2%. However, there was an increase in operating income and net income attributable to common stock. These figures indicate a mixed performance with decreases in revenues but improvements in profitability metrics. 
+
+Step 3: The decrease in revenues can be partly attributed to the impacts of the COVID-19 pandemic and reduced demand for certain services. However, the increase in operating income and net income suggests that the company managed to offset some of these challenges through improved performance. The decision to exit Latin American operations to improve profitability also indicates proactive steps to address underperforming segments.
+
+Step 4: Taking into account the cautious optimism in the long-term growth opportunities, the company's ability to adapt to challenges posed by the pandemic, and the improvements in profitability metrics, the overall assessment leans towards medium risk. While there are challenges in the short term, the company's strategic decisions and financial performance indicate a level of resilience and proactive approach to navigating uncertainties.

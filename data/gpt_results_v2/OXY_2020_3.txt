@@ -1,0 +1,12 @@
+High Risk
+
+Step 1: The overall sentiment of the management's discussion is pessimistic due to the impact of COVID-19 on oil demand and prices. 
+   - Quote: "The worldwide economy has been severely impacted by the ongoing effects of the COVID-19 pandemic..."
+   
+Step 2: Occidental has taken significant measures to increase liquidity, including substantial cuts in capital budgets and operating costs, reflecting financial strain. 
+   - Quote: "Reduced its 2020 capital budget...made significant cuts to its 2020 operating and corporate costs..."
+
+Step 3: The company reported significant losses in the third quarter of 2020, primarily due to lower commodity prices and lower sales volumes. Conditions are not expected to improve in the near term.
+   - Quote: "Occidental reported a loss from continuing operations of $3.7 billion for the third quarter of 2020..."
+
+Final Decision: The company has a high risk of bankruptcy due to the pessimistic sentiment, substantial losses, and uncertain future outlook despite liquidity measures taken.

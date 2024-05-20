@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The sentiment in the management's discussion appears to be cautiously optimistic but acknowledges challenges. For example, they mention, "The outbreak of the global pandemic of COVID-19 and resultant economic effects...have resulted in significant and numerous changes... As of the date of filing of this report, the duration and magnitude of the effects of COVID-19 continue to be unknown."
+
+Step 2: The company reported a decrease in net earnings by 70.4% for the three months ended September 30, 2020, and by 78.5% for the nine months ended September 30, 2020, compared to the previous year. Additionally, they mentioned a decrease in interest income by 16.8% for the nine months ended September 30, 2020, primarily due to the impact of COVID-19 and the sale of the Walmart consumer portfolio. These figures indicate a decline in financial performance.
+
+Step 3: The company highlighted a decrease in loan receivables, interest income, and profitability due to COVID-19 impacts. They mentioned that interest and fees on loans decreased by 16% for the nine months ended September 30, 2020, with a reduction in loan receivables by 6% and a decline in purchase volume for ongoing partners by 3%. These factors suggest a challenging quarter and potential future struggles.
+
+Step 4: Considering the decline in net earnings, interest income, and loan receivables, along with the uncertainties surrounding the COVID-19 pandemic's continuing impact on their business, the company faces medium risk of bankruptcy. The decrease in financial performance and the cautionary statements regarding future trends indicate a challenging road ahead for the company.

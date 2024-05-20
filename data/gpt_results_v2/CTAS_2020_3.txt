@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment in the management's discussion appears to be cautious and realistic, acknowledging the challenges posed by the COVID-19 pandemic. For example, "The impact of the COVID-19 pandemic is fluid and continues to evolve, and therefore, we cannot predict the extent to which our business, consolidated results of operations, consolidated financial condition or liquidity will ultimately be impacted."
+
+Step 2: Total revenue decreased by 4.7% for the three months ended November 30, 2020, primarily due to decreased sales volume from the COVID-19 pandemic business closures. This decline in revenue indicates a negative impact on the company's financial performance.
+
+Step 3: Although the Uniform Rental and Facility Services reportable operating segment saw a decrease in revenue, the gross margin improved by 90 basis points, attributed to cost control measures. Similarly, selling and administrative expenses decreased, contributing to an increase in income before income taxes. However, the First Aid and Safety Services segment saw an increase in revenue but a decrease in gross margin due to higher sales of lower-margin personal protective equipment.
+
+Step 4: Considering the cautious sentiment, decrease in total revenue, and mixed performance in the operating segments, the company appears to have medium risk of bankruptcy. While cost control measures and efficiency improvements have helped maintain profitability in certain areas, the negative impact of the pandemic is still affecting the overall financial performance.

@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The tone in the management's discussion appears neutral and focused on providing detailed information about the company's operations, financial performance, and the impact of various factors like the COVID-19 pandemic on the business. There is a comprehensive review of different segments and their revenue analysis without a clear indication of extreme optimism or pessimism.
+
+Step 2: While the company provides detailed information on its revenue streams, including the impacts of various factors like foreign currency translation and tenant lease dynamics, there is a significant discussion on the churn rate due to lease cancellations, especially in India and the U.S. which had an impact on the company's financials during the reporting period.
+
+Step 3: The detailed analysis of various segments, revenue streams, and the impact of factors like churn rate and foreign currency fluctuations suggests operational challenges the company is facing. The specific mention of churn in India and upfront impacts of tenant lease cancellations on the company's revenue indicates a level of financial strain that needs to be addressed.
+
+Step 4: Medium risk of bankruptcy. The detailed financial analysis provided by the company reveals operational challenges like elevated churn rates, lease cancellations, and currency fluctuations that could impact revenue streams. While there are no extreme red flags of immediate financial distress, the significant impact of these factors on the company's operations presents a medium risk of potential financial difficulties in the future. Further monitoring and strategic actions may be necessary to mitigate these risks.

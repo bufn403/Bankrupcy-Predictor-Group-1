@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautious and somewhat pessimistic. The filing mentions the impact of the COVID-19 pandemic, reduced customer spending, revenue declines, and capital discipline.
+
+Step 2: Observing relevant numbers in the discussion, we see that third-quarter 2020 revenue declined significantly year-on-year, ranging from 29% to 43% across different segments. Despite some margin improvements, revenue decreases are substantial in various areas.
+
+Step 3: The numbers presented in the filing indicate a challenging quarter with significant revenue declines, especially in North America. The projections for the fourth quarter are cautious, mentioning ongoing COVID-19 disruptions and a fragile near-term recovery.
+
+Therefore, based on the cautious sentiment, significant revenue declines year-on-year, and cautious outlook for the future due to ongoing challenges, the company is classified as having a medium risk of bankruptcy. The overall financial performance, impact of the pandemic, and uncertainties surrounding the recovery contribute to this classification.

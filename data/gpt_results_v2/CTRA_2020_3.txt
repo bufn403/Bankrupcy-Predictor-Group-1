@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment in the management's discussion is cautiously optimistic. While there are concerns regarding commodity prices and the ongoing COVID-19 pandemic, the company highlights its efforts to manage challenges and minimize impacts.
+
+Step 2: Relevant numbers and figures indicate a decrease in natural gas production, a 38% drop in average realized natural gas prices, and a reduction in total capital expenditures compared to the prior year. These factors point to a challenging financial environment.
+
+Step 3: The company strategically curtailed production in response to weaker natural gas prices, but anticipates an increase in production in the future due to an expected rise in demand during the winter months. The company's ability to manage its capital program and funding sources is emphasized.
+
+Final Decision: Taking into account the cautiously optimistic sentiment, the decrease in production and natural gas prices, and the company's efforts to manage its finances and operations in a challenging environment, the company is classified as having a medium risk of bankruptcy. The uncertainties related to commodity prices and the ongoing pandemic contribute to the medium-risk assessment.

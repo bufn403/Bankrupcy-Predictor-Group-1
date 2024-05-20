@@ -1,0 +1,15 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion seems cautious and acknowledges the challenges posed by the COVID-19 pandemic on the company's operations. While the text mentions initiatives taken to mitigate the impact, such as Resident Relief Funds and cost-saving measures, it also highlights ongoing uncertainties and risks. For example, it states, "Challenges within the multifamily industry have surfaced due to COVID-19...fears of a prolonged recession, and government-imposed moratoriums on our ability to collect rents or evict non-paying tenants..."
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of -0.0159 indicates a potential liquidity issue, as working capital is not sufficient to cover short-term obligations. This may signal a risk in meeting operational expenses.
+- Retained Earnings to Total Assets (X2): The negative value of -0.0654 suggests that the company has more liabilities than assets generated from profits over time. This can indicate financial instability.
+- EBIT to Total Assets (X3): The positive value of 0.0584 shows that earnings before interest and taxes are generating a moderate return in relation to total assets, which is positive.
+- Total Revenue to Total Assets (X5): The value of 0.1643 indicates that the company is utilizing its assets to generate revenue efficiently, which is a positive sign.
+
+Step 3: 
+The financial ratios show mixed signals with a potential liquidity issue (X1) and negative retained earnings (X2), reflecting financial strain. The positive EBIT to Total Assets (X3) suggests some profitability, while the Total Revenue to Total Assets (X5) indicates efficient revenue generation. The discussion of COVID-19 impacts and financial figures showing decreases in net income attributable to common shareholders further suggest a challenging quarter. Overall, the company faces uncertainties and risks, with a need for careful financial management.
+
+Step 4:
+Considering the cautious sentiment in the management discussion, the mix of financial ratios indicating both challenges and strengths, and the impact of COVID-19 on operations and financials, the company is classified as having a medium risk of bankruptcy. The negative indicators outweigh the positive ones, highlighting the need for careful financial planning and risk mitigation strategies to ensure future stability.

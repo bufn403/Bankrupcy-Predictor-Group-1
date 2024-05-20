@@ -1,0 +1,9 @@
+Decision: Medium risk of bankruptcy
+
+Step 1: The sentiment in the management discussion appears to be cautiously optimistic. The company discusses various cost-saving measures and operational achievements, such as exceeding transformational savings targets and progress in mine development projects, which indicate a proactive approach to addressing challenges.
+
+Step 2: Relevant figures in the discussion show mixed results. While there was a net loss of $(6.2) million for the three months ended September 30, 2020, compared to a more significant loss in the prior year, the net loss for the nine months ended September 30, 2020, was $(161.8) million, higher than the previous year. The impact of notable items and expenses on the financial results suggests ongoing financial challenges.
+
+Step 3: The conditions highlighted in the filing suggest that the company's performance has been impacted by unfavorable factors in its Potash and Phosphates segments. Lower selling prices and sales volumes in these segments, along with various expenses, have contributed to the financial losses. While there are mentions of improving market conditions, the company continues to face limitations and challenges in rebuilding inventory levels and maintaining competitive pricing.
+
+Final Decision: Considering the cautious optimism expressed, the mixed financial results, and ongoing challenges in key segments, the company is classified as having a medium risk of bankruptcy. The company's financial performance indicates vulnerabilities that could affect its long-term stability, warranting a careful monitoring of its financial health in the future.

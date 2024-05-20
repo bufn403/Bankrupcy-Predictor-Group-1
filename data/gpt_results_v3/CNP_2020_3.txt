@@ -1,0 +1,17 @@
+Medium risk
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic, acknowledging the negative impacts of COVID-19 while highlighting their response strategies. There are mentions of successful responses to challenges, but also uncertainties about the future impact of the pandemic. No headlines were found to provide additional context.
+Quote: "As of the date of this Form 10-Q, our efforts to respond to the challenges presented by the conditions described above and minimize the impacts to our business have been successful." 
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.021 suggests a negative working capital, which can indicate potential liquidity issues.
+- Retained Earnings to Total Assets (X2): 0.027 indicates a relatively low amount of retained earnings compared to total assets.
+- EBIT to Total Assets (X3): 0.045 shows a moderate return on assets.
+- Total Revenue to Total Assets (X5): 0.219 signifies that the company is generating revenue in relation to its total assets, which is a positive sign.
+
+Step 3: The combination of financial ratios shows a negative working capital and low retained earnings, which could indicate potential financial strain. However, the positive return on assets and revenue generation show some level of resilience.
+Quote: "Net income decreased $35 million primarily due to changes in rates, impact of COVID-19, and depreciation and property taxes, offset by customer growth."
+This quote indicates the company faced challenges in maintaining net income.
+
+Step 4: Considering the cautiously optimistic sentiment in the management discussion, along with the mix of financial ratios indicating both potential financial strain and operational resilience, the company falls into the medium risk category for bankruptcy.
+Decision: Medium

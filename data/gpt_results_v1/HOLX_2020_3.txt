@@ -1,0 +1,9 @@
+Medium
+
+Step 1: Overall sentiment analysis shows a mixture of optimism and caution. While the company acknowledges the adverse impacts of the COVID-19 pandemic on their business, they also highlight the positive effect from sales of their COVID-19 assays. However, they express concerns about future demand and potential adverse impacts. One quote supporting this is: "While our results of operations and cash flows since the third quarter of fiscal 2020 have been positively impacted by the sale of our COVID-19 assays as well the continued recovery of our other primary product lines and businesses to pre-COVID levels, the COVID-19 pandemic could have an adverse impact on our operating results, cash flows, and financial condition in the future."
+
+Step 2: The company experienced a significant increase in product revenues, mainly attributed to the sales of their COVID-19 assays. This increase offset the negative impacts from disruptions caused by the pandemic. One quote supporting this is: "We generated an increase in product revenues of 108.1% compared to the corresponding period in the prior year primarily due to the significant increase in revenues in the Diagnostics business principally from sales of our two COVID-19 assays..."
+
+Step 3: Despite the increase in product revenues driven by COVID-19 assays, the company mentions potential future adverse impacts from the pandemic, especially on their business operations. They have implemented cost-cutting measures and are cautious about future demand for their COVID-19 assays once the pandemic subsides. One quote supporting this is: "We expect that, if and when the current COVID-19 pandemic subsides, there may be a significantly reduced demand for ongoing testing, and thus, for our COVID-19 assays."
+
+Therefore, based on the cautious outlook and potential challenges highlighted in the filing despite current positive revenues, the company is classified as having a medium risk of bankruptcy.

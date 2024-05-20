@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The management's discussion indicates a cautious approach amidst the challenges faced due to the COVID-19 pandemic. While highlighting actions taken to support customers and the community during the crisis, the discussion also acknowledges the adverse impacts on financial performance, including increased credit losses and reduced net income compared to the previous year.
+
+Step 2: 
+- The provision for credit losses significantly increased year-over-year, indicating higher levels of credit risk: "The provision for credit losses increased $95 million year-over-year to $177 million in the 2020 third quarter."
+- Personnel costs and noninterest expenses increased, affecting profitability: "Noninterest expense for the 2020 third quarter increased $45 million, or 7%, from the year-ago quarter. Personnel costs increased $47 million, or 12%."
+- The net interest margin decreased, impacting interest income: "Fully-taxable equivalent net interest income was $822 million, down $17 million, or 2%, from the year-ago quarter."
+
+Step 3: The increase in credit losses, rise in noninterest expenses, and lower net interest income, combined with a decline in key financial ratios like the Common Equity Tier 1 risk-based capital ratio, suggest a challenging quarter for the company. While efforts were made to support customers and ensure business continuity during the pandemic, the financial performance was notably impacted by the ongoing crisis.
+
+Step 4: Medium risk of bankruptcy. The financial indicators point to a quarter where the bank faced significant challenges with increased credit losses and reduced profitability. The decline in key financial ratios also signals potential distress. While the company has taken steps to mitigate risks and support customers during the pandemic, the financial strain indicated in the numbers increases the likelihood of medium risk of bankruptcy in the future.

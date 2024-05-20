@@ -1,0 +1,17 @@
+Decision: High risk
+
+Step 1: The overall sentiment of the management's discussion is quite pessimistic. The text highlights significant challenges faced by the company due to the COVID-19 pandemic, resulting in higher provisions for credit losses and adverse impacts on various income statement categories. For example, the management notes, "The Company expects that it will continue to be negatively impacted by the COVID-19 pandemic after September 30, 2020 and believes that the pandemic could have a material impact on its future financial results." This indicates a cautious and uncertain outlook.
+
+Step 2: Examining the financial ratios provided:
+- Working Capital to Total Assets (X1): 0.0
+- Retained Earnings to Total Assets (X2): 0.084
+- EBIT to Total Assets (X3): 0.0
+- Total Revenue to Total Assets (X5): 0.045
+
+The low values of Working Capital to Total Assets and EBIT to Total Assets, coupled with a moderate value of Retained Earnings to Total Assets, indicate potential liquidity and profitability issues. The Total Revenue to Total Assets ratio also suggests a relatively low efficiency in generating revenue from the company's assets.
+
+Step 3: Combining insights from the text analysis and financial ratios, it is evident that the company is facing significant challenges. The management's discussion highlights the adverse impacts of the pandemic on the company's financial performance, with higher provisions for credit losses and uncertainties about future financial results. Additionally, the financial ratios point towards potential liquidity, profitability, and efficiency concerns.
+
+Step 4: Final Decision: High risk
+
+Overall, based on the pessimistic sentiment, coupled with the challenging financial ratios and outlook, the company is classified as having a high risk of bankruptcy.

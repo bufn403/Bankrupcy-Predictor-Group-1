@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management discussion text appears to be a mix of challenges and proactive measures. On one hand, there are mentions of regulatory investigations, management terminations, and the impact of the COVID-19 pandemic. However, there are also discussions about the company's commitment to regulated growth plans, cost-cutting strategies, and environmental initiatives.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of -0.057 indicates a potential liquidity issue, where working capital is insufficient to cover short-term obligations.
+- Retained Earnings to Total Assets (X2): The negative value of -0.002 suggests that the company's retained earnings are not sufficient to support its total assets, signaling a strain on profitability.
+- EBIT to Total Assets (X3): The positive value of 0.051 indicates a low profitability margin concerning the total assets, which may raise concerns about the company's operational efficiency.
+- Total Revenue to Total Assets (X5): The value of 0.264 shows that the company generates revenue in relation to its total assets, but this alone does not provide a complete picture of the financial health.
+
+Step 3: Combining the sentiment analysis with the financial ratios, the company appears to be facing challenges, including regulatory investigations, management issues, and potential liquidity and profitability constraints. While there are efforts to address these challenges through cost reductions and growth plans, the overall outlook remains uncertain, particularly with external factors like the ongoing pandemic.
+
+Step 4: In conclusion, based on the mixed sentiments in the management discussion, the concerning financial ratios, and the challenging operational environment highlighted in the text, the company is classified as having a medium risk of bankruptcy. The combination of internal and external pressures suggests a need for careful monitoring and strategic decision-making to navigate potential financial distress.

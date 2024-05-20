@@ -1,0 +1,12 @@
+Final Decision: Medium risk of bankruptcy
+
+Step 1: Analyze the overall sentiment of the management's discussion,  and whether it is optimistic or pessimistic.
+The management's discussion in the filing contains a mix of optimistic and pessimistic sentiments. While they discuss a new growth strategy and improvements in global monthly comparable sales results, there are concerns mentioned regarding the negative impact of COVID-19 on revenues and financial performance.
+
+Step 2: Observe relevant numbers and figures provided in the discussion, such as future projections or percentage changes.
+The filing includes details on the company's financial results, showing a decrease in consolidated revenues, systemwide sales, and consolidated operational income for the nine months of 2020. The impact of the pandemic on various segments is highlighted, with performance declines in International Operated Markets and International Developmental Licensed Markets.
+
+Step 3: Determine whether the numbers and figures represent a successful or failed quarter, and if the conditions are likely to improve or worsen.
+The financial results point to varied performance across different segments, with declines in comparable sales and revenues in certain markets due to COVID-19 restrictions. While there are strategies in place to address challenges and improve growth, the uncertainties related to the pandemic could impact future financial performance.
+
+Based on the overall analysis, the company is classified as having a medium risk of bankruptcy. The combination of revenue declines, operational challenges, and ongoing impact of COVID-19 suggest a level of financial vulnerability that warrants caution. The management's efforts to address these issues through new growth strategies and operational improvements will be crucial in mitigating the risk.

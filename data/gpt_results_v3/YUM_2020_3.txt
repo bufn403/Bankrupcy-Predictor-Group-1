@@ -1,0 +1,13 @@
+Decision: Medium
+
+Step 1: The tone of the Management's Discussion is a mix of optimism and caution. The discussion addresses the impacts of COVID-19 on the company's operations, with a focus on managing challenges and adapting to the changing environment. It mentions efforts to assist franchisees facing financial constraints and the impact of store closures on sales. The overall sentiment appears to be realistic about the challenges faced.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The ratio is 0.05, indicating a relatively low amount of working capital relative to total assets. This suggests potential liquidity concerns.
+- Retained Earnings to Total Assets (X2): The ratio is -1.22, indicating negative retained earnings relative to total assets. This could signify past losses impacting the company's financial position.
+- EBIT to Total Assets (X3): The ratio is 0.37, indicating a moderate level of earnings before interest and taxes relative to total assets.
+- Total Revenue to Total Assets (X5): The ratio is 1.13, indicating that the company generates more revenue relative to its total assets. 
+
+Step 3: When we combine the sentiment analysis with the financial ratios, we see a company that is facing challenges due to COVID-19 impacts, with potential liquidity concerns indicated by the low working capital ratio and negative retained earnings. However, the EBIT to Total Assets ratio shows that the company is generating earnings, and the Total Revenue to Total Assets ratio is relatively healthy. The focus on managing costs, assisting franchisees, and adapting to the situation indicates efforts to navigate through the challenges.
+
+Step 4: The company is classified as having a medium risk of bankruptcy. While there are liquidity concerns and negative retained earnings, the company's ability to generate earnings and revenue provides a buffer. The realistic approach to addressing challenges and adapting to the environment suggests a potential to overcome difficulties.

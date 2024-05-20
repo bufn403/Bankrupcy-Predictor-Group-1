@@ -1,0 +1,16 @@
+Medium
+
+Step 1: 
+The sentiment in the management discussion leans towards being cautious or slightly pessimistic due to the impact of the COVID-19 pandemic on the company's operations. There are mentions of challenges associated with the pandemic, customer delays, and uncertainties that could affect financial results negatively. For example, "We invest our cash with highly rated financial institutions. Cash and cash equivalents include highly liquid investments with original maturities of three months or less."
+
+Step 2:
+- Working Capital to Total Assets (X1): -0.0626, indicating a negative working capital, which signifies potential financial strain.
+- Retained Earnings to Total Assets (X2): 0.1548, showing a moderate level of retained earnings relative to total assets.
+- EBIT to Total Assets (X3): 0.0735, suggesting a lower profitability margin in relation to total assets.
+- Total Revenue to Total Assets (X5): 0.3335, indicating a moderate level of total revenue generated in relation to total assets.
+
+Step 3:
+Combining the sentiment from the management discussion with the financial ratios, it can be inferred that the company is facing challenges, particularly due to the pandemic's impact on operations. The negative working capital, lower EBIT to total assets ratio, and cautious sentiment in the management discussion all point towards a more precarious financial position for the company. Although the total revenue to total assets ratio is moderate, the other factors suggest a more challenging quarter.
+
+Step 4:
+Taking into account the cautious sentiment in the management discussion, the financial ratios indicating potential financial strain, and the overall challenging outlook presented by the combination of text analysis and financial ratios, the company is classified as having a medium risk of bankruptcy.

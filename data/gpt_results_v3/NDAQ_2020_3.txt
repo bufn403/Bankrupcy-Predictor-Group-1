@@ -1,0 +1,13 @@
+Final Decision: Low risk
+
+Step 1: The sentiment of the management's discussion is optimistic overall. They discuss implementing risk management and contingency plans, transitioning to a remote work environment successfully, and taking preventive measures. They also mention that as of September 30, 2020, COVID-19 has not had a significant negative impact on their business operations or financial condition. This positive outlook indicates a lower risk of bankruptcy.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0022 - This ratio is very low, indicating a potential liquidity issue as working capital is a measure of a company's operational efficiency and short-term financial health.
+- Retained Earnings to Total Assets (X2): 0.2423 - This ratio is relatively high, indicating that a significant portion of the company's total assets is financed by retained earnings. This shows stability and financial strength.
+- EBIT to Total Assets (X3): 0.0518 - This ratio shows the company's ability to generate profit from its assets. Although it is not very high, it still indicates some profitability.
+- Total Revenue to Total Assets (X5): 0.1878 - This ratio shows how efficiently the company is utilizing its assets to generate revenue. It is at a moderate level, indicating decent asset utilization.
+
+Step 3: Despite the low working capital to total assets ratio suggesting a potential liquidity issue, the high retained earnings to total assets ratio and the positive sentiment in the management's discussion point towards a stable financial position. The company has proactively managed the impact of COVID-19, which has not significantly affected its operations. The financial ratios, along with the management's actions, indicate a successful quarter with manageable risks.
+
+Step 4: Considering the overall sentiment, the financial ratios, and the proactive measures taken by the company to address the challenges posed by COVID-19, the company is classified as having a low risk of bankruptcy. Their financial stability, profitability, and optimistic outlook contribute to this assessment of low risk.

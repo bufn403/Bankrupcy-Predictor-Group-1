@@ -1,0 +1,9 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is pessimistic. The company highlights the adverse impact of the COVID-19 pandemic on its business, operating results, financial condition, and liquidity.
+
+Step 2: The company reported a net loss of $5.2 billion for the first nine months of 2020, compared to a net income of $2.4 billion in the same period of 2019. The operating income (loss) was a $4.2 billion loss for the first nine months of 2020, showing a significant decrease compared to the same period in 2019.
+
+Step 3: The company experienced a significant decline in international and domestic demand related to COVID-19, resulting in reducing scheduled capacity by around 70% for the third quarter of 2020. The company anticipates demand to remain suppressed and plateau at levels around 50% relative to 2019 levels until a treatment or vaccine for COVID-19 is widely available.
+
+Therefore, based on the company's pessimistic sentiment, significant net losses, and uncertainty around demand recovery due to COVID-19, the company is classified as having a Medium Risk of bankruptcy. The measures taken to manage liquidity and reduce costs indicate efforts to mitigate risks, but the ongoing impact of the pandemic poses challenges.

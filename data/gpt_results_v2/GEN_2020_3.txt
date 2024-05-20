@@ -1,0 +1,9 @@
+High
+
+Step 1: The sentiment in the management's discussion appears to be cautious and realistic, considering the uncertainties and challenges posed by the COVID-19 pandemic. A key statement supporting this sentiment is, "The COVID-19 pandemic is having widespread, rapidly evolving, and unpredictable impacts on global society, economies, financial markets, and business practices."
+
+Step 2: The financial metrics provided in the discussion show a mixed performance. While there were increases in net revenues and operating income for the second quarter of fiscal 2021, there were decreases in net income and net income per share for the same period. This indicates some instability in the company's financial performance.
+
+Step 3: The decrease in net revenues for the first six months of fiscal 2021, offset by cost reduction programs, shows a challenging period for the company. Additionally, the loss from discontinued operations and lower income from continuing operations raise concerns about the company's financial health.
+
+Final Decision: Considering the cautious sentiment, mixed financial performance, and challenges faced by the company, it is determined that the company has a high risk of bankruptcy in the future. The uncertainties and potential financial impacts of the COVID-19 pandemic further contribute to this assessment.

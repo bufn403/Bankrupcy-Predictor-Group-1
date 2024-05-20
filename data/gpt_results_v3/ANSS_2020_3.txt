@@ -1,0 +1,19 @@
+Medium
+
+Step 1: The sentiment of the management's discussion appears to be a mix of caution and optimism. While there are mentions of adverse impacts from COVID-19 and trade restrictions, the discussion also highlights resilience and adaptation strategies. For example, "While the resilience of our business is evident in the growth shown above..." indicates a positive outlook. However, phrases like "As a result of social distancing...have been canceled" show the challenges faced.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.158445009644436 - This ratio indicates that the company has a moderate level of working capital in comparison to its total assets, which may imply some level of financial stability.
+- Retained Earnings to Total Assets (X2): 0.7214846627861325 - A high ratio like this suggests that a significant portion of the company's total assets are funded by its retained earnings, indicating financial strength.
+- EBIT to Total Assets (X3): 0.0872994554734308 - This ratio shows the company's ability to generate earnings from its total assets, and a lower value may imply lower profitability.
+- Total Revenue to Total Assets (X5): 0.3099805745694143 - This ratio indicates the company's efficiency in generating revenue from its total assets.
+
+Step 3: Considering the mix of positive and challenging factors in the management discussion, along with the financial ratios:
+- The positive retention of earnings contributes to financial stability, while the lower EBIT to Total Assets ratio may suggest potential profitability challenges.
+- The mention of revenue growth in the discussion is a positive sign, but adverse impacts from COVID-19 and trade restrictions are factors to be cautious about.
+- The moderate Working Capital to Total Assets ratio implies some level of liquidity to cover short-term obligations but may not be considered high.
+
+Step 4: Based on the analysis:
+- The company exhibits a mix of positive and challenging factors, with indications of financial stability from retained earnings but potential challenges in profitability.
+- The overall sentiment leans towards caution due to factors like COVID-19 impacts and trade restrictions mentioned in the discussion.
+- Considering the financial ratios and sentiment analysis, the company is classified as having a medium risk of bankruptcy in the future.

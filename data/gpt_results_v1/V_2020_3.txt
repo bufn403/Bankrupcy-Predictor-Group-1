@@ -1,0 +1,11 @@
+high
+
+Step 1: The overall sentiment of the management's discussion is cautious and slightly pessimistic. Despite mentioning year-over-year growth in payments volume and processed transactions, the text repeatedly emphasizes the challenging and uncertain impact of COVID-19 on their business, indicating a level of uncertainty and concern regarding the future.
+
+Step 2: The company reported a decrease in net revenues of 6% for the first quarter of fiscal 2021 compared to the prior-year period, driven by the changes in cross-border volume impacted by COVID-19. This decline in revenues suggests a struggle to maintain previous levels of financial performance.
+
+Step 3: The text mentions that revenues were at varying stages of recovery, with cross-border volume remaining depressed and the impact of COVID-19 on the business difficult to predict. While the company took measures to reduce operating expenses, uncertainties surrounding the outbreak and its implications on business operations linger, indicating a challenging road ahead.
+
+Based on the cautious sentiment expressed throughout the filing, the decreased net revenues, and the ongoing challenges related to COVID-19, the company's risk of bankruptcy appears to be high. The uncertainty around the pandemic's impact on their business and the decline in revenues point towards a precarious financial position.
+
+Overall, the combination of cautious sentiment, decrease in revenues, and uncertainties related to COVID-19 paint a worrisome picture for the company's financial health.

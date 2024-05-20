@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. They highlight the positive impact of recent acquisitions and FDA approvals, as well as their efforts to address challenges posed by the COVID-19 pandemic.
+
+Step 2: They mention that their revenues increased by 73% for the nine months ended September 30, 2020, largely due to the Celgene acquisition contributing $12.9 billion of revenues. They also mention higher demand for Eliquis, which indicates some positive growth in their products despite challenges.
+
+Step 3: While the revenues increased, there are concerns about a $2.31 decrease in GAAP EPS primarily due to the Celgene acquisition and other factors. They mention a negative impact of approximately 1% on year-to-date revenues due to changes in purchasing patterns influenced by the pandemic.
+
+Step 4: Despite the revenue growth, the decrease in EPS and impact on revenues due to pandemic-related factors suggest a certain level of financial strain. The cautious approach to managing operations and uncertainties related to COVID-19 indicate a medium risk of bankruptcy for the company.
+
+Overall, the company shows positive growth in revenues, but the impact of the pandemic on operations and financial metrics suggests a medium risk of bankruptcy.

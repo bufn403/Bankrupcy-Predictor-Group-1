@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management discussion is a mix of optimistic and cautious tones. While the company highlights its diversified business operations and strategies to mitigate the impacts of COVID-19, there are concerns mentioned regarding the potential adverse effects on various segments due to the pandemic. 
+
+Step 2: 
+- Working Capital to Total Assets (X1) is 0.0, indicating a low or negative working capital which can be a red flag for financial stability.
+- Retained Earnings to Total Assets (X2) is 0.0449, showing a modest amount of retained earnings in relation to total assets.
+- EBIT to Total Assets (X3) is 0.0, suggesting that the company might not be generating significant earnings from its assets.
+- Total Revenue to Total Assets (X5) is 0.0753, indicating that the company generates revenue but it might not be efficiently utilizing its assets to generate higher revenues.
+
+Step 3: Combining the sentiment analysis with the financial ratios, it seems that the company is facing challenges due to the ongoing pandemic despite having some financial strengths. The mention of increased expenses associated with COVID-19 and potential impacts on various business segments indicates a period of uncertainty and adaptation. The low working capital and EBIT to Total Assets ratio could be concerning, indicating potential liquidity and earnings issues.
+
+Step 4: Considering all the factors, the company is classified as having a medium risk of bankruptcy. While there are elements of stability such as retained earnings and revenue generation, the overall situation, as indicated by the financial ratios and the cautious tone in the management discussion, suggests a level of risk that cannot be ignored. The company needs to closely monitor its financial health and adapt to the changing market conditions to mitigate the risk of bankruptcy in the future.

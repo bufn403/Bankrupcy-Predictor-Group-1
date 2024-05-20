@@ -1,0 +1,13 @@
+Final Decision: High
+
+Step 1: The overall sentiment of the management discussion appears to be mixed, with a focus on the impact of COVID-19 on the business. For example, it mentions, "The COVID-19 public health emergency has had a material adverse effect on our business, financial condition and results of operations." This indicates a challenging environment.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of -0.019 indicates that the company may be facing liquidity challenges, as it doesn't have enough current assets to cover its current liabilities.
+- Retained Earnings to Total Assets (X2): The negative value of -0.075 indicates that the company may have experienced losses in the past, impacting its retained earnings.
+- EBIT to Total Assets (X3): The positive value of 0.068 indicates that the company is generating some earnings in relation to its total assets.
+- Total Revenue to Total Assets (X5): The value of 0.345 suggests that the company generates revenue relative to its total assets, but it's essential to consider the context of the COVID-19 impact.
+
+Step 3: The negative working capital, retained earnings, along with the significant adverse effect of COVID-19, indicate financial strain. The positive EBIT to Total Assets ratio shows some profitability, but the overall context of the pandemic's impact raises concerns. The high dependence on gaming operations in a challenging industry landscape further adds to the risk.
+
+Step 4: The combination of a challenging business environment due to COVID-19, negative working capital, and historical losses lead to the assessment of high risk of bankruptcy for the company in the future. The financial ratios and the management discussion support this conclusion.

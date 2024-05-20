@@ -1,0 +1,13 @@
+Final Decision: Medium
+
+Step 1: The overall sentiment of the management's discussion seems to be cautiously optimistic. While there are mentions of challenges due to the decline in commodity prices and the impacts of the COVID-19 pandemic, the company highlights its long-term strategies and ability to generate attractive cash flows even in a low commodity price environment. This indicates a sense of resilience in the face of market volatility.
+
+Step 2: 
+- Working Capital to Total Assets (X1): -0.0274 - A negative value indicates potential liquidity issues, as working capital is insufficient to cover short-term obligations.
+- Retained Earnings to Total Assets (X2): 0.0238 - This ratio shows a moderate level of retained earnings in relation to total assets, which can provide a cushion against financial shocks.
+- EBIT to Total Assets (X3): 0.1272 - A positive value signifies profitability relative to total assets, which is a positive indicator.
+- Total Revenue to Total Assets (X5): 0.7769 - This high ratio indicates effective asset utilization in generating revenue.
+
+Step 3: Considering the financial ratios along with the discussion, while there are some concerning factors such as negative working capital, the company's profitability (EBIT to Total Assets) and revenue generation (Total Revenue to Total Assets) appear strong. The management's focus on cost reduction measures and long-term strategies provides some assurance of stability amidst market challenges.
+
+Step 4: Based on the analysis of sentiment, financial ratios, and overall outlook, the company is classified as having a medium risk of bankruptcy. While certain ratios raise concerns, the company's profitability and revenue generation capabilities, along with its strategic approach, suggest a moderate level of risk. The company's ability to adapt to market conditions and maintain a diverse customer base provide some level of confidence in its financial health.

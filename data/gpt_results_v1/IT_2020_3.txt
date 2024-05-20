@@ -1,0 +1,9 @@
+High
+
+Step 1: The overall sentiment in the Management's Discussion and Analysis (MD&A) section is cautious and emphasizes uncertainties and risks. This is evident in statements like, "We operate in a very competitive and rapidly changing environment that involves numerous known and unknown risks and uncertainties, some of which are beyond our control" and "Our future quarterly and annual revenues, operating income, results of operations and cash flows, as well as any forward-looking statement, are subject to change and to inherent risks and uncertainties."
+
+Step 2: Relevant figures provided in the discussion show a decrease in revenues for the Company. For example, "Total revenues for the three months ended September 30, 2020, were $1.0 billion, a decrease of $5.9 million, or 1% compared to the same period in 2019" and "Conferences and Consulting revenues declined by 81% and 4%, respectively." Additionally, there are significant costs incurred due to the impact of the COVID-19 pandemic.
+
+Step 3: The conditions have worsened due to the COVID-19 pandemic. The filing mentions the cancellation of conferences, reduction in revenues, workforce reductions, and implementation of cost avoidance initiatives. These factors have directly contributed to the decreased performance in the Consulting segment.
+
+Based on the cautious sentiment, decrease in revenues, and worsened conditions due to the pandemic impact, it is concluded that the company has a high risk of bankruptcy in the future. The uncertainties, significant revenue decline, and cost-cutting measures taken due to the pandemic all point towards financial distress.

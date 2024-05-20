@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion in the 10-Q filing appears cautious and slightly pessimistic. While the company discusses its efforts to adapt to challenges, such as the impact of the COVID-19 pandemic on revenues and operations and the recent security incident, there is an undertone of concern regarding these disruptions which could potentially affect revenue and financial results negatively.
+
+Step 2: The filing provides key financial figures that indicate a mixed performance. Total revenues increased by 3.8% and 4.5% for the three and nine months ended September 30, 2020, respectively. Subscriptions revenue showed growth of 18.6% and 18.8% for the same periods, and the backlog increased by 9.2% from the previous year. However, software licenses and royalties revenue decreased by 21% and 18% for the same periods, primarily due to longer sales cycles attributed to COVID-19 and delayed deliveries.
+
+Step 3: The financial results show a mixed performance, with revenue growth in some areas but declines in others. The impact of the COVID-19 pandemic is evident in lower revenues from software licenses, software services, and appraisal services. The filing also mentions delays in government procurement processes and implementations caused by travel restrictions, which could further impact revenue negatively.
+
+Step 4: Considering the cautious sentiment, the mixed financial performance, and the potential for continued disruptions due to the COVID-19 pandemic and the recent security incident, the company appears to face a medium risk of bankruptcy. While there are areas of revenue growth and a substantial backlog, the challenges mentioned in the filing could hinder the company's financial stability in the near term. It will be important for the company to closely monitor and address these challenges to mitigate the risk of bankruptcy.

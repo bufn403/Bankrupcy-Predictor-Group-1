@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautious due to the impact of the COVID-19 pandemic on their operations, as stated in the following quote: "We are unable to accurately predict the full impact that COVID-19 will have on our results of operations, financial condition, liquidity, and cash flows due to numerous uncertainties."
+
+Step 2: The company completed acquisitions that increased expenses more than revenue, as mentioned here: "These acquisitions have increased expenses, including amortization of acquired intangible assets, more than revenue during the first three quarters of 2020 and are expected to continue to increase expenses more than revenue for the remainder of fiscal 2020."
+
+Step 3: Despite increased product and maintenance revenue in certain regions, the company faced higher selling costs and continued investments in research and development, as stated in this quote: "higher selling costs, including additional investment in technical sales support...continued investment in research and development activities."
+
+Through the combination of these factors - cautious sentiment, increased expenses from acquisitions, and ongoing investments amidst revenue growth - the company faces a medium risk of bankruptcy as they navigate the uncertainties of the current economic climate and operational challenges.

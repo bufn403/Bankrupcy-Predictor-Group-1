@@ -1,0 +1,9 @@
+medium
+
+Step 1: The overall sentiment in the management's discussion appears cautious due to the impact of the global COVID-19 pandemic on oil demand and prices. For instance, the filing states, "In addition to the global health concerns of COVID-19, the pandemic has severely impacted demand for oil. In response to the resulting sharp decline in oil prices, the Corporation’s focus is on preserving cash and capability" reflecting a realistic and somewhat pessimistic outlook.
+
+Step 2: The company has taken significant measures to reduce costs and preserve cash, such as reducing the E&P capital and exploratory budget, shifting from a six-rig program to one rig, deferring discretionary spending, and entering into a term loan agreement. These actions are evident in the statement, "We have more than 80% of our forecasted crude oil production for the remainder of 2020 hedged with $55 WTI put options" to mitigate against the uncertainty in oil prices.
+
+Step 3: Despite the cost-saving measures, the company incurred a net loss, with the third quarter of 2020 showing a higher net loss compared to the third quarter of 2019. The filing mentions, "Excluding items affecting comparability of earnings between periods, we incurred an adjusted net loss of $216 million, compared with an adjusted net loss of $105 million in the third quarter of 2019," indicating a worsening financial performance.
+
+Step 4: Taking into account the cautious sentiment, cost-saving measures due to the pandemic's impact on the oil industry, and the increased net loss in the recent quarter, the company is classified as having a **medium risk** of bankruptcy. The reduced earnings, coupled with the ongoing challenges in the oil market, indicate a level of financial vulnerability despite the proactive steps taken to address the situation.

@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The tone of the management discussion appears to be a mix of both positive and cautious sentiments. The management discusses factors impacting financial performance, including fluctuations in operating results due to seasonal differences and the impact of COVID-19. While there is mention of increased earnings primarily due to higher electric margin, there are also references to declining sales and increased expenses. The overall sentiment seems cautious and forward-looking.
+
+Step 2: 
+- Working Capital to Total Assets (X1): The negative value of -0.0247 for Working Capital to Total Assets indicates that the company may have more short-term liabilities than short-term assets, which could signal potential liquidity issues.
+- Retained Earnings to Total Assets (X2): The value of 0.1226 for Retained Earnings to Total Assets suggests that the company has a moderate amount of retained earnings relative to its total assets, which could indicate some degree of stability.
+- EBIT to Total Assets (X3): The value of 0.0410 for EBIT to Total Assets indicates the company's ability to generate earnings from its total assets, although the ratio is relatively low which could indicate lower profitability.
+- Total Revenue to Total Assets (X5): With a value of 0.2217 for Total Revenue to Total Assets, it shows that the company generates revenue relative to its total assets, but the ratio is not exceptionally high.
+
+Step 3: Combining the insights from the text analysis and financial ratios, the company's cautious sentiment in the management discussion, coupled with the negative Working Capital to Total Assets ratio and relatively low EBIT to Total Assets ratio, could indicate potential liquidity and profitability challenges. The references to declines in sales and impacts from COVID-19 also add to the concerns about future financial stability. 
+
+Step 4: Based on the overall analysis, including the caution in the management discussion, mixed financial ratios, and the challenging business environment mentioned in the text, the company appears to be facing moderate financial risk. The negative working capital, lower profitability ratios, and cautious outlook contribute to the assessment of medium risk of bankruptcy.

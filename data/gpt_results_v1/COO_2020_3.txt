@@ -1,0 +1,9 @@
+High
+
+Step 1: The overall sentiment of the management's discussion is pessimistic, highlighting the negative impact of the COVID-19 pandemic on the company's operations. For example, "As a result of the healthcare systems responding to the demands of managing the pandemic...many customers that have reopened are experiencing reduced patient visits. This has had, and we believe will continue to have, an adverse effect on our sales, operating results and cash flows" and "Overall, we remain optimistic about the long-term prospects...however, the impact, risks and uncertainty relating to the global COVID-19 pandemic...have adversely affected our sales, cash flow and current performance and are likely to further adversely affect our future sales, cash flow and performance."
+
+Step 2: Relevant numbers and figures provided in the discussion point to a failed quarter with declining figures compared to the prior year. For instance, "Gross profit $360.8 million, down 20% from $450.7 million in the prior year period...Operating income $72.0 million down 49% from $142.2 million...Diluted earnings per share $1.12, down 53%...Cash provided by operations $112.8 million, compared to $196.7 million in the prior year period" for the third quarter of fiscal 2020.
+
+Step 3: The numbers provided indicate a failed quarter, with decreases in gross profit, operating income, earnings per share, and cash provided by operations. The discussion also acknowledges that the COVID-19 pandemic has negatively impacted the company's business and is likely to continue doing so in the future. The uncertain future developments related to the pandemic further add to the risk.
+
+Therefore, based on the pessimistic sentiment, poor financial performance in the quarter, and the expected continuation of negative impacts from the COVID-19 pandemic, the company is classified as having a high risk of bankruptcy.

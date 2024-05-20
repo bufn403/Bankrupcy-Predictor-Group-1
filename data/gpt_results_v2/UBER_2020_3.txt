@@ -1,0 +1,12 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. While they address the challenges posed by COVID-19 and legal proceedings regarding Drivers' classification, they also highlight their efforts to adapt and respond to the situation, such as launching new services and supporting affected individuals.
+Quote supporting sentiment: "We are focused on navigating the challenges presented by COVID-19 through preserving our liquidity and managing our cash flow by taking preemptive action to enhance our ability to meet our short-term liquidity needs."
+
+Step 2: Relevant numbers and figures provided indicate a mixed performance. While overall Gross Bookings declined, Delivery Gross Bookings showed substantial growth. Net loss improved, but Adjusted EBITDA remained negative.
+Quote supporting performance: "Delivery Gross Bookings grew 135% year-over-year... Net loss attributable to Uber Technologies, Inc. was $1.1 billion... Adjusted EBITDA loss was $(625) million."
+
+Step 3: The quarter showed signs of recovery from the impacts of COVID-19 with improvements in certain metrics like Delivery Gross Bookings. The company's liquidity position with $7.3 billion in unrestricted cash is strong.
+Quote supporting recovery: "Our MAPCs were 78 million, adding 23 million, or growing 42%, quarter-over-quarter... We ended the quarter with $7.3 billion in unrestricted cash, cash equivalents, and short-term investments."
+
+Final Decision: Considering the cautious optimism in addressing challenges, mixed performance with signs of recovery, and strong liquidity position, the company is classified as having a medium risk of bankruptcy. Ongoing legal proceedings and the need to adapt to changing regulations regarding Drivers' classification may introduce uncertainties that could impact the company's future outlook.

@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is mixed, reflecting the impact of the COVID-19 pandemic on the company's operations. While proactive measures have been taken to protect employees and ensure business continuity, there are uncertainties and challenges highlighted. For example, "The COVID-19 pandemic continues to spread throughout the United States ('U.S.') and the world, with the continued potential for significant impact." This uncertainty could pose risks to the company's financial stability.
+
+Step 2: 
+   - Working Capital to Total Assets (X1): The working capital to total assets ratio of 0.094 indicates that the company may have limited working capital to cover its short-term obligations.
+   - Retained Earnings to Total Assets (X2): The retained earnings to total assets ratio of 0.284 suggests that a significant portion of assets is financed by earnings, which is positive for long-term stability.
+   - EBIT to Total Assets (X3): The EBIT to total assets ratio of 0.112 indicates that the company's earnings before interest and taxes are moderate compared to its total assets.
+   - Total Revenue to Total Assets (X5): The total revenue to total assets ratio of 0.625 shows that the company generates a high level of revenue relative to its total assets.
+
+Step 3: Combining the text analysis and financial ratios, the company faces challenges due to the COVID-19 pandemic impacting its operations and demand. The ratios indicate mixed financial stability. While the company generates substantial revenue relative to its assets, the low working capital ratio and moderate EBIT suggest potential liquidity and profitability concerns. The sentiment of uncertainty and potential impact of the pandemic further adds to the risk factor.
+
+Step 4: Based on the analysis, the company appears to have a medium risk of bankruptcy. The mixed sentiment, coupled with the financial ratios showing some financial instability, especially in terms of working capital and earnings, indicate potential challenges ahead for the company. Additional monitoring and proactive measures may be needed to mitigate these risks.

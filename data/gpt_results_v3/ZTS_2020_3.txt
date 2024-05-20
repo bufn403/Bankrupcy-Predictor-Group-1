@@ -1,0 +1,13 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is mixed. While the company acknowledges the impact of the COVID-19 pandemic on its business and uncertainties related to it, it also highlights areas of growth and resilience in its operations. This mixed sentiment does not lean strongly towards either optimism or pessimism.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.31 - This ratio indicates a moderate level of working capital in relation to total assets, which suggests the company has some liquidity to cover its short-term obligations.
+- Retained Earnings to Total Assets (X2): 0.72 - This ratio shows a high proportion of retained earnings in relation to total assets, indicating a good level of profitability and stability.
+- EBIT to Total Assets (X3): 0.22 - The EBIT to Total Assets ratio is relatively low, indicating that the company's earnings before interest and taxes are not generating a high return in relation to its total assets.
+- Total Revenue to Total Assets (X5): 0.59 - This ratio shows that a significant portion of the company's total assets is tied up in generating revenue, which could indicate efficient asset utilization.
+
+Step 3: Considering the financial ratios and the text analysis, while the company demonstrates stability in terms of retained earnings and working capital, the lower EBIT to Total Assets ratio implies that the company may not be generating substantial earnings from its assets. The total revenue to total assets ratio suggests that the company is effectively utilizing its assets to generate revenue, which is a positive sign. The discussion of revenue growth in certain segments also provides a glimpse of positive operational performance. Overall, the company seems to be facing some challenges, especially with the impact of the COVID-19 pandemic, but is still able to maintain stability.
+
+Step 4: Considering the mixed sentiment in the management discussion, along with the financial ratios indicating both strengths and weaknesses, the company is classified as having a Medium risk of bankruptcy. While there are areas of stability and strength, the lower EBIT to Total Assets ratio raises concerns about the company's profitability and efficiency in generating returns from its assets. Further monitoring and strategic adjustments may be needed to mitigate the risks and ensure long-term sustainability.

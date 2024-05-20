@@ -1,0 +1,13 @@
+Final Decision: Medium
+
+Step 1: The overall sentiment from the management discussion appears to be a mix of caution and optimism. While they mention the impact of COVID-19 on their business and the uncertainty it brings, they also highlight growth in net sales due to increased at-home consumption.
+
+Step 2: 
+- Working Capital to Total Assets (X1): Negative working capital to total assets ratio (-0.0012) indicates potential liquidity issues.
+- Retained Earnings to Total Assets (X2): Retained earnings to total assets ratio (0.0151) is relatively low, suggesting a lesser proportion of assets are financed by earnings.
+- EBIT to Total Assets (X3): EBIT to total assets ratio (0.0503) shows a moderate profitability in relation to total assets.
+- Total Revenue to Total Assets (X5): Total revenue to total assets ratio (0.2949) indicates that the company is making efficient use of its assets to generate revenue.
+
+Step 3: The financial ratios suggest some weaknesses in working capital and retained earnings, which could impact the company's financial stability. The positive EBIT to total assets ratio is a good sign, but the low retained earnings ratio may raise concerns about the long-term financial health.
+
+Step 4: Considering the cautious tone in management's discussion, the mixed sentiment of the overall outlook, and the financial ratios pointing towards liquidity and earnings concerns, the company is assessed to have a medium risk of bankruptcy. The company shows signs of profitability and revenue generation but also has weaknesses in working capital and retained earnings that could pose challenges in the future.

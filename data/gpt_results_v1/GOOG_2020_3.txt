@@ -1,0 +1,9 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion appears cautious and realistic. They acknowledge the ongoing impact of COVID-19 on their business and the unpredictability of the situation. For example: "Looking ahead, the ongoing impact of COVID-19 on our business continues to evolve and be unpredictable." This cautious tone indicates awareness of potential challenges and risks ahead.
+
+Step 2: The company experienced various impacts due to COVID-19 on their financial results, with fluctuations in revenues observed throughout different quarters. For instance: "During the quarter ended June 30, 2020, our advertising revenues declined compared to the prior year due to the continued impacts of COVID-19." Although advertising revenues benefited in the quarter ended September 30, 2020, the uncertainty and variability in revenues linked to the pandemic present a risk factor.
+
+Step 3: The company mentions potential risks to their business, including continued adverse impacts from decreased advertising spend, changes in user behavior, credit deterioration, and market volatility. They also highlight evaluating the pace of investment plans to mitigate these risks. This signifies a level of caution regarding future financial performance. For instance: "The ongoing impact of COVID-19 and the extent of these measures we may implement could have a material impact on our financial results."
+
+Overall, the cautious sentiment, the impact of COVID-19 on financial results, and the acknowledgment of potential risks to the business suggest a medium risk of bankruptcy. The company is aware of the challenges ahead and is taking precautions, but the uncertain and evolving nature of the situation indicates ongoing vulnerabilities.

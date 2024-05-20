@@ -1,0 +1,12 @@
+Low
+
+Step 1: The overall sentiment of the management's discussion is optimistic, as they highlight positive financial results and key developments. 
+Quote: "Highlights and other key developments from the first quarter of fiscal 2021 and other recent events included..."
+
+Step 2: The company reported a significant increase in revenues and net income compared to the previous year. 
+Quote: "Revenues for the first quarter of fiscal 2021 were $8.2 billion, an increase of 62% compared to the year ago quarter, with net income of $2.5 billion, an increase of 165% compared to the year ago quarter."
+
+Step 3: The increase in revenues was primarily due to higher demand for 5G products and key developments like the NuVia acquisition. The company also expects new consumer demand for 5G products in the future, indicating a positive outlook. 
+Quote: "The increase in revenues in the first quarter of fiscal 2021 was primarily due to...As we look forward to the next several months and beyond, our business may be impacted by the following key items..."
+
+Conclusion: Based on the optimistic sentiment, significant revenue and income growth, and positive outlook for future 5G product demand, the company is classified as having a low risk of bankruptcy. Their strong financial performance and strategic acquisitions suggest they are well-positioned for future growth.

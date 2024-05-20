@@ -1,0 +1,13 @@
+Decision: Low
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. Although they mention potential headwinds from lower interest rates and economic uncertainty, they also highlight strong financial results and capital positions. For example, "While our results for our fiscal first quarter of 2021 were strong and we remain well-positioned entering our fiscal second quarter" indicates a positive outlook.
+
+Step 2: 
+- Working Capital to Total Assets (X1): X1 is 0.0, which indicates a potential issue with short-term liquidity and the ability to cover current liabilities with current assets.
+- Retained Earnings to Total Assets (X2): X2 is 0.1303343542623787, which shows a moderate level of retained earnings in relation to total assets.
+- EBIT to Total Assets (X3): X3 is 0.0, which suggests that the company is not generating earnings from its total assets.
+- Total Revenue to Total Assets (X5): X5 is 0.1463501786625829, indicating that the company generates revenue equivalent to 14.64% of its total assets.
+
+Step 3: Despite the low working capital and EBIT to total assets ratios, the moderate level of retained earnings and the total revenue to total assets ratio paint a more favorable picture. The financial ratios suggest a mixed performance, with some areas of concern but also strengths in revenue generation and retained earnings. The management discussion indicates a positive outlook despite potential challenges.
+
+Step 4: Based on the cautiously optimistic sentiment in the management discussion, along with the mixed financial ratios, the company is classified as having a low risk of bankruptcy. While there are some financial concerns, the positive outlook and strong financial results in certain areas indicate a level of stability and resilience.

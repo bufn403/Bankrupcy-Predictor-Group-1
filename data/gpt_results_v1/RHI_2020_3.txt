@@ -1,0 +1,16 @@
+Medium
+
+Step 1: Analyze the overall sentiment of the management's discussion and whether it is optimistic or pessimistic.
+The management's discussion contains a mixture of optimistic and pessimistic sentiments. They mention the impact of COVID-19 on the business and the need to manage costs, but also highlight opportunities for revenue generation and the company's ability to meet customer demands.
+
+Step 2: Observe relevant numbers and figures provided in the discussion, such as future projections or percentage changes.
+- Revenues for the first three quarters of 2020 decreased by 16%, with declines in temporary staffing by 21% and permanent placement staffing by 32%.
+- Risk consulting and internal audit services experienced revenue growth of 9%.
+- The unemployment rate increased throughout the first three quarters of 2020, reaching 7.9% by the end of the third quarter.
+
+Step 3: Determine whether the numbers and figures represent a successful or failed quarter, and if the conditions are likely to improve or worsen.
+- The decrease in revenues for temporary and permanent staffing sectors indicates a challenging quarter, especially with significant drops in both areas.
+- The growth in risk consulting services shows some resilience.
+- The increasing unemployment rate suggests economic challenges that may persist and impact the company's operations.
+
+Based on the overall analysis, the company is facing financial challenges as evidenced by the decline in revenues from key segments and the economic conditions. However, there are pockets of growth in certain services. The uncertainty regarding the duration and impact of the pandemic, coupled with the economic disruptions, signify medium risk of bankruptcy for the company.

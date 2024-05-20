@@ -1,0 +1,13 @@
+Medium
+Step 1: Analyze the overall sentiment of the management's discussion, and whether it is optimistic or pessimistic.
+The management's discussion appears to exhibit a mix of optimistic and cautious sentiment. They highlight the challenges faced, such as the impact of the COVID-19 pandemic and global economic uncertainty, but also mention their strategies to address these challenges and the positive aspects of their financial performance.
+
+Step 2: Observe relevant numbers and figures provided in the discussion, such as future projections or percentage changes.
+The discussion includes positive indicators like net sales growth during the COVID-19 pandemic, strong comparable sales in the U.S. and internationally, and increased eCommerce sales contributing positively to their performance.
+
+Step 3: Determine whether the numbers and figures represent a successful or failed quarter, and if the conditions are likely to improve or worsen.
+The company experienced overall net sales growth during the pandemic, with strong comparable sales and a focus on associate care. Despite incremental costs due to the COVID-19 pandemic, there is an emphasis on managing expenses and optimizing efficiency. The company shows resilience and adaptability to changing market conditions.
+
+Therefore, considering the information provided in the filing, the company appears to be managing the challenges adequately but still faces uncertainties due to the ongoing pandemic and related economic impacts. They have taken strategic actions to address the situation, but the risks associated with the pandemic and its prolonged effects cannot be ignored. Hence, the risk of bankruptcy for the company is assessed as medium.
+
+The decision-making process takes into account the company's optimistic but cautious sentiment, positive financial indicators amidst challenges, and the proactive strategies implemented to navigate through the uncertainties caused by the COVID-19 pandemic.

@@ -1,0 +1,13 @@
+Medium Risk
+
+Step 1: The overall sentiment of the management's discussion is mixed. On one hand, the company highlights its strong and enduring competitive advantage and resilience in the face of the COVID-19 pandemic. For example, it states, "The strength and resilience of ITW’s Business Model and its strong balance sheet continue to put the Company in a favorable position to deal with the crisis as it continues to unfold." However, there are also concerns mentioned regarding the impact of COVID-19 on the company's operating results and future uncertainty. 
+
+Step 2: Analyzing the financial ratios:
+- Working Capital to Total Assets (X1): 0.1005 signifies that the company has a relatively low working capital position compared to its total assets, which may indicate potential liquidity concerns.
+- Retained Earnings to Total Assets (X2): 1.7478 indicates that a significant portion of the company's total assets is financed through retained earnings, which can be positive for long-term stability.
+- EBIT to Total Assets (X3): 0.2635 shows the company's ability to generate earnings relative to its total assets, which is moderate but could be improved.
+- Total Revenue to Total Assets (X5): 1.0379 suggests that the company is generating revenue roughly in line with its total assets.
+
+Step 3: Considering the mixed sentiment in the management discussion and the financial ratios, it appears that the company is facing challenges, particularly due to the impact of COVID-19 on its operations. The decline in organic revenue and operating income, as well as the negative operating leverage mentioned, are areas of concern. However, the company's strong balance sheet and focus on initiatives like product line simplification and strategic sourcing provide some stability.
+
+Step 4: Medium Risk. The company's financial ratios and the mixed sentiment in the management's discussion indicate a moderate level of risk. While there are some positive aspects such as resilient business model and strong balance sheet, the challenges posed by the ongoing pandemic and operational impacts suggest a need for careful monitoring to mitigate potential bankruptcy risks.

@@ -1,0 +1,11 @@
+Medium
+
+Step 1: The overall sentiment of the management's discussion is cautiously optimistic. They acknowledge the challenges posed by the COVID-19 pandemic but highlight their efforts to mitigate its impact and diversify their product sourcing footprint.
+
+Step 2: Relevant numbers and figures include a decrease in gross margin, operating income, and net sales. The company's operating expenses have trended favorably, primarily due to lower discretionary spending and temporary salary reductions.
+
+Step 3: The company experienced declines in net sales, gross margin, and operating income due to COVID-19 induced customer demand declines. They have taken cost reduction actions to mitigate the impact on profitability and cash flow.
+
+Step 4: Considering the cautious optimism in the management's discussion, the challenges posed by the pandemic, and the decline in financial metrics, the company is at a medium risk of bankruptcy. While they have taken measures to address the challenges, the continued impact of the pandemic on customer demand and financial metrics poses a significant risk.
+
+Thus, based on the sentiment, financial numbers, and future outlook presented in the filing, the company is classified as having a medium risk of bankruptcy.

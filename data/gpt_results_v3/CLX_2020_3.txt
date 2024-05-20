@@ -1,0 +1,17 @@
+Decision: Medium
+
+Step 1: 
+The overall sentiment of the management's discussion appears to be cautiously optimistic. While the discussion acknowledges the global impact of COVID-19 on the business, it also highlights increased demand for their products during the pandemic and outlines measures taken to address the challenges. 
+
+Step 2:
+- Working Capital to Total Assets (X1): The negative value of -0.0149 for this ratio indicates that the company has slightly more current liabilities than current assets, which could be a red flag signifying potential liquidity issues.
+- Retained Earnings to Total Assets (X2): With a value of 0.0981, this ratio suggests that the company retains a relatively low portion of its total assets as retained earnings, which could indicate lower profitability and potential issues with wealth retention.
+- EBIT to Total Assets (X3): This ratio with a value of 0.0552 indicates that the company is generating a modest return in terms of Earnings Before Interest and Taxes (EBIT) compared to its total assets.
+- Total Revenue to Total Assets (X5): With a value of 1.2429, this ratio suggests that the company is generating revenue that is over 1 times its total assets, which could indicate efficient asset utilization.
+
+Step 3:
+Combining the sentiment of the management's discussion highlighting increased demand during the pandemic with the financial ratios, it appears that while the company is managing to generate revenue efficiently (as seen in X5), there are concerns regarding liquidity (X1) and retained earnings (X2) that could pose risks. The profitability indicated by EBIT to Total Assets (X3) is moderate.
+
+Step 4:
+Final Decision: Medium Risk
+Overall, considering the cautiously optimistic sentiment, the mix of financial ratios indicating some red flags in liquidity and profitability, and the efficient revenue generation, the company is classified as having a medium risk of bankruptcy. The challenges in liquidity and retained earnings should be addressed to improve the overall financial stability.

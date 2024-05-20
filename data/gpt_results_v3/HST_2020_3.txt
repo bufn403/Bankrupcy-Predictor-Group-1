@@ -1,0 +1,13 @@
+Decision: High
+
+Step 1: The overall sentiment in the management discussion is quite pessimistic, especially regarding the impact of the COVID-19 pandemic on the company's operations. The text mentions significant declines in revenues and key performance indicators, such as RevPAR, attributing them directly to the pandemic.
+
+Step 2: 
+- Working Capital to Total Assets (X1): 0.0081679326962345 - This ratio indicates a very low level of working capital compared to total assets, which can signal liquidity issues.
+- Retained Earnings to Total Assets (X2): -0.0685289553214081 - A negative value for retained earnings to total assets suggests that the company has accumulated losses over time, impacting its overall financial health.
+- EBIT to Total Assets (X3): 0.0796373437882871 - While this ratio is positive, it is relatively low compared to total assets, indicating lower profitability.
+- Total Revenue to Total Assets (X5): 0.4337989054970187 - This ratio shows that total revenue generated is less than half of total assets, suggesting inefficiency in asset utilization.
+
+Step 3: The combination of the pessimistic tone in the management discussion, the negative retained earnings to total assets ratio, and the low levels of working capital to total assets and EBIT to total assets ratios indicate a challenging quarter with financial instability. The significant decline in revenues due to the pandemic further adds to the company's financial stress.
+
+Step 4: High

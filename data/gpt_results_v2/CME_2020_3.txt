@@ -1,0 +1,11 @@
+High
+
+Step 1: The overall sentiment of the management's discussion is cautious and realistic rather than overly optimistic or pessimistic. The management discusses various factors influencing market volatility and how the company responded to the COVID-19 pandemic.
+
+Step 2: The company experienced changes in contract volumes for different products, with some increasing and others decreasing. For example, interest rate contract volumes decreased due to low interest rate volatility, while equity index contract volumes increased due to high market volatility. These changes indicate a dynamic market environment.
+
+Step 3: The company adapted to the changing conditions by implementing cost-cutting measures and adjusting its business strategies. Operating expenses decreased, driven by factors like lower travel expenses due to the pandemic and a shift in marketing spend. The company also saw fluctuations in investment income and interest costs.
+
+Step 4: Considering the cautious sentiment, the dynamic market conditions, and the company's adaptive responses, the overall risk of bankruptcy for the company appears high. The company's ability to maintain compliance with debt facilities, manage liquidity, and adapt to changing regulations contribute to the high-risk classification. The uncertain market conditions, coupled with decreasing contract volumes and strategic cost-cutting measures, suggest a challenging financial outlook for the company.
+
+Therefore, the company is classified as having a high risk of bankruptcy in the future.

@@ -34,10 +34,8 @@ To explore this archived project:
    ```
 2. **Install required dependencies:**
    - Ensure Python 3.6+ is installed.
-   - Install Python libraries:
-     ```
-     pip install -r requirements.txt
-     ```
+   - Install Python libraries, as indicated in each file. 
+     
 3. **Set up each component:**
    - Navigate to the script directory.
    - Follow the detailed setup instructions in the header comments of each script.

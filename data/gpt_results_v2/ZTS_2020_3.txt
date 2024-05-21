@@ -1,9 +1,0 @@
-Medium Risk
-
-Step 1: The overall sentiment in the management's discussion appears cautious due to the impact of the COVID-19 pandemic on their business operations, including decreased demand from customers. For example, "The COVID-19 pandemic has had a significant impact on our results of operations during 2020 due to decreased demand attributable to the impact of COVID-19 on our customers and we anticipate that trend could continue for the remainder of 2020."
-
-Step 2: The company experienced an increase in total revenue but also reported that foreign exchange fluctuations had a negative impact on their revenue growth. This is evident in the statement, "Foreign exchange decreased reported revenue growth by approximately 2%," and "Foreign exchange decreased reported revenue growth by approximately 3%."
-
-Step 3: The cost of sales as a percentage of revenue increased in the three months ended September 30, 2020, mostly due to factors like higher inventory obsolescence, unfavorable foreign exchange, and integration of recent acquisitions. However, the cost of sales decreased in the nine months ended September 30, 2020, indicating some improvement. This is supported by these statements: "The increase was primarily as a result of higher inventory obsolescence and other charges," and "The decrease was primarily as a result of a change in estimate related to inventory costing in 2019."
-
-Step 4: The company's cautious sentiment due to the COVID-19 impact, coupled with the fluctuations in revenue growth and cost of sales, indicate a medium risk of bankruptcy. They have highlighted potential challenges ahead, and while revenue increased, there are underlying issues affecting the business operations. The uncertainty surrounding the pandemic and its effects on demand make the company's financial stability less certain, warranting a medium risk classification.

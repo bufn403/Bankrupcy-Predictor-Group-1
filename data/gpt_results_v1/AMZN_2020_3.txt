@@ -1,9 +1,0 @@
-Medium
-
-Step 1: The overall sentiment of the management's discussion appears to be cautious and realistic. They mention uncertainties due to the COVID-19 pandemic, such as market volatility, fulfillment network constraints, and increased costs related to safety measures. These factors indicate a level of concern and prudence in their approach.
-
-Step 2: In analyzing the financial figures provided, there are mentions of growth in net sales for different segments, but also increased costs associated with fulfillment, shipping, and COVID-19-related expenses. For example, they state, "We incurred more than $2.5 billion in COVID-19 related costs in Q3 2020, for a total of more than $7.5 billion in the first three quarters of 2020." This highlights a significant increase in expenses.
-
-Step 3: Although there is growth in sales, the significant rise in operating expenses, particularly due to COVID-19-related costs, is concerning. The statement "We expect cost of sales as a percentage of net sales to continue to be negatively impacted through at least Q4 2020 by COVID-19 related costs" suggests that the current conditions may persist in the near future, affecting profitability.
-
-Based on the cautious sentiment of management, the significant increase in expenses, and the expectation of continued negative impact on costs due to COVID-19, the company is classified as having a medium risk of bankruptcy. It is evident that the company is facing financial challenges and uncertainties that could affect its future financial stability.

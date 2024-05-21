@@ -1,9 +1,0 @@
-High Risk
-
-Step 1: The overall sentiment in the management's discussion section is pessimistic. The company highlights significant challenges due to the COVID-19 pandemic, such as reduced energy demand, commodity price declines, and uncertainty regarding future impacts. For example, "The events as described above resulted in decreases of current and estimated long-term crude oil and NGL sale prices and volumes we expect to realize and in significant reductions to the market capitalization of many midstream and oil and gas producing companies."
-
-Step 2: Relevant numbers and figures in the discussion show that the company is facing financial difficulties. Future projections indicate that Adjusted EBITDA and DCF are expected to be below plan, and expansion projects have been negatively impacted. For instance, "We now expect DCF to be below plan by slightly more than 10% and Adjusted EBITDA to be below plan by slightly more than 8%."
-
-Step 3: The company's quarter is failed, with lower earnings attributed to reduced energy demand and commodity prices. The impairment of $350 million for long-lived assets and substantial goodwill impairments further solidify the challenges faced. Additionally, the impact of the KML and U.S. Cochin Sale has affected their business segments significantly.
-
-Therefore, based on the pessimistic sentiment, financial difficulties, and failed quarter, the company is classified as High Risk of bankruptcy.

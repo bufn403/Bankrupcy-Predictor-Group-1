@@ -1,6 +1,6 @@
 # SEC Filings Analysis Toolkit
 
-This repository contains Python modules specifically designed for parsing and loading data from SEC filings, particularly focusing on the Management's Discussion and Analysis (MD&A) sections from 10-Q filings. The toolkit includes `sec_10q_parser.py` for parsing the documents and `dataloader.py` for managing data retrieval and processing.
+This repository contains Python modules specifically designed for parsing, loading, and extracting data from SEC filings, particularly focusing on the Management's Discussion and Analysis (MD&A) sections from 10-Q filings. The toolkit includes `sec_10q_parser.py` for parsing the documents, `dataloader.py` for managing data retrieval and processing, and `extractor.py` for automating the data retrieval process across a wide range of tickers.
 
 ## Overview of Modules
 
@@ -22,6 +22,15 @@ The `dataloader.py` module handles the loading and initial processing of data fr
 - Integration with web APIs to fetch real-time data when necessary.
 - Works in tandem with `sec_10q_parser.py` to streamline the data processing workflow.
 
+### 3. `extractor.py`
+
+The `extractor.py` script automates the retrieval and storage of management discussion sections from quarterly reports (10-Q) for a large list of company tickers. It handles exceptions gracefully, logs skipped tickers due to failures, and includes a delay between requests to manage API usage limits.
+
+#### Key Features:
+- Automated retrieval of management discussions for numerous tickers.
+- Saves each management discussion in a separate text file for further analysis.
+- Gracefully handles network and parsing exceptions, logging issues for skipped tickers.
+
 ## Installation
 
 Ensure Python is installed on your machine along with the required libraries. You can install the necessary dependencies via pip:
@@ -37,10 +46,13 @@ Import the modules in your Python scripts or Jupyter notebooks to start parsing 
 ```python
 from dataloader import DataLoader
 from sec_10q_parser import parse_management_discussion
+from extractor import automate_data_retrieval
 
 # Example of loading and parsing data
 data_loader = DataLoader()
 mdna_text = data_loader.load_management_discussion('AAPL', 2021, 2)
 parsed_data = parse_management_discussion(mdna_text)
-```
 
+# Example of automating data retrieval
+automate_data_retrieval()
+```

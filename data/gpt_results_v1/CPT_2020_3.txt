@@ -1,9 +1,0 @@
-Medium
-
-Step 1: Analyzing the overall sentiment of the management's discussion, it appears to be a mix of cautious optimism and acknowledgment of challenges. For example, they mention, "Based on our belief these conditions may become more pervasive and may not improve quickly, we could have a decline in property revenues during the remainder of fiscal year 2020." This shows a level of caution about the future outlook.
-
-Step 2: Observing relevant numbers and figures, the filing mentions a decrease in net income attributable to common shareholders for the three and nine months ended September 30, 2020, compared to the same periods in 2019. They attribute this decrease partially to COVID-19 related expenses. They also mention the impacts on property revenues and expenses due to the pandemic, with approximately 99.4% of scheduled rents collected for the three months ended September 30, 2020.
-
-Step 3: The filing indicates that there was an increase in property revenues for the three and nine months ended September 30, 2020, primarily due to higher average rental rates. However, they also mention challenges within the multifamily industry due to COVID-19 impacting demand and rents received. They anticipate a decline in property revenues in the remainder of fiscal year 2020.
-
-Based on the cautious sentiment expressed, the decrease in net income, the challenges posed by the pandemic on property revenues, and the uncertainty surrounding the ultimate impact of COVID-19 on their financials, the company is classified as having a medium risk of bankruptcy. Their reliance on various sources of liquidity and the potential for declining property revenues further support this classification.

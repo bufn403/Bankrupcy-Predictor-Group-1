@@ -1,9 +1,0 @@
-Medium Risk
-
-Step 1: The management discussion appears to be a mix of optimistic and pessimistic sentiments. While there are positive statements about certain segments, there are also mentions of challenges such as reduced demand due to the COVID-19 pandemic.
-
-Step 2: In analyzing the numbers provided, we see that there was a decrease in net sales, operating income, net income, and diluted EPS for the company when comparing the third quarter of 2020 against the third quarter of 2019. This indicates a decline in financial performance.
-
-Step 3: The financial performance of the company declined in the third quarter of 2020, with reported net sales decreasing by 6%, operating income decreasing by 25%, and net income decreasing by 44% when compared to the same period in 2019. These negative trends suggest challenges in the company's operations.
-
-Step 4: Considering the mixed sentiments in the management discussion, the decline in financial performance, and the challenges highlighted in the report, the company is classified as having a medium risk of bankruptcy. The decrease in key financial metrics and the impact of the COVID-19 pandemic on demand contribute to this assessment.

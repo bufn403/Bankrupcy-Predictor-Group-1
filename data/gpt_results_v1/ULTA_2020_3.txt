@@ -1,9 +1,0 @@
-High
-
-Step 1: The sentiment of the management's discussion in the 10-Q filing is cautious and acknowledges the challenges faced by the company due to the COVID-19 pandemic. The company discusses the negative impacts of COVID-19 on its business operations, including store closures, decreased sales, and other challenges. For example, they mentioned, "Our results of operations for the 13 and 39 weeks ended October 31, 2020, were significantly impacted by the effects of COVID-19" and "Comparable sales decreased 8.9% and 23.8% for the 13 and 39 weeks ended October 31, 2020, respectively, as a result of the COVID-19 pandemic."
-
-Step 2: The relevant numbers provided in the discussion indicate a substantial decline in net sales and profitability. The filing mentions, "Net sales decreased $130.5 million or 7.8% for the 13 weeks ended October 31, 2020" and "Net sales decreased $1.1 billion or 22.4% for the 39 weeks ended October 31, 2020." Additionally, gross profit decreased significantly by $77.9 million for the 13 weeks ended October 31, 2020, and by $696.0 million for the 39 weeks ended October 31, 2020.
-
-Step 3: The numbers provided indicate a failed quarter, with decreased comparable sales, gross profit, and net sales, all attributed to the impacts of the COVID-19 pandemic. The higher expenses related to COVID-19, impairment charges, restructuring costs, and overall decline in profitability point to challenges that may persist. For example, the filing notes, "The net sales decrease was driven by the negative impacts of the COVID-19 pandemic."
-
-Based on the cautious sentiment expressed by management, the significant declines in net sales and profitability due to the COVID-19 pandemic, and the challenges faced by the company as outlined in the 10-Q filing, it is evident that the company is facing a **high risk** of bankruptcy in the future.

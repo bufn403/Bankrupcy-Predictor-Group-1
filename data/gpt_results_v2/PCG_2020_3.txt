@@ -1,9 +1,0 @@
-Medium risk
-
-Step 1: The overall sentiment of the management's discussion is pessimistic. The management discusses uncertainties related to future wildfires, public safety power shutoffs, and other regulatory and enforcement issues. For example, "PG&E Corporation and the Utility believe that their financial condition, results of operations, liquidity, and cash flows may be materially affected by the following factors" shows a sense of concern.
-
-Step 2: Relevant numbers in the discussion indicate financial struggles. The net loss attributable to common shareholders was $1,518 million in the nine months ended September 30, 2020, compared to a net loss of $4,039 million in the same period in 2019. Charges associated with wildfires, expenses related to commitments, and premiums have heavily impacted the financials.
-
-Step 3: The financial conditions seem to be challenging with ongoing expenses related to wildfire mitigation efforts, uncertainties regarding insurance coverage for future wildfires, and potential liabilities from past wildfires. The impact of COVID-19 has also added to the financial strain.
-
-Step 4: Given the pessimistic sentiment, significant financial losses, and ongoing uncertainties affecting the company's financial stability, the overall assessment of the company's risk of bankruptcy would be medium. The combination of financial struggles, future uncertainties, and liabilities from past events implies a medium level of risk for bankruptcy.

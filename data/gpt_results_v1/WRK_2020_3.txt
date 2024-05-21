@@ -1,9 +1,0 @@
-Medium
-
-Step 1: The overall sentiment of the management's discussion seems cautious due to the impact of the ransomware incident and acknowledgment of the uncertainties associated with the severity and duration of the pandemic. They also highlighted continuous efforts to manage the situation. For example, "Although we are actively managing this incident and will continue to do so, we are in the early stages of investigating the incident." This caution indicates a level of concern. 
-
-Step 2: The company reported a decrease in net sales compared to the previous year, citing the absence of Land and Development net sales. Additionally, the discussion included higher cost of goods sold related to COVID-19 expenses, and a decrease in the Consumer Packaging segment's net income due to various factors. This shows financial challenges within the company. For instance, "Net sales of $4,401.5 million for the first quarter of fiscal 2021 decreased $22.2 million" indicating a decline.
-
-Step 3: Despite cost-cutting measures and expectations to generate strong cash flows and reduce debt in fiscal 2021, there are ongoing challenges such as the pandemic-related costs and the ransomware incident impacting operations. The company mentioned delays in business operations and potential financial impacts due to the incident. They also highlighted the need to incur additional costs related to safety and cleaning, indicating ongoing financial strain. 
-
-Based on the cautious sentiment, financial challenges, and ongoing uncertainties mentioned in the filing, the company is deemed to have a medium risk of bankruptcy. The combination of decreased sales, increased costs, and potential financial impacts from external incidents suggests a level of financial vulnerability, warranting careful monitoring of the company's financial health.

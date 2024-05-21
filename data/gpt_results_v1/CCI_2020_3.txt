@@ -1,9 +1,0 @@
-high
-
-Step 1: The overall sentiment of the management's discussion appears to be optimistic. This can be inferred from the statements such as "our measure of Adjusted EBITDA may not be comparable to similarly titled measures of other companies" and "We believe Adjusted EBITDA is useful to investors or other interested parties in evaluating our financial performance."
-
-Step 2: Relevant numbers and figures provided in the discussion include the issuance of senior unsecured notes amounting to $1.25 billion, redemption of outstanding senior notes, undrawn availability under the 2016 Revolver standing at $5.0 billion, and $475 million outstanding under the CP Program. These figures indicate significant financial activities and reliance on debt instruments.
-
-Step 3: The discussions on debt covenants reveal that the company is currently in compliance with financial maintenance covenants and expects to continue complying. However, the mention of restrictions on incurring additional debt, limits on certain financial actions, and factors affecting debt covenant compliance show a reliance on debt while being subject to constraints.
-
-Step 4: Considering the optimistic sentiment, significant reliance on debt, and the presence of restrictive covenants, the company appears to have a high risk of bankruptcy. Despite the compliance with current financial maintenance covenants, the dependence on debt and limitations imposed could lead to financial distress in the future, especially if operating conditions worsen.

@@ -1,9 +1,0 @@
-High Risk
-
-Step 1: The overall sentiment of the management's discussion is pessimistic due to the adverse effects of the COVID-19 pandemic on the company's operations. This can be seen in the statement, "Given the uncertainty around the extent and timing of the potential future spread or mitigation of COVID-19 and around the imposition or relaxation of protective measures, the impact on the Company’s consolidated results of operations, cash flows and financial condition in 2020 and potentially thereafter will be material, but cannot be reasonably estimated at this time."
-
-Step 2: Relevant numbers and figures provided in the discussion show significant decreases in operating revenues, net income, and Adjusted Property EBITDA for the three months ended September 30, 2020 compared to the same period in 2019. Specifically, "The decrease in operating revenues...driven by decreases of $582.5 million, $422.9 million, $212.8 million, and $59.1 million from Wynn Palace, Wynn Macau, our Las Vegas Operations, and Encore Boston Harbor, respectively."
-
-Step 3: The figures presented in Step 2 indicate a failed quarter with substantial losses in revenue and income. The closures of various operations due to the pandemic have contributed to the adverse financial impact. There is uncertainty regarding when operations will return to pre-pandemic levels, as stated, "...it is unknown when the COVID-19 pandemic will end, when or if our properties will return to pre-pandemic demand and pricing, when or how quickly the current travel restrictions will be modified."
-
-Final Decision: The company is classified as having a high risk of bankruptcy due to the pessimistic sentiment, significant decreases in operating revenues and income, and uncertainty surrounding the pandemic's impact on future operations and financial condition.

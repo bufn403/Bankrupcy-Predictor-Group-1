@@ -1,9 +1,0 @@
-Medium
-
-Step 1: The overall sentiment of the management discussion is cautious and realistic, acknowledging the negative impacts of the COVID-19 pandemic on their business operations. They mention decreases in new prescriptions, changes in patient visits, and potential pricing pressures due to the pandemic. Specifically stated, "Our consolidated operating results during the nine months ended September 30, 2020 were negatively impacted by the COVID-19 pandemic."
-
-Step 2: The company's financial results show mixed trends. While revenue increased primarily due to volume, operating expenses also increased, leading to a decrease in net income and EPS. These figures were also impacted by higher asset impairment charges. The statement, "Operating expenses...increased for the three and nine months ended September 30, 2020, primarily due to higher research and development and marketing expenses," reflects this.
-
-Step 3: The company acknowledges that the COVID-19 pandemic could continue to impact their future business operations, financial results, and liquidity. The uncertainty surrounding the duration and spread of the pandemic could lead to lower revenues, profitability, and delays in launching new medicines. They state, "The degree to which the COVID-19 pandemic will continue to impact our future business operations, financial results, and liquidity will depend on future developments, is highly uncertain, and cannot be predicted."
-
-Based on the cautious sentiment, mixed financial results, and uncertainty surrounding the future impact of the pandemic on their operations, the company is classified as having a medium risk of bankruptcy.

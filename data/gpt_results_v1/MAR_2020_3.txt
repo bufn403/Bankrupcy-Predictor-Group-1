@@ -1,9 +1,0 @@
-Medium
-
-Step 1: The sentiment in the management discussion is pessimistic, indicating a challenging outlook due to the impact of COVID-19 on the company's operations and financial results. For example, statements such as "the impact of COVID-19 to be material until at least beyond 2021" and "we expect the impact of COVID-19 to be material until at least beyond 2021" highlight the ongoing and significant challenges faced by the company.
-
-Step 2: The discussion includes figures that demonstrate a decline in performance, such as a decrease in revenue and profits across different segments. For instance, "North America quarterly profits decreased primarily due to $369 million of lower gross fee revenues," showing a substantial drop in profits.
-
-Step 3: The company's results for the 2020 third quarter and the first three quarters of the year have declined significantly compared to the previous year, largely attributed to the impact of COVID-19. The statement "Our results declined in the 2020 third quarter and the 2020 first three quarters compared to 2019, primarily due to the impact of COVID-19" emphasizes the negative trend in the company's performance.
-
-Step 4: Taking into account the overall pessimistic sentiment, the decrease in key financial figures, and the expectation that the impact of COVID-19 will persist beyond 2021, the company is classified as having a medium risk of bankruptcy. The persistent challenges posed by the pandemic on the company's financial health and operations suggest a significant level of risk, although there are also signs of adaptation and mitigation measures being implemented to address the situation.

@@ -1,9 +1,0 @@
-Medium
-Step 1: The overall sentiment of the management's discussion is cautious and pessimistic, considering the impact of the COVID-19 pandemic, lowered commodity prices, and potential regulatory changes post-election.
-Quote: "Recent Developments. The COVID-19 pandemic and the measures being taken to address and limit the spread of the virus have adversely affected the economies and financial markets of the world..." and "2020 Elections. On November 3, 2020, elections were held in the United States, including a presidential election. If there is a change of administration, certain actions may be pursued by the new administration..."
-Step 2: The company has adjusted its 2020 capital and operating plan to reduce activity, decrease capital expenditures, and lower crude oil production compared to the previous year, indicating financial strain.
-Quote: "In response to the current commodity price environment, EOG updated its 2020 capital and operating plan to reduce activity across its operating areas and decrease its total anticipated 2020 capital expenditures."
-Step 3: The operating revenues have significantly decreased in the third quarter of 2020, reflecting a challenging quarter for the company due to the decline in wellhead revenues, net losses on financial commodity derivative contracts, and lower gathering, processing, and marketing revenues.
-Quote: "During the third quarter of 2020, operating revenues decreased $2,058 million, or 48%, to $2,245 million from $4,303 million for the same period of 2019."
-Step 4: Considering the cautious sentiment, reduced capital expenditures, and significant decrease in operating revenues, the company is classified as having a medium risk of bankruptcy in the future.
-Conclusion: The company faces financial challenges due to external factors impacting its operations, but its strong balance sheet and strategic actions taken to maintain financial flexibility contribute to a medium risk assessment.

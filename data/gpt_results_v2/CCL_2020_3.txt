@@ -1,9 +1,0 @@
-High Risk
-
-Step 1: The overall sentiment in the management's discussion section is pessimistic. The company explicitly mentions the negative impacts of COVID-19 on their operations, financial results, and liquidity, emphasizing the uncertainty surrounding their ability to predict future outcomes.
-
-Step 2: The company provides figures regarding their financial position, such as the significant decline in total customer deposits balance, ongoing ship operating expenses reduction, and incremental COVID-19 related costs. These numbers reflect a challenging financial situation.
-
-Step 3: The company states that they have experienced essentially no revenue for the current period and lower revenues compared to the prior year. They also mention having incurred substantial impairment charges and operating losses due to COVID-19 effects, indicating a failed quarter.
-
-Step 4: Based on the pessimistic sentiment, challenging financial figures, and failed quarter results, coupled with uncertainties surrounding the complete return to service, sharp decline in revenue, and substantial impairment charges, the company is classified as having a high risk of bankruptcy in the future. The ongoing negative impacts on all aspects of their business and reduced cash burn rate do not present a positive outlook for their financial health. The company's extensive efforts to raise financing and preserve cash suggest they are struggling to maintain liquidity amidst persistent challenges.

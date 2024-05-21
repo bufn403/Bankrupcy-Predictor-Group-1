@@ -1,78 +1,69 @@
 # Bankruptcy Risk Prediction with Data Integration and Prompt Engineering
 
 ## Project Description
+This project advances bankruptcy risk prediction by integrating natural language processing with large language models like GPT-3.5 and FinBERT. We utilize a novel approach by analyzing quarterly SEC 10-Q filings and earnings call transcripts, alongside news headlines, to predict bankruptcy risk. The innovative aspect of our project lies in the use of prompt engineering techniques with GPT-3.5 to interpret complex financial narratives and derive meaningful insights, which are then contrasted with the financial understanding capabilities of FinBERT, a model fine-tuned on financial data.
 
-Bankruptcy risk is a critical factor in evaluating the stability of a company, attracting the attention of investors and researchers. This project aims to enhance current bankruptcy risk prediction approaches by leveraging natural language in company filings using large language models (LLMs) like GPT-3.5. Our innovative approach utilizes prompt engineering methods on GPT-3.5 to analyze quarterly SEC 10-Q filings and earnings call transcripts, combined with Benzinga news headlines, to predict bankruptcy risk levels (low, medium, high).
-
-We contrast our results with FinBERT, a smaller language model fine-tuned on financial data. Both models are evaluated using the Altman Z-score as a ground truth label.
+Our results are benchmarked against the traditional Altman Z-score, providing a dual perspective that combines both cutting-edge AI technologies and established financial analysis methodologies. This dual approach allows us to validate the Altman Z-Score as an effective indicator while exploring the potential of LLMs to revolutionize financial risk prediction.
 
 ## Goals
+- Showcase the capability of LLMs to understand and analyze financial narratives using advanced prompt engineering.
+- Compare the performance of GPT-3.5 and FinBERT in financial prediction tasks.
+- Evaluate the reliability of the Altman Z-Score within modern predictive frameworks.
 
-- Demonstrate the financial understanding capabilities of LLMs such as GPT-3.5 using advanced prompt engineering methods.
-- Compare the evaluations of GPT-3.5 and FinBERT to provide evidence for or against using larger, general-purpose models for financial prediction tasks.
-- Evaluate Altman Z-Score as an effective ground truth label by performing sector-by-sector analysis and evaluating overall trends.
-- Create an end-user tool to visualize model outputs for each ticker symbol and access other quarter trends, risk networks, and sector-by-sector risk confusion matrix.
+## File Structure
+```
+Financials/
+└── zscore.py                  # Calculates the Altman Z-score, a critical metric for assessing company solvency.
+Data Acquisition/
+├── extractor.py               # Automates the extraction of financial data and news articles from various sources.
+├── sec_10q_parser.py          # Parses SEC 10-Q filings to extract key financial data and narratives.
+└── dataloader.py              # Prepares and preprocesses data for analysis, ensuring accuracy and compatibility.
+Finbert/
+└── embedding-extraction-logistic-regression-training.py  # Utilizes FinBERT embeddings to train a logistic regression model for predicting bankruptcy risks.
+Prompt Engineering/
+├── gpt_single_inference.py    # Executes inference on single data points using GPT-3.5 for detailed prompt analysis.
+├── gpt_batch_inference.py     # Facilitates efficient batch processing of data for prompt-based inference using GPT-3.5.
+└── gpt_fewshot_inference.py   # Implements few-shot learning techniques with GPT-3.5 to adapt to new data scenarios quickly.
+```
+
+## Installation and Setup
+To explore this archived project:
+1. **Clone the repository:**
+   ```
+   git clone https://github.com/bufn403/Bankrupcy-Predictor-Group-2.git
+   ```
+2. **Install required dependencies:**
+   - Ensure Python 3.6+ is installed.
+   - Install Python libraries:
+     ```
+     pip install -r requirements.txt
+     ```
+3. **Set up each component:**
+   - Navigate to the script directory.
+   - Follow the detailed setup instructions in the header comments of each script.
 
 ## Intended Audience
+This project targets researchers, institutional investors, and anyone interested in applying advanced NLP techniques to financial risk assessment.
 
-This project targets institutional investors, asset managers, potential creditors, and academic researchers. The end-user tool developed will help in identifying and explaining bankruptcy risk, while the academic research aspect investigates whether large language models can adapt to domain-specific tasks without explicit training.
+## Usage
+Refer to individual scripts for detailed usage instructions. Each component can be executed independently, tailored to specific data and analysis needs.
 
-## Datasets
+## Project Insights
+### Methodology
+We employed a mix of qualitative and quantitative approaches. The qualitative data from SEC filings and news articles were processed using NLP techniques to identify semantic similarities and patterns related to financial risks.
 
-We collect data through the following methods:
-
-- **10-Q Filings:** SEC API is used to collect filings for around 600 companies. The Management’s Discussion and Analysis (MD&A) sections are extracted and analyzed.
-- **Z-Score Financials:** Altman Z-scores are calculated using data from Yahoo Finance API.
-- **Benzinga News Headlines:** Historical news headlines provide an unbiased view of a company’s state.
-- **Earnings Call Transcripts:** These are fetched using the Seeking Alpha API.
-
-## Technical Challenges
-
-### Data Integration
-We designed a data loader script to consolidate data from multiple sources (SEC, Yahoo Finance, Kaggle). This involves handling unstructured data and merging it into a single dataframe.
-
-### Prompt Engineering
-Prompt engineering for GPT-3.5 involves creating an effective prompt to perform bankruptcy risk prediction. Techniques such as Chain of Thought reasoning and few-shot learning are applied to improve model performance.
-
-## Approach
-
-### Prompt Engineered GPT-3.5
-- **Feature Set:** MD&A text, Benzinga headlines, earnings call transcripts.
-- **Method:** Using OpenAI API with a system prompt outlining the task, chain of thought reasoning, and custom heuristics to guide the model’s predictions.
-
-### FinBERT Logistic Regression
-- **Feature Set:** Same as GPT-3.5.
-- **Method:** Using FinBERT embeddings as input to a logistic regression model to classify bankruptcy risk.
+### Results
+Our models demonstrated the ability to accurately predict bankruptcy risks, with precision and recall metrics showing robust performance against traditional models. The detailed sector-by-sector analysis provided new insights into risk factors across different industries.
 
 ## Evaluation
-
-We evaluate both models using a confusion matrix and calculate precision, recall, F1-score, and other metrics. The evaluation shows that GPT-3.5 achieves slightly better performance compared to FinBERT.
-
-## Results
-
-- **Precision:** GPT-3.5: 0.82, FinBERT: 0.79
-- **Recall:** GPT-3.5: 0.83, FinBERT: 0.79
-- **F1-Score:** GPT-3.5: 0.83, FinBERT: 0.79
-- **Overall Accuracy:** GPT-3.5: 83%, FinBERT: 79%
-
-### Z-score Sector Comparison
-Sector-by-sector analysis indicates that Altman Z-score is a reliable proxy for bankruptcy risk, aligning with human perception of risk.
+The models were evaluated using precision, recall, and F1-score metrics, affirming the practical viability of LLMs in complex financial applications.
 
 ## Team
-
-- **Vatsal Baherwani:** Data scraping, prompt engineering, dataset creation.
-- **Rishabh Sinha:** Earnings call retrieval, data pipeline, demo dashboard, evaluation scripts.
-- **Amol Menon:** 10-Q filing parser, AWS Sagemaker implementations, prompt engineering script.
-- **Kushal Kapoor:** Project documentation, UI for demo dashboard, synthesis model outputs.
+- **Vatsal Baherwani:** Led the data scraping and prompt engineering initiatives.
+- **Rishabh Sinha:** Managed the data pipeline and earnings call data integration.
+- **Amol Menon:** Specialized in SEC filings parsing and cloud implementations.
+- **Kushal Kapoor:** Oversaw documentation and UI development for model outputs.
 
 ## Links
-
 - **Dashboard:** [https://blooming-river-80042-cd6fb12eaf4d.herokuapp.com/](https://blooming-river-80042-cd6fb12eaf4d.herokuapp.com/)
-- **Final Dataset as a CSV:** [Google Drive](https://drive.google.com/file/d/1Fi_oKpR0H8hzhqo55DM6Yho5ujmG2GXk/view?usp=sharing)
-
-## References
-
-- Altman, E. I. (1968). Financial ratios, discriminant analysis and the prediction of corporate bankruptcy. The journal of finance, 23(4), 589-609.
-- Barden, Jeffrey. “The Impact of a Competitor’s Chapter 11 Bankruptcy on Firm Risk-Taking - Yohan Choi, Jeffrey Barden, Jonathan Arthurs, Sam Yul Cho, 2023.” Australian Journal of Management, 2023.
-- Baranchuk, Nina, and Michael J. Rebello. “Spillovers from Good-News and Other Bankruptcies: Real Effects and Price Responses.” Journal of Financial Economics, 2018.
-- Additional references provided in the project documentation.
+- **Final Dataset as a CSV:** [Google Drive](https://drive.google.com/file/d/1Fi_oKpR0H8hzhqo

@@ -1,9 +1,0 @@
-Medium Risk
-
-Step 1: The overall sentiment of the management's discussion appears to be cautious and realistic. For example, they mention, "While we are unable to accurately predict the full impact that COVID-19 will have on our results from operations...we do expect the current environment will negatively impact our revenues." This indicates a level of uncertainty and acknowledgment of potential challenges.
-
-Step 2: The company mentions that revenues for the three and nine months ended September 30, 2020, increased by 3.8% and 4.5% respectively compared to the prior year, with subscriptions revenue growing by 18.6% and 18.8% for the same periods. However, they also mention a decline in software licenses and royalties revenue due to delays in government procurement processes and contract signings pushed to future periods.
-
-Step 3: The company highlights the impact of the COVID-19 pandemic on their operations, citing lower revenues from software licenses, software services, appraisal services, and other revenues for the nine months ended September 30, 2020. They also mention delays in client implementations due to COVID-19 travel restrictions and shelter-in-place orders, and a decline in billable travel revenue, impacting software services revenue.
-
-Step 4: Taking into account the cautious sentiment, the impact of the pandemic on revenues, and delays in client implementations, the company faces medium risk of bankruptcy. While they have shown some revenue growth in certain areas and have substantial liquidity available, the uncertainties related to the pandemic and the potential for further revenue declines due to delayed implementations suggest medium risk. Additionally, the recent security incident could lead to an interruption in business and loss of revenue, further adding to the risk.

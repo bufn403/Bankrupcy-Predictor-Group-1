@@ -1,9 +1,0 @@
-Medium
-
-Step 1: The overall sentiment in the management's discussion is somewhat optimistic, highlighting positive aspects of the company's performance, such as FPL's increase in net income and Gulf Power's improved results. However, there are also mentions of unfavorable activities like NEER's decreased results due to non-qualifying hedge activity.
-
-Step 2: The financial figures provided indicate mixed results. For example, net income attributable to NEE for the three and nine months ended September 30, 2020, was higher compared to the prior year, driven by higher results at FPL, Corporate and Other, and Gulf Power, partially offset by lower results at NEER. This suggests some areas of the company are performing well while others face challenges.
-
-Step 3: NEER's results show both positive and negative changes. The decrease in NEER's results is attributed to unfavorable non-qualifying hedge activity, offset by favorable changes in the fair value of equity securities and gains on new investments. The mention of adverse hedge activity and lower results raises concerns about the company's financial stability. However, the improved results in other segments somewhat mitigate this risk.
-
-Step 4: Considering the mixed performance across segments and the negative impact of non-qualifying hedge activity on NEER, there is a medium risk of bankruptcy. While some areas like FPL and Gulf Power show improvements, the challenges faced by NEER and the warning on difficulties in period-to-period comparisons due to adjusted earnings raise concerns about the overall financial health of the company. Additionally, the reliance on access to credit and capital markets for liquidity underscores potential financial vulnerabilities, contributing to the assessment of medium risk.

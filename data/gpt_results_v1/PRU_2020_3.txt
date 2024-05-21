@@ -1,9 +1,0 @@
-Medium
-
-Step 1: The sentiment in the management's discussion section is cautious and acknowledges the challenges posed by the COVID-19 pandemic. The company highlights the impacts of the pandemic on its operations and financial results. For example, "The COVID-19 pandemic has adversely impacted our results of operations, financial position, investment portfolio, new business opportunities and operations, and these impacts are expected to continue."
-
-Step 2: The company reports specific figures related to its financial performance, such as reporting a net gain of $1,487 million for the three months ended September 30, 2020, but also a net loss of $(1,193) million for the nine months ended September 30, 2020. This shows a fluctuating financial situation which can indicate potential instability.
-
-Step 3: The discussion mentions various segments being impacted differently. For example, the Retirement business is impacted by account values affected by market movements and the CARES Act, while the Group Insurance business faces increased life insurance claims due to COVID-19. The Individual Solutions segment also expects impacts from elevated mortality and capital market movements, leading to actions like product suspensions and pivot to less rate-sensitive products.
-
-Considering these factors, the company faces significant challenges due to the ongoing pandemic affecting different segments of its operations. The fluctuating financial results and the specific impacts mentioned within different business segments indicate a medium risk of bankruptcy as the company navigates through these uncertain times and financial challenges. A proactive approach to managing costs and liquidity suggests a level of preparedness but the overall situation remains precarious.

@@ -1,9 +1,0 @@
-High
-
-Step 1: The sentiment in the management's discussion section is cautiously pessimistic. The document mentions various risks and uncertainties, including the adverse impact of the COVID-19 pandemic, potential decreases in revenue due to regulatory changes, and the unpredictability of the effects of Brexit. The tone is more on the side of highlighting challenges and risks rather than opportunities or successes.
-
-Step 2: Relevant numbers and figures provided in the discussion include the impact of the COVID-19 pandemic on the company's financial performance in 2020. The text specifically states, "We are not able to fully quantify the impact that these factors will have on our future financial results, but expect developments related to the COVID-19 pandemic to materially affect our financial performance in 2020." This uncertainty about the financial impact of the pandemic suggests potential financial struggles.
-
-Step 3: The discussion warns about potential adverse effects from factors such as the COVID-19 pandemic, changes in healthcare laws and regulations, reimbursement challenges, cybersecurity threats, and shifts in market dynamics. It mentions that the ultimate impact of the pandemic is highly uncertain and subject to change, indicating a possible worsening of conditions in the future.
-
-Based on the cautious and uncertain tone of the management's discussion, the acknowledgment of significant risks and uncertainties, and the potential negative impacts outlined in the filing, the company is classified as having a high risk of bankruptcy.

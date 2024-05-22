@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Data Viewer</title>
+    <style>
+        body, html {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1e1e1e;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+        }
+        .search-section {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            background-color: #2b2b2b;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .search-section input[type="text"] {
+            padding: 10px;
+            margin-right: 8px;
+            width: 300px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            background-color: #444;
+            color: white;
+        }
+        .search-section button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #007BFF;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+        .search-section button:hover {
+            background-color: #0056b3;
+        }
+        .grid-container {
+            margin: 0.5rem;
+        }
+        .main-content {
+            display: flex;
+            width: 95%;
+            height: calc(100% - 120px); /* Adjust height considering the search-section and margins */
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+        .grid-section, .chart-section {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            box-sizing: border-box;
+            background-color: #2b2b2b;
+        }
+        .tab {
+            overflow: hidden;
+            border: 1px solid #444;
+            background-color: #333;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+        }
+        .tab button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+            color: white;
+            border-radius: 8px;
+        }
+        .tab button:hover {
+            background-color: #444;
+        }
+        .tab button.active {
+            background-color: #555;
+        }
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid #444;
+            border-top: none;
+            background-color: #333;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+            border-radius: 8px;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+        .grid-item {
+            background-color: #444;
+            padding: 10px;
+            border-left: 5px solid #007BFF;
+            border-radius: 8px;
+            height: 100px; /* Set a fixed height for each grid item */
+            overflow-y: auto; /* Enable vertical scrolling */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            position: relative; /* Add relative positioning for close button */
+        }
+        .grid-item.expanded {
+            margin-top: 7rem;
+            margin-left: 3rem;
+            height: 90%;
+            width: 45%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 10;
+            overflow-y: auto;
+            border-radius: 8px;
+            background-color: #444;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .close-btn {
+            display: none;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #ff5c5c;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 25px;
+            height: 25px;
+            cursor: pointer;
+            z-index: 2;
+        }
+        .close-btn:hover {
+            background-color: #ff1c1c;
+        }
+        .grid-item.expanded .close-btn {
+            display: block;
+        }
+        .low {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: green;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .medium {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: yellow;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .high {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: red;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 400px;
+            width: 100%;
+            border-radius: 8px;
+            background-color: #333;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+        }
+        /* CSS to center iframe content and zoom out */
+        iframe {
+            overflow: hidden;
+        }
+        iframe::before {
+            content: "";
+            display: inline-block;
+            height: 100%;
+            vertical-align: middle;
+        }
+        iframe > * {
+            display: inline-block;
+            vertical-align: middle;
+            transform: scale(0.5); /* Zoom out by 50% */
+            transform-origin: 0 0;
+        }
+    </style>
+</head>
+
+<body>
+<div class="search-section">
+    <input type="text" id="tickerInput" placeholder="Enter a ticker..." autofocus>
+    <button onclick="fetchData()">Search</button>
+</div>
+<div class="main-content">
+    <div class="grid-section">
+        <div class="tab">
+            <button class="tablinks" onclick="openQuarter(event, 'Q1')">Q1</button>
+            <button class="tablinks" onclick="openQuarter(event, 'Q2')">Q2</button>
+            <button class="tablinks" onclick="openQuarter(event, 'Q3')">Q3</button>
+        </div>
+        <div id="Q1" class="tabcontent">
+            <div class="grid-container" id="grid1-Q1"></div>
+            <div class="grid-container" id="grid2-Q1"></div>
+            <div class="grid-container" id="grid3-Q1"></div>
+        </div>
+        <div id="Q2" class="tabcontent">
+            <div class="grid-container" id="grid1-Q2"></div>
+            <div class="grid-container" id="grid2-Q2"></div>
+            <div class="grid-container" id="grid3-Q2"></div>
+        </div>
+        <div id="Q3" class="tabcontent">
+            <div class="grid-container" id="grid1-Q3"></div>
+            <div class="grid-container" id="grid2-Q3"></div>
+            <div class="grid-container" id="grid3-Q3"></div>
+        </div>
+    </div>
+    <div class="chart-section">
+        <div class="chart-container" id="chart-Q1"></div>
+        <div class="chart-container" id="chart-Q2"></div>
+        <div class="chart-container" id="chart-Q3"></div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    function openQuarter(evt, quarterNumber) {
+        var i, tabcontent, tablinks;
+
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        document.getElementById(quarterNumber).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    async function fetchData() {
+        const ticker = document.getElementById('tickerInput').value;
+        if (!ticker) return;
+
+        try {
+            const response = await fetch(`/data/${ticker}`);
+            const data = await response.json();
+
+            ['Q1', 'Q2', 'Q3'].forEach(quarter => {
+                document.getElementById(`grid1-${quarter}`).innerHTML = '';
+                document.getElementById(`grid2-${quarter}`).innerHTML = '';
+                document.getElementById(`grid3-${quarter}`).innerHTML = '';
+                document.getElementById(`chart-${quarter}`).innerHTML = '<canvas id="canvas-' + quarter + '"></canvas>';
+            });
+
+            if (data.length > 0) {
+                const item = data[0]; // Assuming we are only working with the first item
+                var riskLevel = item['Risk_Level'].toLowerCase();
+                var graphFile = 'medium_risk_network_graph.html';
+                switch (riskLevel) {
+                    case 'low':
+                        graphFile = 'low_risk_network_graph.html';
+                        break;
+                    case 'medium':
+                        graphFile = 'medium_risk_network_graph.html';
+                        break;
+                    case 'high':
+                        graphFile = 'high_risk_network_graph.html';
+                        break;
+                    default:
+                        graphFile = '';
+                }
+
+                // Embed the network graph
+                document.getElementById('chart-Q2').innerHTML = `<iframe src="${graphFile}" width="100%" height="400px" frameborder="0" class="chart-item"></iframe>`;
+                document.getElementById('chart-Q3').innerHTML = `<iframe src="sector_confusion_matrix.html" width="100%" height="400px" frameborder="0" class="chart-item"></iframe>`;
+                data.forEach(item => {
+                    const quarter = `Q${item.Quarter}`;
+                    const grid1 = document.getElementById(`grid1-${quarter}`);
+                    const grid2 = document.getElementById(`grid2-${quarter}`);
+                    const grid3 = document.getElementById(`grid3-${quarter}`);
+
+                    // Grid 1 - Risk related items
+                    grid1.innerHTML += `<div class="grid-item" onclick="expandItem(event, this)"><strong>Risk Level:</strong><div class="prediction-item ${item['Risk_Level'].toLowerCase()}">${item['Risk_Level']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`;
+                    grid1.innerHTML += `<div class="grid-item" onclick="expandItem(event, this)"><strong>FinBERT Risk Prediction:</strong><div class="prediction-item ${item['FinBERT_Risk_Prediction'].toLowerCase()}">${item['FinBERT_Risk_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`;
+                    grid1.innerHTML += `<div class="grid-item" onclick="expandItem(event, this)"><strong>GPT Risk Prediction:</strong><div class="prediction-item ${item['GPT_Risk_Prediction'].toLowerCase()}">${item['GPT_Risk_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`;
+                    grid1.innerHTML += `<div class="grid-item" onclick="expandItem(event, this)"><strong>Ensemble Risk Prediction:</strong><div class="prediction-item ${item['Ensemble_Risk_Prediction'].toLowerCase()}">${item['Ensemble_Risk_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`;
+
+                    // Arrays for chart data
+                    const quarters = ['Q1', 'Q2', 'Q3'];
+                    const mdSentiments = [], headlineSentiments = [], earningsSentiments = [];
+                    quarters.forEach(q => {
+                        const qData = data.find(d => d.Quarter === parseInt(q.slice(1)));
+                        if (qData) {
+                            mdSentiments.push(qData['MD&A Sentiment Score']);
+                            headlineSentiments.push(qData['Headline Sentiment Score']);
+                            earningsSentiments.push(qData['Earnings Call Sentiment Score']);
+                        } else {
+                            mdSentiments.push(null);
+                            headlineSentiments.push(null);
+                            earningsSentiments.push(null);
+                        }
+                    });
+
+                    // Render chart
+                    renderChart(`canvas-${quarter}`, quarters, mdSentiments, headlineSentiments, earningsSentiments);
+
+                    // Remaining items divided into Grid 2 and Grid 3
+                    const remainingItems = [
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Management Discussion:</strong><div>${item['Management Discussion']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Headlines:</strong><div>${item.Headlines}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>MD&A Sentiment Score:</strong><div>${item['MD&A Sentiment Score']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Headline Sentiment Score:</strong><div>${item['Headline Sentiment Score']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Earnings Call Sentiment Score:</strong><div>${item['Earnings Call Sentiment Score']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Sector:</strong><div>${item.Sector}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Total Assets:</strong><div>${item['Total Assets']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Total Liabilities:</strong><div>${item['Total Liabilities']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Working Capital:</strong><div>${item['Working Capital']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Retained Earnings:</strong><div>${item['Retained Earnings']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>EBIT:</strong><div>${item.EBIT}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Market Capitalization:</strong><div>${item['Market Capitalization']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>Sales:</strong><div>${item.Sales}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>GPT Reason:</strong><div>${item['GPT_Reason']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>RandomForest Prediction:</strong><div class="prediction-item ${item['RandomForest_Prediction'].toLowerCase()}">${item['RandomForest_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>GradientBoosting Prediction:</strong><div class="prediction-item ${item['GradientBoosting_Prediction'].toLowerCase()}">${item['GradientBoosting_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>XGBoost Prediction:</strong><div class="prediction-item ${item['XGBoost_Prediction'].toLowerCase()}">${item['XGBoost_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>LogisticRegression Prediction:</strong><div class="prediction-item ${item['LogisticRegression_Prediction'].toLowerCase()}">${item['LogisticRegression_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`,
+                        `<div class="grid-item" onclick="expandItem(event, this)"><strong>KNeighbors Prediction:</strong><div class="prediction-item ${item['KNeighbors_Prediction'].toLowerCase()}">${item['KNeighbors_Prediction']}</div><button class="close-btn" onclick="collapseItem(event, this)">X</button></div>`
+                    ];
+
+                    // Divide the remaining items evenly between Grid 2 and Grid 3
+                    const half = Math.ceil(remainingItems.length / 2);
+                    remainingItems.slice(0, half).forEach(line => {
+                        grid2.innerHTML += line;
+                    });
+                    remainingItems.slice(half).forEach(line => {
+                        grid3.innerHTML += line;
+                    });
+
+                    grid1.parentElement.style.display = 'block';
+                    grid2.parentElement.style.display = 'block';
+                    grid3.parentElement.style.display = 'block';
+                });
+                document.querySelector('.tablinks:not(.active)').click();
+            } else {
+                document.getElementById('Q1').querySelector('.grid-container').innerHTML = '<div>No data found for the entered ticker.</div>';
+                document.getElementById('Q1').style.display = 'block';
+            }
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
+
+        if (document.querySelector('.tablinks')) {
+            document.querySelector('.tablinks').click();
+        }
+    }
+
+    function renderChart(canvasId, labels, mdData, headlineData, earningsData) {
+        const ctx = document.getElementById(canvasId)?.getContext('2d');
+        if (ctx) {
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'MD&A Sentiment Score',
+                            data: mdData,
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            fill: false
+                        },
+                        {
+                            label: 'Headline Sentiment Score',
+                            data: headlineData,
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            fill: false
+                        },
+                        {
+                            label: 'Earnings Call Sentiment Score',
+                            data: earningsData,
+                            borderColor: 'rgba(255, 206, 86, 1)',
+                            backgroundColor: 'rgba(255, 206, 86, 0.2)',
+                            fill: false
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Quarter'
+                            }
+                        },
+                        y: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Sentiment Score'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    }
+
+    function renderPieChart(canvasId, sectorData) {
+        const ctx = document.getElementById(canvasId)?.getContext('2d');
+        if (ctx) {
+            new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: ['Low', 'Medium', 'High'],
+                    datasets: [{
+                        label: 'Risk Level Distribution',
+                        data: [sectorData.low, sectorData.medium, sectorData.high],
+                        backgroundColor: [
+                            'rgba(0, 128, 0, 0.7)',
+                            'rgba(255, 255, 0, 0.7)',
+                            'rgba(255, 0, 0, 0.7)'
+                        ],
+                        borderColor: [
+                            'rgba(0, 128, 0, 1)',
+                            'rgba(255, 255, 0, 1)',
+                            'rgba(255, 0, 0, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true
+                }
+            });
+        }
+    }
+
+    function embedNetworkGraph(riskLevel) {
+        let graphFile;
+        switch (riskLevel) {
+            case 'Low':
+                graphFile = 'low_risk_network_graph.html';
+                break;
+            case 'Medium':
+                graphFile = 'medium_risk_network_graph.html';
+                break;
+            case 'High':
+                graphFile = 'high_risk_network_graph.html';
+                break;
+            default:
+                graphFile = '';
+        }
+        return graphFile;
+    }
+
+    function expandItem(event, item) {
+        event.stopPropagation();
+        item.classList.add('expanded');
+        const closeBtn = item.querySelector('.close-btn');
+        if (closeBtn) {
+            closeBtn.style.display = 'block';
+        }
+    }
+
+    function collapseItem(event, button) {
+        event.stopPropagation();
+        const item = button.parentElement;
+        item.classList.remove('expanded');
+        button.style.display = 'none';
+    }
+
+    function expandChart(event) {
+        console.log("ExpandChart Triggered");
+        const chartItem = event.currentTarget;
+        chartItem.classList.add('expanded');
+        chartItem.style.width = '90%';
+        chartItem.style.height = '80vh';
+        const closeBtn = document.createElement('button');
+        closeBtn.classList.add('close-btn');
+        closeBtn.textContent = 'X';
+        closeBtn.onclick = function(event) {
+            collapseChart(event, chartItem, closeBtn);
+        };
+        chartItem.parentElement.appendChild(closeBtn);
+    }
+
+    function collapseChart(event, chartItem, closeBtn) {
+        console.log("CollapseChart Triggered");
+        chartItem.classList.remove('expanded');
+        chartItem.style.width = '100%';
+        chartItem.style.height = '400px';
+        closeBtn.remove();
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        document.querySelector('.tablinks').click();
+    });
+
+    // Attach event listeners to chart containers after the DOM content is loaded
+    document.addEventListener('DOMContentLoaded', function () {
+        document.getElementById('chart-Q2').addEventListener('click', expandChart);
+    });
+</script>
+</body>
+</html>

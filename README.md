@@ -10,7 +10,7 @@ Our results are benchmarked against the traditional Altman Z-score, providing a 
 - Compare the performance of GPT-3.5 and FinBERT in financial prediction tasks.
 - Evaluate the reliability of the Altman Z-Score within modern predictive frameworks.
 
-## File Structure
+## File Structure in src
 ```
 Financials/
 └── zscore.py                  # Calculates the Altman Z-score, a critical metric for assessing company solvency.

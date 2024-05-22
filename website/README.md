@@ -40,7 +40,7 @@ BUFN403_Capstone_UI_Prod
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/DevRishabhSinha/BUFN403_Capstone_Project_Dashboard.git
+    git clone https://github.com/bufn403/Bankrupcy-Predictor-Group-1.git
     cd BUFN403_Capstone_UI_Prod
     ```
 

@@ -39,7 +39,7 @@ This script is designed to perform sentiment analysis on financial management di
 """
 
 
-df = pd.read_csv('/Users/a12345/Desktop/fake_final_management_discussions_2020.csv')
+df = pd.read_csv('final_dataframe_5_20.csv')
 print("Initial DataFrame shape:", df.shape)
 df.dropna(subset=['Management Discussion', 'score'], inplace=True)
 print("DataFrame shape after dropping NA:", df.shape)
@@ -51,7 +51,7 @@ def prepare_labels(z_scores):
 labels = prepare_labels(df['score'])
 
 train_texts, test_texts, train_labels, test_labels = train_test_split(
-    df['Management Discussion'], labels, test_size=0.2, random_state=42)
+    df['Management Discussion'], labels, test_size=0.4, random_state=42)
 train_texts.reset_index(drop=True, inplace=True)
 train_labels.reset_index(drop=True, inplace=True)
 test_texts.reset_index(drop=True, inplace=True)
